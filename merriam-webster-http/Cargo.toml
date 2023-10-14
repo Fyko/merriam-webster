@@ -1,0 +1,33 @@
+[package]
+name = "merriam-webster-http"
+description = "An HTTP client for the Merriam Webster's Dictionary API"
+version.workspace = true
+edition.workspace = true
+homepage.workspace = true
+repository.workspace = true
+categories.workspace = true
+keywords.workspace = true
+license.workspace = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hyper = { default-features = false, features = ["client", "http1", "http2", "runtime"], version = "0.14" }
+hyper-rustls = { default-features = false, optional = true, features = ["http1", "http2"], version = "0.24" }
+hyper-tls = { default-features = false, optional = true, version = "0.5" }
+hyper-trust-dns = { default-features = false, optional = true, version = "0.5" }
+merriam-webster-model = { path = "../merriam-webster-model", version = "0.1.0" }
+secrecy = "0.8.0"
+serde.workspace = true
+serde_json = { default-features = false, features = ["std"], version = "1" }
+thiserror = "1"
+
+[features]
+default = ["rustls-native-roots"]
+native = ["dep:hyper-tls"]
+rustls-native-roots = ["dep:hyper-rustls", "hyper-rustls?/native-tokio"]
+rustls-webpki-roots = ["dep:hyper-rustls", "hyper-rustls?/webpki-tokio"]
+trust-dns = ["dep:hyper-trust-dns"]
+
+[dev-dependencies]
+tokio = { version = "1", default-features = false, features = ["rt-multi-thread", "test-util", "macros"] }
