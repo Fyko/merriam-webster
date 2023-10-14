@@ -1,0 +1,16 @@
+[package]
+name = "merriam-webster-transformers"
+version = "0.1.0-alpha"
+description = "Parsers and transformers for non-standard text markup in Merriam-Webster's Collegiate Dictionary API"
+edition.workspace = true
+homepage.workspace = true
+repository.workspace = true
+categories = ["api-bindings", "parser-implementations"]
+keywords.workspace = true
+license.workspace = true
+authors.workspace = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nom = "7"

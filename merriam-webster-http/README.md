@@ -22,7 +22,7 @@ async fn main() -> anyhow::Result<()> {
         .collegiate_definition("documentation".to_string())
         .await?;
     let def = defs.first()
-        .expect(format!("No definition found for {}", word).as_str());
+       .unwrap_or_else(|| panic!("No definition found for {}", word));
     let shortdefs = def.shortdef.as_ref().unwrap();
 
     println!("Short definitions for 'documentation': {shortdefs:#?}");
