@@ -1,0 +1,1031 @@
+[
+  {
+    "meta": {
+      "id": "joint:1",
+      "uuid": "c2eb8d7c-ebcd-412b-bdec-9566e0c265a9",
+      "sort": "100049400",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "joint",
+        "jointed",
+        "jointedly",
+        "jointedness",
+        "jointednesses",
+        "joints",
+        "out of joint"
+      ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "joint",
+      "prs": [
+        {
+          "mw": "ˈjȯint",
+          "sound": {
+            "audio": "joint001",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "ins": [
+      {
+        "il": "plural",
+        "if": "joints"
+      }
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "pseq",
+              [
+                [
+                  "sense",
+                  {
+                    "sn": "1 a (1)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}the point of contact between elements of an animal {d_link|skeleton|skeleton:1} with the parts that surround and support it "
+                      ],
+                      [
+                        "vis",
+                        [
+                          {
+                            "t": "the hip {wi}joint{/wi}"
+                          }
+                        ]
+                      ]
+                    ]
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "(2)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}{sx|node||5b}"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a part or space included between two {d_link|articulations|articulation}, knots, or nodes"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a place where two things or parts are {a_link|joined} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a {wi}joint{/wi} between two pieces of timber"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a space between the adjacent surfaces of two bodies (such as bricks) joined and held together (as by cement or mortar)"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "c",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a fracture or crack in rock not accompanied by dislocation"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "d",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the flexing part of a cover along either spine edge of a book"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "e",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the junction of two or more members of a framed structure"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "f",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a union formed by two {d_link|abutting|abut} rails in a track including the elements (such as bars and bolts) necessary to hold the abutting rails together"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "g",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}an area at which two ends, surfaces, or edges are attached"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a shabby or disreputable place of entertainment "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a cheap {wi}joint{/wi}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|place||}, {sx|establishment||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a hamburger {wi}joint{/wi}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "c",
+                "sls": [
+                  "slang"
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|prison||2} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "spent five years in the {wi}joint{/wi}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "4",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a marijuana cigarette "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "smoking a {wi}joint{/wi}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "5",
+                "sls": [
+                  "chiefly British"
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a large piece of meat for roasting "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a {wi}joint{/wi} of beef"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "joint*ed",
+        "prs": [
+          {
+            "mw": "ˈjȯin-təd",
+            "sound": {
+              "audio": "joint002",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "adjective"
+      },
+      {
+        "ure": "joint*ed*ly",
+        "fl": "adverb"
+      },
+      {
+        "ure": "joint*ed*ness",
+        "fl": "noun"
+      }
+    ],
+    "dros": [
+      {
+        "drp": "out of joint",
+        "def": [
+          {
+            "sseq": [
+              [
+                [
+                  "sense",
+                  {
+                    "sn": "1 a",
+                    "sls": [
+                      "of a bone"
+                    ],
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}having the head slipped from its socket"
+                      ]
+                    ]
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "b",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}at variance"
+                      ]
+                    ]
+                  }
+                ]
+              ],
+              [
+                [
+                  "sense",
+                  {
+                    "sn": "2 a",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}{sx|disordered||2a}"
+                      ]
+                    ]
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "b",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}being out of humor {bc}{sx|dissatisfied||} "
+                      ],
+                      [
+                        "vis",
+                        [
+                          {
+                            "t": "losing put him {it}out of joint{/it}"
+                          }
+                        ]
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English {it}jointe{/it}, from Anglo-French, from {it}joindre{/it} {dx_ety}see {dxt|join:1||}{/dx_ety}"
+      ]
+    ],
+    "date": "13th century{ds||1|a|1}",
+    "shortdef": [
+      "the point of contact between elements of an animal skeleton with the parts that surround and support it",
+      "node",
+      "a part or space included between two articulations, knots, or nodes"
+    ]
+  },
+  {
+    "meta": {
+      "id": "joint:2",
+      "uuid": "dbede6cd-7f0d-41b9-92d1-26d8dd59ab1c",
+      "sort": "100049500",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "joint",
+        "jointly"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "joint"
+    },
+    "fl": "adjective",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|united||}, {sx|combined||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "the {wi}joint{/wi} influences of culture and climate"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}united, {a_link|joined}, or sharing with another (as in a right or status) "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "{wi}joint{/wi} heirs"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "4",
+                "sls": [
+                  "mathematics"
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}being a {d_link|function|function:1} of or involving two or more variables and especially {d_link|random variables|random variable} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a {wi}joint{/wi} probability density function"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "joint*ly",
+        "fl": "adverb"
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English, from Anglo-French, from past participle of {it}joindre{/it} {dx_ety}see {dxt|join:1||}{/dx_ety}"
+      ]
+    ],
+    "date": "14th century{ds||1||}",
+    "shortdef": [
+      "united, combined",
+      "common to two or more: such as",
+      "involving the united activity of two or more"
+    ]
+  },
+  {
+    "meta": {
+      "id": "joint:3",
+      "uuid": "70ac85f9-d227-406a-a582-134066e9607d",
+      "sort": "100049600",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "joint",
+        "jointed",
+        "jointing",
+        "joints"
+      ],
+      "offensive": false
+    },
+    "hom": 3,
+    "hwi": {
+      "hw": "joint"
+    },
+    "fl": "verb",
+    "ins": [
+      {
+        "if": "joint*ed"
+      },
+      {
+        "if": "joint*ing"
+      },
+      {
+        "if": "joints"
+      }
+    ],
+    "def": [
+      {
+        "vd": "transitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to unite by a joint {bc}fit together "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "{wi}joint{/wi} two boards"
+                      },
+                      {
+                        "t": "her elbows and shoulders are {wi}jointed{/wi} wrong",
+                        "aq": {
+                          "source": "{it}Irish Digest{/it}"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to provide with a joint {bc}{sx|articulate||}"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "c",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to prepare (something, such as a board) for joining by {d_link|planing|plane:2} the edge"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to separate the joints of "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "{wi}joint{/wi} a piece of meat"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "vd": "intransitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to fit as if by joints "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "the stones {wi}joint{/wi} neatly"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to form joints as a stage in growth "
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "used especially of small grains"
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "{et_link|joint:1|joint:1}"
+      ]
+    ],
+    "date": "1530{ds|t|2||}",
+    "shortdef": [
+      "to unite by a joint : fit together",
+      "to provide with a joint : articulate",
+      "to prepare (something, such as a board) for joining by planing the edge"
+    ]
+  },
+  {
+    "meta": {
+      "id": "Joint Chiefs of Staff",
+      "uuid": "0f7e4426-bf6c-4dfe-a4f6-f38ab47ce708",
+      "sort": "100049700",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "Joint Chiefs of Staff"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "Joint Chiefs of Staff"
+    },
+    "fl": "noun phrase",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a military advisory group composed of the chiefs of staff of the army and air force, the chief of naval operations, and sometimes the commandant of the marine corps"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1943",
+    "shortdef": [
+      "a military advisory group composed of the chiefs of staff of the army and air force, the chief of naval operations, and sometimes the commandant of the marine corps"
+    ]
+  },
+  {
+    "meta": {
+      "id": "joint compound",
+      "uuid": "b8b66794-a7f9-44f0-9595-0d6a419656e5",
+      "sort": "100049800",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "joint compound"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "joint compound"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a compound made of gypsum, clay, and latex resin that is used to seal wall joints or fill shallow holes"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1954",
+    "shortdef": [
+      "a compound made of gypsum, clay, and latex resin that is used to seal wall joints or fill shallow holes"
+    ]
+  },
+  {
+    "meta": {
+      "id": "joint resolution",
+      "uuid": "940a366d-9149-46b6-b820-fbdde8ab082d",
+      "sort": "100050000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "joint resolution",
+        "joint resolutions"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "joint resolution"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a resolution passed by both houses of a legislative body that has the force of law when signed by or passed over the veto of the executive"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1838",
+    "shortdef": [
+      "a resolution passed by both houses of a legislative body that has the force of law when signed by or passed over the veto of the executive"
+    ]
+  },
+  {
+    "meta": {
+      "id": "joint-stock company",
+      "uuid": "840c6c19-c770-4403-88e6-d46aae743cc7",
+      "sort": "100050200",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "joint-stock companies",
+        "joint-stock company"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "joint-stock company"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a company or association consisting of individuals organized to conduct a business for gain and having a joint stock of capital represented by shares owned individually by the members and transferable without the consent of the group"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1776",
+    "shortdef": [
+      "a company or association consisting of individuals organized to conduct a business for gain and having a joint stock of capital represented by shares owned individually by the members and transferable without the consent of the group"
+    ]
+  },
+  {
+    "meta": {
+      "id": "joint account",
+      "uuid": "8d22787b-3431-4783-bcd8-8256e5d1efd9",
+      "sort": "3010262000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [
+        "joint account"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "joint account"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}an account (as in a bank) that more than one person can use "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "My wife and I keep our money in a {it}joint account{/it}."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "an account (as in a bank) that more than one person can use"
+    ]
+  },
+  {
+    "meta": {
+      "id": "joint custody",
+      "uuid": "5e6455b7-4c28-4c53-9a90-a56efb30d484",
+      "sort": "3010264000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [
+        "joint custody"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "joint custody"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}custody (the legal right to take care of a child) shared by two people "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "The divorced parents have {it}joint custody{/it}."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "custody (the legal right to take care of a child) shared by two people"
+    ]
+  },
+  {
+    "meta": {
+      "id": "ball-and-socket joint",
+      "uuid": "cacbc773-a395-4c58-8bff-772c06313768",
+      "sort": "020035900",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "ball-and-socket joint",
+        "ball-and-socket joints"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "ball-and-sock*et joint",
+      "prs": [
+        {
+          "mw": "ˈbȯl-ən(d)-ˈsä-kət-",
+          "sound": {
+            "audio": "ball-and-socket",
+            "ref": "owl",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a joint in which a ball moves within a socket so as to allow rotary motion in every direction within certain limits"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}an articulation (such as the hip joint) in which the rounded head of one bone fits into a cuplike cavity of the other and admits movement in any direction"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "art": {
+      "artid": "ballsock",
+      "capt": "ball-and-socket joint 1"
+    },
+    "date": "1779{ds||1||}",
+    "shortdef": [
+      "a joint in which a ball moves within a socket so as to allow rotary motion in every direction within certain limits",
+      "an articulation (such as the hip joint) in which the rounded head of one bone fits into a cuplike cavity of the other and admits movement in any direction"
+    ]
+  }
+]

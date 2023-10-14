@@ -1,0 +1,399 @@
+[
+  {
+    "meta": {
+      "id": "dude:1",
+      "uuid": "66ce282c-3ebd-453e-878c-31891da69d08",
+      "sort": "044252000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "dude",
+        "dudes",
+        "dudish",
+        "dudishly"
+      ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "dude",
+      "prs": [
+        {
+          "mw": "ˈdüd",
+          "sound": {
+            "audio": "dude0001",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "l": "also",
+          "mw": "ˈdyüd"
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a man extremely {d_link|fastidious|fastidious} in dress and manner {bc}{sx|dandy||}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a city dweller unfamiliar with life on the range {dx_def}see {dxt|range:1||3b}{/dx_def}"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an Easterner in the West"
+                    ]
+                  ]
+                }
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "sls": [
+                  "informal"
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|fellow||}, {sx|guy||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "The other girls in the program never go out, so I always find myself out with {wi}dudes{/wi} from my program.",
+                        "aq": {
+                          "source": "{it}Cosmopolitan{/it}"
+                        }
+                      }
+                    ]
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "sometimes used as a term of address "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Hey, {wi}dude{/wi}, what's up?"
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "dud*ish",
+        "prs": [
+          {
+            "mw": "ˈd(y)üd-ish",
+            "sound": {
+              "audio": "dude0002",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "adjective"
+      },
+      {
+        "ure": "dud*ish*ly",
+        "fl": "adverb"
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "origin unknown"
+      ]
+    ],
+    "date": "1877{ds||1||}",
+    "shortdef": [
+      "a man extremely fastidious in dress and manner : dandy",
+      "a city dweller unfamiliar with life on the range; especially : an Easterner in the West",
+      "fellow, guy —sometimes used as a term of address"
+    ]
+  },
+  {
+    "meta": {
+      "id": "dude:2",
+      "uuid": "086e7820-bae7-4975-828e-fe98f83b63b4",
+      "sort": "044253000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "dude",
+        "duded",
+        "dudes",
+        "duding"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "dude"
+    },
+    "fl": "verb",
+    "ins": [
+      {
+        "if": "dud*ed"
+      },
+      {
+        "if": "dud*ing"
+      }
+    ],
+    "def": [
+      {
+        "vd": "transitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|dress up||} "
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "usually used with {it}up{/it} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "got {it}duded{/it} up for the dance"
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "noun derivative of {et_link|dude:1|dude:1}"
+      ]
+    ],
+    "date": "1899",
+    "shortdef": [
+      "dress up —usually used with up"
+    ]
+  },
+  {
+    "meta": {
+      "id": "dude ranch",
+      "uuid": "5978f448-535c-48f1-b253-401ce1ecea69",
+      "sort": "044255000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "dude ranch",
+        "dude ranches"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "dude ranch"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a vacation resort offering activities (such as horseback riding) typical of western ranches"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1899",
+    "shortdef": [
+      "a vacation resort offering activities (such as horseback riding) typical of western ranches"
+    ]
+  },
+  {
+    "meta": {
+      "id": "wandering dude",
+      "uuid": "71fb5acc-bf63-4e52-ad60-e8fac2cbe5e1",
+      "sort": "230021350",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "wandering dude",
+        "wandering dudes"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "wandering dude"
+    },
+    "fl": "noun",
+    "ins": [
+      {
+        "il": "plural",
+        "if": "wandering dudes"
+      }
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}any of several trailing {d_link|tradescantia|tradescantia} plants (such as {it}Tradescantia zebrina{/it} or {it}T. fluminensis{/it}) of the {d_link|spiderwort|spiderwort} family that have showy foliage usually with stripes of white, silver, cream, pink, or purple and that are often grown as houseplants "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "\"{wi}Wandering dudes{/wi} need light watering and are a relatively low maintenance plant that have super cool foliage colors,\" says Andra Ancel, FTD's director of design.",
+                        "aq": {
+                          "auth": "Krystin Arneson"
+                        }
+                      }
+                    ]
+                  ],
+                  [
+                    "ca",
+                    {
+                      "intro": "called also",
+                      "cats": [
+                        {
+                          "cat": "inch plant"
+                        }
+                      ]
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "2020",
+    "shortdef": [
+      "any of several trailing tradescantia plants (such as Tradescantia zebrina or T. fluminensis) of the spiderwort family that have showy foliage usually with stripes of white, silver, cream, pink, or purple and that are often grown as houseplants —called also inch plant"
+    ]
+  },
+  {
+    "meta": {
+      "id": "Du Pont de Nemours:b",
+      "uuid": "79a8df0c-2519-4020-a454-352af5162fc2",
+      "sort": "301712000",
+      "src": "collegiate",
+      "section": "biog",
+      "stems": [
+        "Du Pont de Nemours",
+        "Pierre-Samuel Du Pont de Nemours",
+        "Pierre-Samuel du Pont",
+        "du Pont"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "Du Pont de Ne*mours",
+      "prs": [
+        {
+          "mw": "-də-nə-ˈmu̇r",
+          "sound": {
+            "audio": "bixdup03",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "biographical name",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "Pierre-Samuel 1739–1817 French economist and statesman"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "Pierre-Samuel 1739—1817 French economist and statesman"
+    ]
+  }
+]

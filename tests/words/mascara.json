@@ -1,0 +1,82 @@
+[
+	{
+		"meta": {
+			"id": "mascara",
+			"uuid": "85371b04-b581-4c83-bb5e-b93a397a3d3c",
+			"sort": "131087000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"mascara",
+				"mascaraed",
+				"mascaras"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "mas*cara",
+			"prs": [
+				{
+					"mw": "ma-ˈsker-ə",
+					"sound": {
+						"audio": "mascar01",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "-ˈska-rə"
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a cosmetic especially for making the eyelashes darker and more prominent"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"uros": [
+			{
+				"ure": "mas*ca*raed",
+				"prs": [
+					{
+						"mw": "ma-ˈsker-əd",
+						"sound": {
+							"audio": "masca01v",
+							"ref": "c",
+							"stat": "1"
+						}
+					},
+					{
+						"mw": "-ˈska-rəd"
+					}
+				],
+				"fl": "adjective"
+			}
+		],
+		"et": [
+			[
+				"text",
+				"probably from Italian {it}maschera{\/it} mask"
+			]
+		],
+		"date": "1886",
+		"shortdef": [
+			"a cosmetic especially for making the eyelashes darker and more prominent"
+		]
+	}
+]

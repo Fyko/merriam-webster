@@ -1,0 +1,596 @@
+[
+	{
+		"meta": {
+			"id": "silly:1",
+			"uuid": "cb56554a-42ff-4820-8921-2da0bba216b5",
+			"sort": "194407400",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"knock silly",
+				"knocked silly",
+				"knocking silly",
+				"knocks silly",
+				"sillier",
+				"silliest",
+				"sillily",
+				"silliness",
+				"sillinesses",
+				"silly"
+			],
+			"offensive": false
+		},
+		"hom": 1,
+		"hwi": {
+			"hw": "sil*ly",
+			"prs": [
+				{
+					"mw": "ˈsi-lē",
+					"sound": {
+						"audio": "silly001",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "adjective",
+		"ins": [
+			{
+				"if": "sil*li*er"
+			},
+			{
+				"ifc": "-est",
+				"if": "sil*li*est"
+			}
+		],
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1 a",
+								"dt": [
+									[
+										"text",
+										"{bc}exhibiting or indicative of a lack of common sense or sound judgment "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "a very {wi}silly{\/wi} mistake"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}weak in intellect "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "acting like a {wi}silly{\/wi} fool"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "c",
+								"dt": [
+									[
+										"text",
+										"{bc}playfully lighthearted and amusing "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "a {wi}silly{\/wi} sense of humor"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "d",
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|trifling||}, {sx|frivolous||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "a {wi}silly{\/wi} waste of time"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}being stunned or dazed "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "scared {wi}silly{\/wi}"
+											},
+											{
+												"t": "knocked me {wi}silly{\/wi}"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "3 a",
+								"sls": [
+									"archaic"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|rustic||}, {sx|plain||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "The {wi}silly{\/wi} buckets on the deck,\/That had so long remained,\/I dreamt that they were filled with dew;\/And when I awoke, it rained.",
+												"aq": {
+													"auth": "Samuel Taylor Coleridge"
+												}
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"sls": [
+									"obsolete"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}lowly in station {bc}{sx|humble||}"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "4",
+								"sls": [
+									"archaic"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|helpless||}, {sx|weak||}"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"uros": [
+			{
+				"ure": "sil*li*ly",
+				"prs": [
+					{
+						"mw": "ˈsi-lə-lē",
+						"sound": {
+							"audio": "silly002",
+							"ref": "c",
+							"stat": "1"
+						}
+					}
+				],
+				"fl": "adverb"
+			},
+			{
+				"ure": "sil*li*ness",
+				"prs": [
+					{
+						"mw": "ˈsi-lē-nəs",
+						"sound": {
+							"audio": "silly003",
+							"ref": "c",
+							"stat": "1"
+						}
+					}
+				],
+				"fl": "noun"
+			}
+		],
+		"syns": [
+			{
+				"pl": "synonyms",
+				"pt": [
+					[
+						"text",
+						"{sc}simple{\/sc} {sc}foolish{\/sc} {sc}silly{\/sc} {sc}fatuous{\/sc} {sc}asinine{\/sc} mean actually or apparently deficient in intelligence. {sc}simple{\/sc} implies a degree of intelligence inadequate to cope with anything complex or involving mental effort. "
+					],
+					[
+						"vis",
+						[
+							{
+								"t": "considered people {it}simple{\/it} who had trouble with computers"
+							}
+						]
+					],
+					[
+						"text",
+						" {sc}foolish{\/sc} implies the character of being or seeming unable to use judgment, discretion, or good sense. "
+					],
+					[
+						"vis",
+						[
+							{
+								"t": "{it}foolish{\/it} stunts"
+							}
+						]
+					],
+					[
+						"text",
+						" {sc}silly{\/sc} suggests failure to act as a rational being especially by ridiculous behavior. "
+					],
+					[
+						"vis",
+						[
+							{
+								"t": "the {it}silly{\/it} antics of revelers"
+							}
+						]
+					],
+					[
+						"text",
+						" {sc}fatuous{\/sc} implies foolishness, inanity, and disregard of reality. "
+					],
+					[
+						"vis",
+						[
+							{
+								"t": "{it}fatuous{\/it} conspiracy theories"
+							}
+						]
+					],
+					[
+						"text",
+						" {sc}asinine{\/sc} suggests utter and contemptible failure to use normal rationality or perception. "
+					],
+					[
+						"vis",
+						[
+							{
+								"t": "an {it}asinine{\/it} plot"
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"Middle English {it}sely, silly{\/it} happy, innocent, pitiable, feeble, from Old English {it}sǣlig{\/it}, from {it}sǣl{\/it} happiness; akin to Old High German {it}sālig{\/it} happy"
+			]
+		],
+		"date": "15th century{ds||4||}",
+		"shortdef": [
+			"exhibiting or indicative of a lack of common sense or sound judgment",
+			"weak in intellect",
+			"playfully lighthearted and amusing"
+		]
+	},
+	{
+		"meta": {
+			"id": "silly:2",
+			"uuid": "65d65924-9de0-4ab3-b3b4-ed4ec25575d0",
+			"sort": "194407450",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"silly"
+			],
+			"offensive": false
+		},
+		"hom": 2,
+		"hwi": {
+			"hw": "silly"
+		},
+		"fl": "adverb",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"sls": [
+									"informal"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}to an extreme degree "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "was scared {wi}silly{\/wi}"
+											},
+											{
+												"t": "bored {wi}silly{\/wi}"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}in a {d_link|silly|silly:1} manner {bc}in an absurd or ridiculous way "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "talking\/behaving {wi}silly{\/wi}"
+											},
+											{
+												"t": "Benny Hill just walked {wi}silly{\/wi}, period, usually at high speed, to the accompaniment of cheesy pop music …",
+												"aq": {
+													"auth": "Charles Isherwood"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1731{ds||2||}",
+		"shortdef": [
+			"to an extreme degree",
+			"in a silly manner : in an absurd or ridiculous way"
+		]
+	},
+	{
+		"meta": {
+			"id": "silly:3",
+			"uuid": "67a72604-28eb-4b0b-8eb8-65b8dba63039",
+			"sort": "194407475",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"sillies",
+				"silly"
+			],
+			"offensive": false
+		},
+		"hom": 3,
+		"hwi": {
+			"hw": "silly"
+		},
+		"fl": "noun",
+		"ins": [
+			{
+				"il": "plural",
+				"if": "sil*lies"
+			}
+		],
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}one who is {d_link|silly|silly:1} {bc}a foolish person "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{ldquo}But there,{rdquo} she told herself, {ldquo}I am very likely a {wi}silly{\/wi}—meeting trouble half-way.{rdquo}",
+												"aq": {
+													"auth": "D. H. Lawrence"
+												}
+											},
+											{
+												"t": "{ldquo}Well then, {wi}silly{\/wi}, why not stay!{rdquo}",
+												"aq": {
+													"auth": "Edna Ferber"
+												}
+											},
+											{
+												"t": "{ldquo}And who, then? Oh, the long line of {wi}sillies{\/wi}, light-weights, rakes, ne'er-do-wells, who … constituted society.{rdquo}",
+												"aq": {
+													"auth": "Theodore Dreiser"
+												}
+											},
+											{
+												"t": "When the narrator describes women directly they seem … innately either sentimental {wi}sillies{\/wi} … or … pious hypocrites.",
+												"aq": {
+													"auth": "Myra Jehlen"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1560",
+		"shortdef": [
+			"one who is silly : a foolish person"
+		]
+	},
+	{
+		"meta": {
+			"id": "silly season",
+			"uuid": "0bb82381-b393-41c5-aafd-09aec01b2319",
+			"sort": "194407500",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"silly season",
+				"silly seasons"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "silly season"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}a period (such as late summer) when the mass media often focus on trivial or frivolous matters for lack of major news stories"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}a period marked by frivolous, outlandish, or illogical activity or behavior"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1861{ds||1||}",
+		"shortdef": [
+			"a period (such as late summer) when the mass media often focus on trivial or frivolous matters for lack of major news stories",
+			"a period marked by frivolous, outlandish, or illogical activity or behavior"
+		]
+	},
+	{
+		"meta": {
+			"id": "wear a silly grin\/smile on one's face",
+			"uuid": "a820ca3d-d495-42e4-aa33-6cefa66e3096",
+			"sort": "3022275000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"wear a silly grin on her face",
+				"wear a silly grin on his face",
+				"wear a silly grin on one's face",
+				"wear a silly grin on their face",
+				"wear a silly grin\/smile on one's face",
+				"wear a silly smile on her face",
+				"wear a silly smile on his face",
+				"wear a silly smile on one's face",
+				"wear a silly smile on their face"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "wear a silly grin\/smile on one's face"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}to grin\/smile in a silly way"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"to grin\/smile in a silly way"
+		]
+	}
+]

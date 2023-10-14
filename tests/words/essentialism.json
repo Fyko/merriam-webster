@@ -1,0 +1,102 @@
+[
+  {
+    "meta": {
+      "id": "essentialism",
+      "uuid": "8ebbcbf2-30fc-4943-bf07-0bb675401b30",
+      "sort": "050210700",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "essentialism",
+        "essentialisms",
+        "essentialist",
+        "essentialists"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "es*sen*tial*ism",
+      "prs": [
+        {
+          "mw": "i-ˈsen(t)-shə-ˌli-zəm",
+          "sound": {
+            "audio": "essent04",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}an educational theory that ideas and skills basic to a culture should be taught to all alike by time-tested methods {dx}compare {dxt|progressivism||}{/dx}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a philosophical theory ascribing ultimate reality to {a_link|essence} embodied in a thing perceptible to the senses {dx}compare {dxt|nominalism||}{/dx}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the practice of regarding something (such as a presumed human trait) as having innate existence or universal validity rather than as being a social, ideological, or intellectual construct"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "es*sen*tial*ist",
+        "prs": [
+          {
+            "mw": "i-ˈsen(t)-shə-list",
+            "sound": {
+              "audio": "essent05",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "adjective or noun"
+      }
+    ],
+    "date": "1927{ds||1||}",
+    "shortdef": [
+      "an educational theory that ideas and skills basic to a culture should be taught to all alike by time-tested methods",
+      "a philosophical theory ascribing ultimate reality to essence embodied in a thing perceptible to the senses",
+      "the practice of regarding something (such as a presumed human trait) as having innate existence or universal validity rather than as being a social, ideological, or intellectual construct"
+    ]
+  }
+]

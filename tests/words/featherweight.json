@@ -1,0 +1,84 @@
+[
+  {
+    "meta": {
+      "id": "featherweight",
+      "uuid": "168ea5f5-09a0-4fc7-9ab9-09e51e84e18d",
+      "sort": "060657000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "featherweight",
+        "featherweights"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "feath*er*weight",
+      "prs": [
+        {
+          "mw": "ˈfe-t͟hər-ˌwāt",
+          "sound": {
+            "audio": "feathe13",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}one that is very light in weight"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a boxer in a weight division having a maximum limit of 126 pounds for professionals and 125 pounds for amateurs {dx}compare {dxt|bantamweight||}, {dxt|lightweight||}{/dx}"
+                    ]
+                  ]
+                }
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|lightweight||2}"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "featherweight",
+        "fl": "adjective"
+      }
+    ],
+    "date": "1812{ds||1||}",
+    "shortdef": [
+      "one that is very light in weight; especially : a boxer in a weight division having a maximum limit of 126 pounds for professionals and 125 pounds for amateurs",
+      "lightweight"
+    ]
+  }
+]

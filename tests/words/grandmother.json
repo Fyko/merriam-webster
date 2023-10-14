@@ -1,0 +1,86 @@
+[
+  {
+    "meta": {
+      "id": "grandmother",
+      "uuid": "2edc7a5c-960b-4dcf-bd20-d1d3e60490f2",
+      "sort": "072108000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "grandmother",
+        "grandmotherly",
+        "grandmothers"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "grand*moth*er",
+      "prs": [
+        {
+          "mw": "ˈgran(d)-ˌmə-t͟hər",
+          "sound": {
+            "audio": "grandm05",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the mother of one's father or mother"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a female ancestor"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "grand*moth*er*ly",
+        "prs": [
+          {
+            "mw": "ˈgran(d)-ˌmə-t͟hər-lē",
+            "sound": {
+              "audio": "grandm06",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "adjective"
+      }
+    ],
+    "date": "15th century{ds||1||}",
+    "shortdef": [
+      "the mother of one's father or mother",
+      "a female ancestor"
+    ]
+  }
+]

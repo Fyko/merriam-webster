@@ -1,0 +1,418 @@
+[
+  {
+    "meta": {
+      "id": "ally:1",
+      "uuid": "59670513-3eaf-4f7f-a6f7-b4648dbb5abd",
+      "sort": "012038000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "allied",
+        "allies",
+        "ally",
+        "allying"
+      ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "al*ly",
+      "prs": [
+        {
+          "mw": "ə-ˈlī",
+          "sound": {
+            "audio": "ally0002",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "ˈa-ˌlī",
+          "sound": {
+            "audio": "ally0001",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "verb",
+    "ins": [
+      {
+        "if": "al*lied"
+      },
+      {
+        "if": "al*ly*ing"
+      }
+    ],
+    "def": [
+      {
+        "vd": "transitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to unite or form a connection or {d_link|relation|relation} between {bc}{sx|associate||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "He {it}allied{/it} himself with a wealthy family by marriage."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "vd": "intransitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to form or enter into an {d_link|alliance|alliance} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "two factions {wi}allying{/wi} with each other"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "t": "The singers {qword}ally{/qword} themselves with a gifted songwriter, and everyone gets some major-label exposure for what just happens to be a splendid album.",
+        "aq": {
+          "auth": "Michael Azerrad",
+          "source": "{it}Rolling Stone{/it}",
+          "aqdate": "13-27 July 1995"
+        }
+      },
+      {
+        "t": "There may be occasions when America can {qword}ally{/qword} with some of those states, as we did during the Gulf War.",
+        "aq": {
+          "auth": "Ramesh Ponnuru",
+          "source": "{it}National Review{/it}",
+          "aqdate": "15 Oct. 2001"
+        }
+      },
+      {
+        "t": "Generally, however, psychoanalysts do {qword}ally{/qword} themselves with two positions, the first of which is that dreams are meaningful.",
+        "aq": {
+          "auth": "Wynn Schwartz",
+          "source": "{it}Dreamtime and Dreamwork{/it}",
+          "aqdate": "1990"
+        }
+      },
+      {
+        "t": "Teresa's right to teach, however, would not be vindicated until our time when the late Paul VI named her a doctor of the church. In her own lifetime Teresa had the good sense to {qword}ally{/qword} herself with outstanding supporters such as the observant Franciscan Peter Alcantara and the famous Dominican theologian, Domenico Báñez.",
+        "aq": {
+          "auth": "Lawrence S. Cunningham",
+          "source": "{it}Commonweal{/it}",
+          "aqdate": "28 Jan. 2000"
+        }
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English {it}allien{/it}, from Anglo-French {it}alier{/it}, from Latin {it}alligare{/it} to bind to, from {it}ad-{/it} + {it}ligare{/it} to bind {ma}{mat|ligature|}{/ma}"
+      ]
+    ],
+    "date": "14th century{ds|t|||}",
+    "shortdef": [
+      "to unite or form a connection or relation between : associate",
+      "to form or enter into an alliance"
+    ]
+  },
+  {
+    "meta": {
+      "id": "ally:2",
+      "uuid": "779f96e5-7982-49ae-b917-f9b3f1c12e6d",
+      "sort": "012039000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "allies",
+        "ally"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "al*ly",
+      "prs": [
+        {
+          "mw": "ˈa-ˌlī",
+          "sound": {
+            "audio": "ally0003",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "ə-ˈlī",
+          "sound": {
+            "audio": "ally0004",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "ins": [
+      {
+        "il": "plural",
+        "if": "al*lies"
+      }
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a {d_link|sovereign|sovereign:1} or state associated with another by treaty or league "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "America and its {it}allies{/it}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}one that is associated with another as a helper {bc}a person or group that provides assistance and support in an ongoing effort, activity, or struggle "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a political {wi}ally{/wi}"
+                      },
+                      {
+                        "t": "She has proven to be a valuable {wi}ally{/wi} in the fight for better working conditions."
+                      }
+                    ]
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "often now used specifically of a person who is not a member of a marginalized or mistreated group but who expresses or gives support to that group"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "The storyline on {ldquo}Glee{rdquo} captures something larger that we are seeing with a new generation of {wi}allies{/wi} ({wi}allies{/wi} are people who support LGBT rights but aren't LGBT themselves).",
+                        "aq": {
+                          "auth": "David M. Hall"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a plant or animal linked to another by genetic or taxonomic proximity "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "ferns and their {it}allies{/it}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "t": "Our {qword}allies{/qword} would need us more than we would need them, so we could count on them to rally to our side in a crunch.",
+        "aq": {
+          "auth": "Samantha Power",
+          "source": "{it}New York Times Book Review{/it}",
+          "aqdate": "29 July 2007"
+        }
+      },
+      {
+        "t": "When the Soviets pulled out in early 1989, the ensuing power vacuum turned former {qword}allies{/qword} into enemies. The Muslim fighters known as mujahideen, who were unified in their struggle against the Soviets, disbanded and fought one another for control of Kabul in a devastating civil war.",
+        "aq": {
+          "auth": "Jiffer Bourguignon",
+          "source": "{it}Saveur{/it}",
+          "aqdate": "March 2008"
+        }
+      },
+      {
+        "t": "These groups have learned from experience that the media are their most valuable {qword}ally{/qword}. Publicity increases tips that fuel an investigation, and many communities have launched special-alert systems in the past few years to get news of an abduction on the air within minutes.",
+        "aq": {
+          "auth": "Andrew Murr",
+          "source": "{it}Newsweek{/it}",
+          "aqdate": "29 July 2002"
+        }
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "{dx_ety}see {dxt|ally:1||}{/dx_ety}"
+      ]
+    ],
+    "date": "1598{ds||1||}",
+    "shortdef": [
+      "a sovereign or state associated with another by treaty or league",
+      "one that is associated with another as a helper : a person or group that provides assistance and support in an ongoing effort, activity, or struggle —often now used specifically of a person who is not a member of a marginalized or mistreated group but who expresses or gives support to that group",
+      "a plant or animal linked to another by genetic or taxonomic proximity"
+    ]
+  },
+  {
+    "meta": {
+      "id": "-ally",
+      "uuid": "33fd7932-c14b-4542-8c8e-03c6a8218610",
+      "sort": "012040000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "-ally"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "-ally"
+    },
+    "fl": "adverb suffix",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|-ly:2||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "terrific{it}ally{/it}"
+                      }
+                    ]
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "in adverbs formed from adjectives in {it}-ic{/it} with no alternative form in {it}-ical{/it}"
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "{et_link|-al:1|-al:1} + {it}-ly{/it}"
+      ]
+    ],
+    "shortdef": [
+      "-ly —in adverbs formed from adjectives in -ic with no alternative form in -ical"
+    ]
+  },
+  {
+    "meta": {
+      "id": "allies",
+      "uuid": "343d1afe-6d6e-4037-a9fd-0e7724a09f87",
+      "sort": "011951000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "allies",
+        "ally"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "allies"
+    },
+    "cxs": [
+      {
+        "cxl": "plural of",
+        "cxtis": [
+          {
+            "cxt": "ally"
+          }
+        ]
+      }
+    ],
+    "shortdef": []
+  }
+]

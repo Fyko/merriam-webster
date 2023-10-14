@@ -1,0 +1,65 @@
+[
+	{
+		"meta": {
+			"id": "cardi-",
+			"uuid": "3d59c69a-15f9-45ab-9e99-739568946333",
+			"sort": "030939000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"cardi-",
+				"cardio-"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "cardi-"
+		},
+		"vrs": [
+			{
+				"vl": "or",
+				"va": "cardio-"
+			}
+		],
+		"fl": "combining form",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}heart {bc}cardiac {bc}cardiac and "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{it}cardio{\/it}gram"
+											},
+											{
+												"t": "{it}cardio{\/it}vascular"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"Greek {it}kardi-, kardio-{\/it}, from {it}kardia{\/it} {ma}{mat|heart|}{\/ma}"
+			]
+		],
+		"shortdef": [
+			"heart : cardiac : cardiac and"
+		]
+	}
+]

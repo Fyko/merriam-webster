@@ -1,0 +1,408 @@
+[
+  {
+    "meta": {
+      "id": "creator",
+      "uuid": "befe54d1-1e0e-48b4-9c95-6fce8d8105e0",
+      "sort": "035701500",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "creator",
+        "creators"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "cre*a*tor",
+      "prs": [
+        {
+          "mw": "krē-ˈā-tər",
+          "sound": {
+            "audio": "creato01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}one that {a_link|creates} usually by bringing something new or original into being"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "vrs": [
+                    {
+                      "va": "Creator"
+                    }
+                  ],
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|god||1}"
+                    ]
+                  ]
+                }
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English {it}creatour,{/it} borrowed from Anglo-French & Latin; Anglo-French {it}criator, creator,{/it} borrowed from Latin {it}creātor {/it}\"one who begets or brings into being,\" from {it}creāre{/it} \"to beget, give birth to, {et_link|create:1|create:1}\" + {it}-tor,{/it} agent suffix"
+      ]
+    ],
+    "date": "13th century",
+    "shortdef": [
+      "one that creates usually by bringing something new or original into being; especially Creator : god"
+    ]
+  },
+  {
+    "meta": {
+      "id": "cocreate",
+      "uuid": "7cb4fa00-6b23-463d-a2c3-36e1914ed133",
+      "sort": "035409820",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "co-create",
+        "co-created",
+        "co-creates",
+        "co-creating",
+        "co-creator",
+        "co-creators",
+        "cocreate",
+        "cocreated",
+        "cocreates",
+        "cocreating",
+        "cocreator",
+        "cocreators"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "co*cre*ate",
+      "prs": [
+        {
+          "mw": "(ˌ)kō-krē-ˈāt",
+          "sound": {
+            "audio": "cocreate_1",
+            "ref": "owl",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "-ˈkrē-ˌāt"
+        }
+      ]
+    },
+    "vrs": [
+      {
+        "vl": "or",
+        "va": "co-cre*ate"
+      }
+    ],
+    "fl": "verb",
+    "ins": [
+      {
+        "if": "co*cre*at*ed"
+      },
+      {
+        "il": "or",
+        "if": "co-cre*at*ed"
+      },
+      {
+        "if": "co*cre*at*ing"
+      },
+      {
+        "il": "or",
+        "if": "co-cre*at*ing"
+      }
+    ],
+    "def": [
+      {
+        "vd": "transitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to {d_link|create|create:1} (something) by working with one or more others "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "He's the guy who in 1987 {wi}cocreated{/wi} Photoshop, the software package that has become a digital industry standard …",
+                        "aq": {
+                          "auth": "Julie Hinds"
+                        }
+                      }
+                    ]
+                  ],
+                  [
+                    "text",
+                    " {bc}to create (something) jointly "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "In the fall of 2005, Mothering and Whole Foods Market {wi}co-created{/wi} an informational program and national lecture tour: Whole Baby.",
+                        "aq": {
+                          "auth": "Kimber Pasquali"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "co*cre*at*or",
+        "prs": [
+          {
+            "mw": "(ˌ)kō-krē-ˈā-tər",
+            "sound": {
+              "audio": "cocreator_1",
+              "ref": "owl",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "-ˈkrē-ˌā-"
+          }
+        ],
+        "vrs": [
+          {
+            "vl": "or",
+            "va": "co-cre*at*or"
+          }
+        ],
+        "fl": "noun",
+        "ins": [
+          {
+            "il": "plural",
+            "if": "co*cre*at*ors"
+          },
+          {
+            "il": "or",
+            "if": "co-cre*at*ors"
+          }
+        ],
+        "utxt": [
+          [
+            "vis",
+            [
+              {
+                "t": "The philosophy of {it}Seinfeld{/it}, as articulated by its star and its {d_link|anhedonic|anhedonia} executive producer and {wi}cocreator{/wi}, Larry David, is, \"No hugging. No learning.\"",
+                "aq": {
+                  "auth": "Lisa Schwarzbaum"
+                }
+              },
+              {
+                "t": "{wi}Co-creators{/wi} Ryan Murphy and Gina Matthews talk excitedly about future theme issues: cheating, fame, the social pecking order …",
+                "aq": {
+                  "auth": "James Poniewozik"
+                }
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1697",
+    "shortdef": [
+      "to create (something) by working with one or more others : to create (something) jointly"
+    ]
+  },
+  {
+    "meta": {
+      "id": "re-create",
+      "uuid": "cba00858-70cb-4515-bc7c-9761cda5a963",
+      "sort": "181120000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "re-creatable",
+        "re-create",
+        "re-created",
+        "re-creates",
+        "re-creating",
+        "re-creation",
+        "re-creations",
+        "re-creative",
+        "re-creator",
+        "re-creators",
+        "recreatable",
+        "recreate",
+        "recreated",
+        "recreates",
+        "recreating",
+        "recreation",
+        "recreations",
+        "recreative",
+        "recreator",
+        "recreators"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "re-cre*ate",
+      "prs": [
+        {
+          "mw": "ˌrē-krē-ˈāt",
+          "sound": {
+            "audio": "recrea04",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "vrs": [
+      {
+        "vl": "or",
+        "va": "re*cre*ate"
+      }
+    ],
+    "fl": "verb",
+    "ins": [
+      {
+        "if": "re-cre*at*ed"
+      },
+      {
+        "il": "or",
+        "if": "re*cre*at*ed"
+      },
+      {
+        "if": "re-cre*at*ing"
+      },
+      {
+        "il": "or",
+        "if": "re*cre*at*ing"
+      },
+      {
+        "if": "re-cre*ates"
+      }
+    ],
+    "def": [
+      {
+        "vd": "transitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to create again"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to form anew in the imagination"
+                    ]
+                  ]
+                }
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "re-cre*at*able",
+        "prs": [
+          {
+            "mw": "ˌrē-krē-ˈā-tə-bəl",
+            "sound": {
+              "audio": "recrea05",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "adjective"
+      },
+      {
+        "ure": "re-cre*a*tion",
+        "prs": [
+          {
+            "mw": "ˌrē-krē-ˈā-shən",
+            "sound": {
+              "audio": "recrea06",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "noun"
+      },
+      {
+        "ure": "re-cre*a*tive",
+        "prs": [
+          {
+            "mw": "ˌrē-krē-ˈā-tiv",
+            "sound": {
+              "audio": "recrea07",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "adjective"
+      },
+      {
+        "ure": "re-cre*a*tor",
+        "prs": [
+          {
+            "mw": "ˌrē-krē-ˈā-tər",
+            "sound": {
+              "audio": "recrea08",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "noun"
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "{et_link|re-|re-} + {et_link|create:1|create:1}"
+      ]
+    ],
+    "date": "1587",
+    "shortdef": [
+      "to create again; especially : to form anew in the imagination"
+    ]
+  }
+]

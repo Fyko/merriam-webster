@@ -1,0 +1,68 @@
+[
+  {
+    "meta": {
+      "id": "stallion",
+      "uuid": "170c8bf0-e8e7-4f9f-8e19-45745ae7b895",
+      "sort": "194742400",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "stallion",
+        "stallions"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "stal*lion",
+      "prs": [
+        {
+          "mw": "ˈstal-yən",
+          "sound": {
+            "audio": "stalli01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}an uncastrated male horse {bc}a male horse kept for breeding"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "also",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a male animal (such as a dog or a sheep) kept primarily as a stud"
+                    ]
+                  ]
+                }
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English {it}staloun, stalion{/it}, from Anglo-French {it}estaloun{/it}, of Germanic origin; akin to Old High German {it}stal{/it} stall"
+      ]
+    ],
+    "date": "14th century",
+    "shortdef": [
+      "an uncastrated male horse : a male horse kept for breeding; also : a male animal (such as a dog or a sheep) kept primarily as a stud"
+    ]
+  }
+]

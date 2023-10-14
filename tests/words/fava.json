@@ -1,0 +1,129 @@
+[
+  {
+    "meta": {
+      "id": "fava bean",
+      "uuid": "b55b3f77-a75f-4e38-b88e-c24d13f59e1f",
+      "sort": "060593000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "fava",
+        "fava bean",
+        "fava beans"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "fa*va bean",
+      "prs": [
+        {
+          "mw": "ˈfä-və-",
+          "sound": {
+            "audio": "favab01v",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the large, flat, edible, starchy seed of an Old World upright vetch ({it}Vicia faba{/it}) that is typically pale green to whitish in color and is eaten raw, blanched, or cooked"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "also",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}this plant widely grown for its seeds and as fodder "
+                    ],
+                    [
+                      "ca",
+                      {
+                        "intro": "called also",
+                        "cats": [
+                          {
+                            "cat": "broad bean"
+                          },
+                          {
+                            "cat": "horse bean"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      "text",
+                      " {dx}see {dxt|favism||}{/dx}"
+                    ]
+                  ]
+                }
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Italian {it}fava{/it} \"fava bean,\" going back to Latin {it}faba,{/it} going back to dialectal Indo-European {it}*b{sup}h{/sup}ab{sup}(h){/sup}-{/it} (whence also Serbian & Croatian {it}bȍb, bòba{/it} \"bean,\" Polish {it}bób,{/it} Russian {it}bob{/it} all going back to Slavic {it}*bobŭ{/it}), probably borrowed from a European substratal language"
+      ]
+    ],
+    "date": "1893",
+    "shortdef": [
+      "the large, flat, edible, starchy seed of an Old World upright vetch (Vicia faba) that is typically pale green to whitish in color and is eaten raw, blanched, or cooked; also : this plant widely grown for its seeds and as fodder —called also broad bean, horse bean"
+    ]
+  },
+  {
+    "meta": {
+      "id": "broad bean",
+      "uuid": "a37a4ab9-df7b-4c3c-9647-c82729138f93",
+      "sort": "020430100",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "broad bean",
+        "broad beans",
+        "fava bean"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "broad bean"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|fava bean||}"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1726",
+    "shortdef": [
+      "fava bean"
+    ]
+  }
+]

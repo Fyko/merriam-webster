@@ -1,0 +1,807 @@
+[
+	{
+		"meta": {
+			"id": "humble:1",
+			"uuid": "20d901af-64c9-48c5-b77a-be494e3bda8a",
+			"sort": "080302000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"humble",
+				"humbleness",
+				"humblenesses",
+				"humbler",
+				"humblest",
+				"humbly",
+				"hummel"
+			],
+			"offensive": false
+		},
+		"hom": 1,
+		"hwi": {
+			"hw": "hum*ble",
+			"prs": [
+				{
+					"mw": "ˈhəm-bəl",
+					"sound": {
+						"audio": "humble01",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"l": "also chiefly Southern",
+					"mw": "ˈəm-"
+				}
+			]
+		},
+		"fl": "adjective",
+		"ins": [
+			{
+				"if": "hum*bler",
+				"prs": [
+					{
+						"mw": "ˈhəm-b(ə-)lər",
+						"sound": {
+							"audio": "humble02",
+							"ref": "c",
+							"stat": "1"
+						}
+					}
+				]
+			},
+			{
+				"if": "hum*blest",
+				"prs": [
+					{
+						"mw": "ˈhəm-b(ə-)ləst",
+						"sound": {
+							"audio": "humble03",
+							"ref": "c",
+							"stat": "1"
+						}
+					}
+				]
+			}
+		],
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}not proud or {d_link|haughty|haughty} {bc}not {d_link|arrogant|arrogant} or assertive"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}reflecting, expressing, or offered in a spirit of {d_link|deference|deference} or submission "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "a {wi}humble{\/wi} apology"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "3 a",
+								"dt": [
+									[
+										"text",
+										"{bc}ranking low in a {d_link|hierarchy|hierarchy} or scale {bc}{sx|insignificant||}, {sx|unpretentious||}"
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}not costly or {d_link|luxurious|luxurious} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "a {wi}humble{\/wi} contraption"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"uros": [
+			{
+				"ure": "hum*ble*ness",
+				"prs": [
+					{
+						"mw": "ˈhəm-bəl-nəs",
+						"sound": {
+							"audio": "humble04",
+							"ref": "c",
+							"stat": "1"
+						}
+					}
+				],
+				"fl": "noun"
+			},
+			{
+				"ure": "hum*bly",
+				"prs": [
+					{
+						"mw": "ˈhəm-blē",
+						"sound": {
+							"audio": "humble05",
+							"ref": "c",
+							"stat": "1"
+						}
+					}
+				],
+				"fl": "adverb"
+			}
+		],
+		"quotes": [
+			{
+				"t": "{qword}Humble{\/qword} though it may be, and about as glamorous as a galosh, it is a fish that has shaped the political and social history of Europe like no other, with the possible exception of cod.",
+				"aq": {
+					"auth": "R. W. Apple, Jr.",
+					"source": "{it}New York Times{\/it}",
+					"aqdate": "30 Oct. 2002"
+				}
+			},
+			{
+				"t": "Women are the organizing soft-centered socialists, the nice people, the sugar-and-spice lot, identifying with the poor and {qword}humble{\/qword}; men are snips and snails and puppy-dog tails, and rampant, selfish, greedy capitalists.",
+				"aq": {
+					"auth": "Fay Weldon",
+					"source": "{it}Harper's{\/it}",
+					"aqdate": "May 1998"
+				}
+			},
+			{
+				"t": "She would not come closer to me, as much as I thought she wished to, hungering not for anything like love but for plain, {qword}humble{\/qword} succor.",
+				"aq": {
+					"auth": "Chang-rae Lee",
+					"source": "{it}A Gesture Life{\/it}",
+					"aqdate": "1999"
+				}
+			}
+		],
+		"et": [
+			[
+				"text",
+				"Middle English, from Anglo-French, from Latin {it}humilis{\/it} low, humble, from {it}humus{\/it} earth; akin to Greek {it}chthōn{\/it} earth, {it}chamai{\/it} on the ground"
+			]
+		],
+		"date": "13th century{ds||1||}",
+		"shortdef": [
+			"not proud or haughty : not arrogant or assertive",
+			"reflecting, expressing, or offered in a spirit of deference or submission",
+			"ranking low in a hierarchy or scale : insignificant, unpretentious"
+		]
+	},
+	{
+		"meta": {
+			"id": "humble:2",
+			"uuid": "7ffb010d-e0b1-40ae-a4c6-e63f3ccfbe85",
+			"sort": "080302100",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"humble",
+				"humbled",
+				"humbler",
+				"humblers",
+				"humbles",
+				"humbling",
+				"humblingly",
+				"hummel"
+			],
+			"offensive": false
+		},
+		"hom": 2,
+		"hwi": {
+			"hw": "hum*ble",
+			"prs": [
+				{
+					"mw": "ˈhəm-bəl",
+					"sound": {
+						"audio": "humble01",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"l": "also chiefly Southern",
+					"mw": "ˈəm-"
+				}
+			]
+		},
+		"fl": "verb",
+		"ins": [
+			{
+				"if": "hum*bled"
+			},
+			{
+				"if": "hum*bling",
+				"prs": [
+					{
+						"mw": "ˈhəm-b(ə-)liŋ",
+						"sound": {
+							"audio": "humble06",
+							"ref": "c",
+							"stat": "1"
+						}
+					}
+				]
+			}
+		],
+		"def": [
+			{
+				"vd": "transitive verb",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}to make (someone) humble {dx_def}see {dxt|humble:1||}{\/dx_def} in spirit or manner"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}to destroy the power, independence, or {d_link|prestige|prestige} of"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"uros": [
+			{
+				"ure": "hum*bler",
+				"prs": [
+					{
+						"mw": "ˈhəm-b(ə-)lər",
+						"sound": {
+							"audio": "humble07",
+							"ref": "c",
+							"stat": "1"
+						}
+					}
+				],
+				"fl": "noun"
+			},
+			{
+				"ure": "hum*bling*ly",
+				"prs": [
+					{
+						"mw": "ˈhəm-b(ə-)liŋ-lē",
+						"sound": {
+							"audio": "humble08",
+							"ref": "c",
+							"stat": "1"
+						}
+					}
+				],
+				"fl": "adverb"
+			}
+		],
+		"quotes": [
+			{
+				"t": "It frightened and {qword}humbled{\/qword} him but also made him feel darkly charmed.",
+				"aq": {
+					"auth": "Don DeLillo",
+					"source": "{it}Mao II{\/it}",
+					"aqdate": "1991"
+				}
+			},
+			{
+				"t": "… audiences loved to see villains punished and arrogant young men {qword}humbled{\/qword}, they did not want to fidget and squirm through mea culpas before the final scene.",
+				"aq": {
+					"auth": "Elaine Showalter",
+					"source": "{it}Civilization{\/it}",
+					"aqdate": "April\/May 1999"
+				}
+			},
+			{
+				"t": "Cuba's reliance on tourism is a somewhat {qword}humbling{\/qword} turn for the revolution, which has long prided itself on producing topflight doctors and teachers—not concierges.",
+				"aq": {
+					"auth": "Tim Padgett",
+					"source": "{it}Time{\/it}",
+					"aqdate": "22 Dec. 2003"
+				}
+			}
+		],
+		"et": [
+			[
+				"text",
+				"{dx_ety}see {dxt|humble:1||}{\/dx_ety}"
+			]
+		],
+		"date": "14th century{ds||1||}",
+		"shortdef": [
+			"to make (someone) humble in spirit or manner",
+			"to destroy the power, independence, or prestige of"
+		]
+	},
+	{
+		"meta": {
+			"id": "humble-bee",
+			"uuid": "5e10558c-87f7-47cd-a865-dc4590561b1b",
+			"sort": "080302200",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"humble-bee",
+				"humble-bees"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "hum*ble-bee",
+			"prs": [
+				{
+					"mw": "ˈhəm-bəl-ˌbē",
+					"sound": {
+						"audio": "humble09",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|bumblebee||}"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"Middle English {it}humbylbee{\/it}, from {it}humbyl-{\/it} (akin to Middle Dutch {it}hommel{\/it} bumblebee) + {it}bee{\/it} {ma}{mat|hum|}{\/ma}"
+			]
+		],
+		"date": "15th century",
+		"shortdef": [
+			"bumblebee"
+		]
+	},
+	{
+		"meta": {
+			"id": "humble pie",
+			"uuid": "a63dae7d-30be-410f-8ea8-87a69048bd3b",
+			"sort": "080302300",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"humble pie",
+				"humble pies"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "humble pie"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a figurative serving of humiliation usually in the form of a forced submission, apology, or retraction "
+									],
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"often used in the phrase {it}eat humble pie{\/it}"
+												]
+											]
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1830",
+		"shortdef": [
+			"a figurative serving of humiliation usually in the form of a forced submission, apology, or retraction —often used in the phrase eat humble pie"
+		]
+	},
+	{
+		"meta": {
+			"id": "humble oneself",
+			"uuid": "4b6901ee-0864-48ec-aa5b-392a6faee426",
+			"sort": "3009038000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"humble oneself"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "humble oneself"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}to do or say something which shows that one knows one has been wrong, has behaved with too much pride, etc. "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "He needs to {it}humble himself{\/it} and ask for their forgiveness."
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"to do or say something which shows that one knows one has been wrong, has behaved with too much pride, etc."
+		]
+	},
+	{
+		"meta": {
+			"id": "eat humble pie",
+			"uuid": "801e10ff-be50-469b-8f58-6b96aac60744",
+			"sort": "3005345000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"eat humble pie"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "eat humble pie"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sls": [
+					"informal"
+				],
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}to admit that one was wrong or accept that one has been defeated "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "They had to {it}eat humble pie{\/it} when the rumors they were spreading were proved false."
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"to admit that one was wrong or accept that one has been defeated"
+		]
+	},
+	{
+		"meta": {
+			"id": "from humble origins",
+			"uuid": "7c3d5023-ff07-4fd2-8668-6a7cc55bbb42",
+			"sort": "3006633000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"from humble origins"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "from humble origins"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}from a family that did not have high social status or much money "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "He comes {it}from humble origins{\/it}."
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"from a family that did not have high social status or much money"
+		]
+	},
+	{
+		"meta": {
+			"id": "of humble origin(s)",
+			"uuid": "2564de96-5932-4400-86f6-e41381029ade",
+			"sort": "3013246000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"of humble origin",
+				"of humble origin(s)",
+				"of humble origins"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "of humble origin(s)"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}from a family that did not have high social status or much money "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "A man {it}of humble origin(s){\/it}."
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"from a family that did not have high social status or much money"
+		]
+	},
+	{
+		"meta": {
+			"id": "humblebrag",
+			"uuid": "0281e559-9ede-4ee9-93e1-76a6cfac2198",
+			"sort": "080302250",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"humble-brag",
+				"humble-bragged",
+				"humble-bragging",
+				"humble-brags",
+				"humblebrag",
+				"humblebragged",
+				"humblebragging",
+				"humblebrags"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "hum*ble*brag",
+			"prs": [
+				{
+					"mw": "ˈhəm-bəl-ˌbrag",
+					"sound": {
+						"audio": "humblebrag_1",
+						"ref": "owl",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"vrs": [
+			{
+				"vl": "or",
+				"va": "hum*ble-brag"
+			}
+		],
+		"fl": "verb",
+		"ins": [
+			{
+				"if": "hum*ble*bragged"
+			},
+			{
+				"il": "or",
+				"if": "hum*ble-bragged"
+			},
+			{
+				"if": "hum*ble*brag*ging"
+			},
+			{
+				"il": "or",
+				"if": "hum*ble-brag*ging"
+			}
+		],
+		"def": [
+			{
+				"vd": "transitive + intransitive",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}to make a seemingly modest, self-critical, or casual statement or reference that is meant to draw attention to one's admirable or impressive qualities or achievements "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "People make themselves look smart, {wi}humble-bragging{\/wi} about reading what's billed as one of the 20th century's most difficult books.",
+												"aq": {
+													"auth": "Mark Chiusano"
+												}
+											},
+											{
+												"t": "In the study, college students were asked to write down how they'd answer a question about their biggest weakness in a job interview. Results showed that more than three-quarters of participants {wi}humblebragged{\/wi}, usually about being a perfectionist or working too hard.",
+												"aq": {
+													"auth": "Shana Leibowitz"
+												}
+											},
+											{
+												"t": "Beyond the angel's wings, there was preening and posing and fake modesty, perhaps best represented when he {wi}humblebragged{\/wi} to the audience that his \"One Less Lonely Girl\" choice had \"come all the way from Sweden just to see me.\"",
+												"aq": {
+													"auth": "Ben Fisher"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"uros": [
+			{
+				"ure": "humblebrag",
+				"vrs": [
+					{
+						"vl": "or",
+						"va": "humble-brag"
+					}
+				],
+				"fl": "noun",
+				"utxt": [
+					[
+						"vis",
+						[
+							{
+								"t": "At times, the book comes off like a long, rolling {wi}humblebrag{\/wi}. Many sections begin with variations on \"When I was 29 years old and running for Congress … \" or \"When I chaired the U.S. Ballistics Missile Threat Commission … .\"",
+								"aq": {
+									"auth": "Adam Sternbergh"
+								}
+							},
+							{
+								"t": "Comedian and podcast host Marc Maron has so perfected the art of the {wi}humblebrag{\/wi}, even his TV alter ego jokes about how young his girlfriend is.",
+								"aq": {
+									"auth": "Ray Rahman"
+								}
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "2002",
+		"shortdef": [
+			"to make a seemingly modest, self-critical, or casual statement or reference that is meant to draw attention to one's admirable or impressive qualities or achievements"
+		]
+	}
+]

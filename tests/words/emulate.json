@@ -1,0 +1,211 @@
+[
+  {
+    "meta": {
+      "id": "emulate:1",
+      "uuid": "de0dd2b1-95d1-47a3-b900-cae7a158965f",
+      "sort": "050108400",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "emulate",
+        "emulated",
+        "emulates",
+        "emulating"
+      ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "em*u*late",
+      "prs": [
+        {
+          "mw": "ˈem-yə-ˌlāt",
+          "sound": {
+            "audio": "emulat01",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "-yü-"
+        }
+      ]
+    },
+    "fl": "verb",
+    "ins": [
+      {
+        "ifc": "-lat*ed",
+        "if": "em*u*lat*ed"
+      },
+      {
+        "ifc": "-lat*ing",
+        "if": "em*u*lat*ing"
+      }
+    ],
+    "def": [
+      {
+        "vd": "transitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to strive to equal or {d_link|excel|excel}"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|imitate||}"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to imitate by means of an {d_link|emulator|emulator}"
+                    ]
+                  ]
+                }
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to equal or approach equality with"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "t": "I started out {qword}emulating{/qword} Chandler in that first book, maybe the first book and a half, because I was in my novitiate, and whenever I wasn't clear on what to do I would actively think about Chandler and what Marlow would have done.",
+        "aq": {
+          "auth": "Robert B. Parker et al.",
+          "source": "{it}Colloquium on Crime{/it}",
+          "aqdate": "1986"
+        }
+      },
+      {
+        "t": "If you are talking to someone younger, do not condescend. If you are talking to someone older, back up feelings with facts and never be in such a rush to make your point that you forget the art of listening. And please, no one try to {qword}emulate{/qword} the histrionic, discursive style of any talking heads you see on television.",
+        "aq": {
+          "auth": "William Norwich",
+          "source": "{it}Vogue{/it}",
+          "aqdate": "9 Sept. 2008"
+        }
+      },
+      {
+        "t": "Although some schools are postponing new projects because of the faltering economy, others are forging ahead with plans to {qword}emulate{/qword} freshman programs that have long existed at some of the nation's oldest colleges.",
+        "aq": {
+          "auth": "Jeninne Lee-St. John",
+          "source": "{it}Time{/it}",
+          "aqdate": "27 Oct. 2008"
+        }
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "borrowed from Latin {it}aemulātus,{/it} past participle of {it}aemulārī{/it} \"to vie with, rival, imitate,\" derivative of {it}aemulus{/it} \"rivaling, {et_link|emulous|emulous}\""
+      ]
+    ],
+    "date": "1582{ds||1|a|}",
+    "shortdef": [
+      "to strive to equal or excel",
+      "imitate; especially : to imitate by means of an emulator",
+      "to equal or approach equality with"
+    ]
+  },
+  {
+    "meta": {
+      "id": "emulate:2",
+      "uuid": "8b73add1-3aa6-42d1-917b-8e8d6721192c",
+      "sort": "050108500",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "emulate"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "em*u*late",
+      "prs": [
+        {
+          "mw": "ˈem-yə-lət",
+          "sound": {
+            "audio": "emulat02",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "adjective",
+    "def": [
+      {
+        "sls": [
+          "obsolete"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|emulous||1b} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "pricked on by a most {wi}emulate{/wi} pride",
+                        "aq": {
+                          "auth": "William Shakespeare"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "borrowed from Latin {it}aemulātus{/it} {ma}{mat|emulate:1|emulate:1}{/ma}"
+      ]
+    ],
+    "date": "1602",
+    "shortdef": [
+      "emulous"
+    ]
+  }
+]

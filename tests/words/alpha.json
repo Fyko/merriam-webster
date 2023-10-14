@@ -1,0 +1,843 @@
+[
+	{
+		"meta": {
+			"id": "alpha:1",
+			"uuid": "e905fbc7-881a-4a9b-8dd2-5e2adfc00b15",
+			"sort": "012086000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"alpha",
+				"alphas"
+			],
+			"offensive": false
+		},
+		"hom": 1,
+		"hwi": {
+			"hw": "al*pha",
+			"prs": [
+				{
+					"mw": "ˈal-fə",
+					"sound": {
+						"audio": "alpha001",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "noun",
+		"ins": [
+			{
+				"il": "plural",
+				"if": "al*phas"
+			}
+		],
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}the 1st letter of the Greek {d_link|alphabet|alphabet} {dx}see {dxt|Alphabet Table|alphabet|table}{\/dx}"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2 a",
+								"dt": [
+									[
+										"text",
+										"{bc}something that is first {bc}{sx|beginning||} {dx}compare {dxt|omega||}{\/dx} {dx}see also {dxt|alpha and omega||}{\/dx}"
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}something or someone designated with the name {it}alpha{\/it} or the Greek letter α especially denoting the first in position, order, or class"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "3",
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|alpha wave||}"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "4",
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|alpha particle||}"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "5",
+								"dt": [
+									[
+										"text",
+										"{bc}the first version of a product (such as a computer program) that is being developed and tested "
+									],
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"usually used before another noun "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "{wi}alpha{\/wi} versions"
+														},
+														{
+															"t": "{wi}alpha{\/wi} testing"
+														}
+													]
+												]
+											]
+										]
+									]
+								],
+								"sdsense": {
+									"sd": "also",
+									"dt": [
+										[
+											"text",
+											"{bc}a stage of product development in which alpha prototypes are released "
+										],
+										[
+											"vis",
+											[
+												{
+													"t": "a product that is available in {wi}alpha{\/wi}"
+												}
+											]
+										],
+										[
+											"text",
+											" {dx}compare {dxt|beta||}{\/dx}"
+										]
+									]
+								}
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "6",
+								"dt": [
+									[
+										"text",
+										"{bc}a socially dominant person or animal "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "Mike is the ringleader, the {wi}alpha{\/wi} of the group. Tom is his wingman …",
+												"aq": {
+													"auth": "Jason Blake"
+												}
+											},
+											{
+												"t": "[Kamala] Harris came with a clear plan, was well prepared, and executed perfectly. The fact that she was willing to take on Biden, the front-runner, signaled that she was the {wi}alpha{\/wi} on the stage.",
+												"aq": {
+													"auth": "Philip Klein"
+												}
+											},
+											{
+												"t": "The rest of the animals hold positions in the pecking order below the {wi}alphas{\/wi} and respect their leadership roles, although they may challenge other wolves (even {wi}alphas{\/wi}) to raise their rank.",
+												"aq": {
+													"auth": "C. C. Holland"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"Middle English, from Latin, from Greek, of Semitic origin; akin to Hebrew {it}āleph{\/it} aleph"
+			]
+		],
+		"date": "12th century{ds||1||}",
+		"shortdef": [
+			"the 1st letter of the Greek alphabet",
+			"something that is first : beginning",
+			"something or someone designated with the name alpha or the Greek letter α especially denoting the first in position, order, or class"
+		]
+	},
+	{
+		"meta": {
+			"id": "alpha:2",
+			"uuid": "547c6a92-7daf-423e-b5ea-98a5f8d21fe9",
+			"sort": "012087000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"alpha"
+			],
+			"offensive": false
+		},
+		"hom": 2,
+		"hwi": {
+			"hw": "alpha"
+		},
+		"fl": "adjective",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}closest in the structure of an organic molecule to a particular group or atom "
+									],
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"symbol α "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "α-substitution"
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}socially dominant especially in a group of animals "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "an {wi}alpha{\/wi} male"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "3",
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|alphabetic||}"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"(sense 2) from attributive use of {et_link|alpha:1|alpha:1}; (sense 3) by shortening"
+			]
+		],
+		"date": "1842{ds||1||}",
+		"shortdef": [
+			"closest in the structure of an organic molecule to a particular group or atom —symbol α",
+			"socially dominant especially in a group of animals",
+			"alphabetic"
+		]
+	},
+	{
+		"meta": {
+			"id": "alpha particle",
+			"uuid": "71a39543-ba79-47ee-8173-079926499c54",
+			"sort": "012103000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"alpha",
+				"alpha particle",
+				"alpha particles",
+				"alpha radiation",
+				"alpha ray"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "alpha particle"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a positively charged nuclear particle identical with the nucleus of a helium atom that consists of two protons and two neutrons and is ejected at high speed in certain radioactive transformations "
+									],
+									[
+										"ca",
+										{
+											"intro": "called also",
+											"cats": [
+												{
+													"cat": "alpha"
+												},
+												{
+													"cat": "alpha radiation"
+												},
+												{
+													"cat": "alpha ray"
+												}
+											]
+										}
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1903",
+		"shortdef": [
+			"a positively charged nuclear particle identical with the nucleus of a helium atom that consists of two protons and two neutrons and is ejected at high speed in certain radioactive transformations —called also alpha, alpha radiation, alpha ray"
+		]
+	},
+	{
+		"meta": {
+			"id": "alpha wave",
+			"uuid": "fbf17e9f-7825-4bf8-ba01-5e39e2225e34",
+			"sort": "012107000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"alpha",
+				"alpha rhythm",
+				"alpha wave",
+				"alpha waves"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "alpha wave"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}an electrical rhythm of the brain with a frequency of approximately 8 to 13 cycles per second that is often associated with a state of wakeful relaxation "
+									],
+									[
+										"ca",
+										{
+											"intro": "called also",
+											"cats": [
+												{
+													"cat": "alpha"
+												},
+												{
+													"cat": "alpha rhythm"
+												}
+											]
+										}
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1936",
+		"shortdef": [
+			"an electrical rhythm of the brain with a frequency of approximately 8 to 13 cycles per second that is often associated with a state of wakeful relaxation —called also alpha, alpha rhythm"
+		]
+	},
+	{
+		"meta": {
+			"id": "alpha-adrenergic",
+			"uuid": "50b0dada-a4f7-4958-afcd-19b69b81a34a",
+			"sort": "012088000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"alpha-adrenergic"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "al*pha-ad*ren*er*gic",
+			"prs": [
+				{
+					"mw": "ˈal-fə-ˌa-drə-ˈnər-jik",
+					"sound": {
+						"audio": "alpha01w",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "adjective",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}of, relating to, or being an alpha-receptor "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}alpha-adrenergic{\/wi} blocking action"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1954",
+		"shortdef": [
+			"of, relating to, or being an alpha-receptor"
+		]
+	},
+	{
+		"meta": {
+			"id": "alpha and omega",
+			"uuid": "b3e4742a-a2cf-4626-ad13-37e745951776",
+			"sort": "012089000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"alpha and omega",
+				"alpha and omegas"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "alpha and omega"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}the beginning and ending"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}the principal element"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"from the fact that alpha and omega are respectively the first and last letters of the Greek alphabet"
+			]
+		],
+		"date": "14th century{ds||1||}",
+		"shortdef": [
+			"the beginning and ending",
+			"the principal element"
+		]
+	},
+	{
+		"meta": {
+			"id": "alpha-fetoprotein",
+			"uuid": "9268892f-1b78-4048-bbb9-23ab96722fbd",
+			"sort": "012095000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"alpha-fetoprotein",
+				"alpha-fetoproteins"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "al*pha-fe*to*pro*tein",
+			"prs": [
+				{
+					"mw": "ˌal-fə-ˌfē-tō-ˈprō-ˌtēn",
+					"sound": {
+						"audio": "alpha_01",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "-ˈprō-tē-ən"
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a fetal blood protein present abnormally in adults with some cancers (as of the liver) and normally in the amniotic fluid of pregnant women with high or low levels tending to be associated with certain birth defects (such as spina bifida or Down syndrome)"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1966",
+		"shortdef": [
+			"a fetal blood protein present abnormally in adults with some cancers (as of the liver) and normally in the amniotic fluid of pregnant women with high or low levels tending to be associated with certain birth defects (such as spina bifida or Down syndrome)"
+		]
+	},
+	{
+		"meta": {
+			"id": "alpha globulin",
+			"uuid": "3c7f8750-b23e-4e76-917f-4e5033297131",
+			"sort": "012096000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"alpha globulin",
+				"alpha globulins"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "alpha globulin"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}any of several globulins of plasma or serum that have at alkaline pH the greatest electrophoretic mobility next to albumin {dx}compare {dxt|beta globulin||}, {dxt|gamma globulin||}{\/dx}"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"International Scientific Vocabulary"
+			]
+		],
+		"date": "1922",
+		"shortdef": [
+			"any of several globulins of plasma or serum that have at alkaline pH the greatest electrophoretic mobility next to albumin"
+		]
+	},
+	{
+		"meta": {
+			"id": "alpha-helix",
+			"uuid": "fb5fbe70-c502-40bb-9caf-58223996be0f",
+			"sort": "012097000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"alpha-helical",
+				"alpha-helix",
+				"alpha-helixes"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "al*pha-he*lix",
+			"prs": [
+				{
+					"mw": "ˌal-fə-ˈhē-liks",
+					"sound": {
+						"audio": "alpha_02",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}the coiled structural arrangement of many proteins consisting of a single chain of amino acids stabilized by hydrogen bonds"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"uros": [
+			{
+				"ure": "al*pha-he*li*cal",
+				"prs": [
+					{
+						"mw": "ˌal-fə-ˈhe-li-kəl"
+					},
+					{
+						"mw": "-ˈhē-li-",
+						"sound": {
+							"audio": "alpha07m",
+							"ref": "c",
+							"stat": "1"
+						}
+					}
+				],
+				"fl": "adjective"
+			}
+		],
+		"date": "1951",
+		"shortdef": [
+			"the coiled structural arrangement of many proteins consisting of a single chain of amino acids stabilized by hydrogen bonds"
+		]
+	},
+	{
+		"meta": {
+			"id": "alpha hydroxy acid",
+			"uuid": "10a1ab54-9eb2-4d9b-95f5-555c73a4dc97",
+			"sort": "012098000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"alpha hydroxy acid",
+				"alpha hydroxy acids",
+				"alpha-hydroxy acid",
+				"alpha-hydroxy acids"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "alpha hydroxy acid"
+		},
+		"vrs": [
+			{
+				"vl": "or",
+				"va": "al*pha-hy*droxy acid",
+				"prs": [
+					{
+						"mw": "ˌal-fə-hī-ˈdräk-sē-",
+						"sound": {
+							"audio": "alpha-hydroxy-a",
+							"ref": "owl",
+							"stat": "1"
+						}
+					}
+				]
+			}
+		],
+		"fl": "noun",
+		"ins": [
+			{
+				"il": "plural",
+				"if": "alpha hydroxy acids"
+			},
+			{
+				"il": "or",
+				"if": "alpha-hydroxy acids"
+			}
+		],
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}any of various {d_link|carboxylic acids|carboxylic acid} with a {d_link|hydroxyl|hydroxyl} group attached at the alpha position"
+									]
+								],
+								"sdsense": {
+									"sd": "specifically",
+									"dt": [
+										[
+											"text",
+											"{bc}one (such as malic acid or lactic acid) that occurs in natural products (such as fruits, sugarcane, or yogurt) and is used in cosmetics for its exfoliating effect on the surface layer of skin "
+										],
+										[
+											"vis",
+											[
+												{
+													"t": "Although many salons offer {wi}alpha hydroxy acid{\/wi} peels, which minimize the appearance of facial lines, never have the treatment on your first visit to a salon.",
+													"aq": {
+														"auth": "Kathleen Conway Engles"
+													}
+												},
+												{
+													"t": "{wi}Alpha-hydroxy acids{\/wi} are applied as a cream or lotion. They reduce fine wrinkling and improve overall skin texture.",
+													"aq": {
+														"source": "{it}Mayo Clinic Health Letter{\/it}"
+													}
+												}
+											]
+										],
+										[
+											"uns",
+											[
+												[
+													[
+														"text",
+														"abbreviation {it}AHA{\/it}"
+													]
+												]
+											]
+										],
+										[
+											"text",
+											" {dx}compare {dxt|beta hydroxy acid||}{\/dx}"
+										]
+									]
+								}
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1899",
+		"shortdef": [
+			"any of various carboxylic acids with a hydroxyl group attached at the alpha position; specifically : one (such as malic acid or lactic acid) that occurs in natural products (such as fruits, sugarcane, or yogurt) and is used in cosmetics for its exfoliating effect on the surface layer of skin —abbreviation AHA"
+		]
+	}
+]

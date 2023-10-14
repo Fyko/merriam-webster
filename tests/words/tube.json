@@ -1,0 +1,926 @@
+[
+  {
+    "meta": {
+      "id": "tube",
+      "uuid": "b87326e6-201e-4243-91de-109547212609",
+      "sort": "200432800",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "down the tube",
+        "down the tubes",
+        "tube",
+        "tubed",
+        "tubelike",
+        "tubes"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "tube",
+      "prs": [
+        {
+          "mw": "ˈtüb",
+          "sound": {
+            "audio": "tube0001",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "ˈtyüb"
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "bs",
+              {
+                "sense": {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}any of various usually cylindrical structures or devices: such as"
+                    ]
+                  ]
+                }
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a hollow elongated cylinder"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}one to convey fluids"
+                    ]
+                  ]
+                }
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a soft tubular container whose contents (such as toothpaste) can be removed by squeezing"
+                  ]
+                ]
+              }
+            ],
+            [
+              "pseq",
+              [
+                [
+                  "sense",
+                  {
+                    "sn": "c (1)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}{sx|tunnel||}"
+                      ]
+                    ]
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "(2)",
+                    "sls": [
+                      "British"
+                    ],
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}{sx|subway||b}"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ],
+            [
+              "sense",
+              {
+                "sn": "d",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the basically cylindrical section between the mouthpiece and bell that is the fundamental part of a wind instrument"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a slender channel (such as a fallopian tube or a pollen tube) within a plant or animal body {bc}{sx|duct||}"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the narrow basal portion of a corolla with united petals or a calyx with united sepals"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|inner tube||}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "4 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|electron tube||}"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|vacuum tube||}"
+                    ]
+                  ]
+                }
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|cathode-ray tube||}"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a television picture tube"
+                    ]
+                  ]
+                }
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "c",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|television||}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "5",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}an article of clothing shaped like a tube "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a {wi}tube{/wi} top"
+                      },
+                      {
+                        "t": "{wi}tube{/wi} socks"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "tubed",
+        "prs": [
+          {
+            "mw": "ˈtübd",
+            "sound": {
+              "audio": "tube0002",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "ˈtyübd"
+          }
+        ],
+        "fl": "adjective"
+      },
+      {
+        "ure": "tube*like",
+        "prs": [
+          {
+            "mw": "ˈtüb-ˌlīk",
+            "sound": {
+              "audio": "tube0003",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "ˈtyüb-"
+          }
+        ],
+        "fl": "adjective"
+      }
+    ],
+    "dros": [
+      {
+        "drp": "down the tube",
+        "vrs": [
+          {
+            "vl": "or",
+            "va": "down the tubes"
+          }
+        ],
+        "def": [
+          {
+            "sseq": [
+              [
+                [
+                  "sense",
+                  {
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}into a state of collapse or deterioration"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "French, from Latin {it}tubus{/it}; akin to Latin {it}tuba{/it} trumpet"
+      ]
+    ],
+    "date": "1651{ds||1||}",
+    "shortdef": [
+      "any of various usually cylindrical structures or devices: such as",
+      "a hollow elongated cylinder; especially : one to convey fluids",
+      "a soft tubular container whose contents (such as toothpaste) can be removed by squeezing"
+    ]
+  },
+  {
+    "meta": {
+      "id": "tube foot",
+      "uuid": "72556240-6d28-4c85-a8ef-933e79e6b16d",
+      "sort": "200432900",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "tube feet",
+        "tube foot",
+        "tube foots"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "tube foot"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}one of the small flexible tubular processes of most echinoderms that are extensions of the water-vascular system and are used especially in locomotion and grasping"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1888",
+    "shortdef": [
+      "one of the small flexible tubular processes of most echinoderms that are extensions of the water-vascular system and are used especially in locomotion and grasping"
+    ]
+  },
+  {
+    "meta": {
+      "id": "tube nucleus",
+      "uuid": "80707b76-37ae-49b2-b0ac-b827dcc4c662",
+      "sort": "200433100",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "tube nucleus",
+        "tube nucleuses"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "tube nucleus"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the one of the two nuclei formed by mitotic division of a microspore during the formation of a pollen grain that is held to control subsequent growth of the pollen tube and that does not divide again {dx}compare {dxt|generative nucleus||}{/dx}"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1939",
+    "shortdef": [
+      "the one of the two nuclei formed by mitotic division of a microspore during the formation of a pollen grain that is held to control subsequent growth of the pollen tube and that does not divide again"
+    ]
+  },
+  {
+    "meta": {
+      "id": "tube pan",
+      "uuid": "1f322c48-d66f-46fd-9087-2bf0c339eaf7",
+      "sort": "200433200",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "tube pan",
+        "tube pans"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "tube pan"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a ring-shaped cake pan with a tubular center"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1897",
+    "shortdef": [
+      "a ring-shaped cake pan with a tubular center"
+    ]
+  },
+  {
+    "meta": {
+      "id": "tube worm",
+      "uuid": "efd63db9-0410-4ad2-acae-2879eabb8082",
+      "sort": "200434900",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "tube worm",
+        "tube worms"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "tube worm"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "bs",
+              {
+                "sense": {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a worm that lives in a tube (as one composed of sand grains or calcium carbonate) : such as"
+                    ]
+                  ]
+                }
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}any of various polychaetes or oligochaetes"
+                  ]
+                ]
+              }
+            ],
+            [
+              "pseq",
+              [
+                [
+                  "sense",
+                  {
+                    "sn": "b (1)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}{sx|pogonophoran||}"
+                      ]
+                    ]
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "(2)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}{sx|vestimentiferan||}"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "circa 1819",
+    "shortdef": [
+      "a worm that lives in a tube (as one composed of sand grains or calcium carbonate) : such as",
+      "any of various polychaetes or oligochaetes",
+      "pogonophoran"
+    ]
+  },
+  {
+    "meta": {
+      "id": "tube sock",
+      "uuid": "754f6c5e-51eb-45ba-ba3a-cba2a80ebc00",
+      "sort": "3021534000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [
+        "tube sock"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "tube sock"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sls": [
+          "US"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a long sock that is shaped like a tube without a specific place for the heel and that is often worn while playing sports"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "a long sock that is shaped like a tube without a specific place for the heel and that is often worn while playing sports"
+    ]
+  },
+  {
+    "meta": {
+      "id": "tube top",
+      "uuid": "e817b346-067f-40e9-8814-a2600f4f243c",
+      "sort": "3021535000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [
+        "tube top"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "tube top"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sls": [
+          "US"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a piece of clothing for women and girls that is shaped like a tube and that covers the chest and back but not the shoulders or arms"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "a piece of clothing for women and girls that is shaped like a tube and that covers the chest and back but not the shoulders or arms"
+    ]
+  },
+  {
+    "meta": {
+      "id": "auditory tube",
+      "uuid": "3daaabca-b36c-45f2-8bfd-057709402c92",
+      "sort": "014709000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "auditory tube",
+        "auditory tubes"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "auditory tube"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|eustachian tube||}"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "circa 1705",
+    "shortdef": [
+      "eustachian tube"
+    ]
+  },
+  {
+    "meta": {
+      "id": "boob tube",
+      "uuid": "ee9c28a7-3b14-441a-ad05-a3bb83d4ceda",
+      "sort": "020341900",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "boob tube",
+        "boob tubes"
+      ],
+      "offensive": true
+    },
+    "hwi": {
+      "hw": "boob tube"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "sls": [
+                  "chiefly US",
+                  "informal + often disparaging"
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|television||} "
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "usually used with {it}the{/it} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "She also began walking instead of plopping down in front of the {wi}boob tube{/wi} every night.",
+                              "aq": {
+                                "auth": "Deborah Gregory"
+                              }
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "sls": [
+                  "chiefly British",
+                  "informal"
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|tube top||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "… her stage outfit of camouflage hot pants, over-the-knee boots and a {wi}boob tube{/wi} with the word \"love\" scrawled across it was a bit much …",
+                        "aq": {
+                          "auth": "Libby Callaway"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1959{ds||1||}",
+    "shortdef": [
+      "television —usually used with the",
+      "tube top"
+    ]
+  },
+  {
+    "meta": {
+      "id": "breathing tube",
+      "uuid": "e2b2402f-7ca6-4c94-9481-36e62a2677fa",
+      "sort": "020410900",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "breathing tube",
+        "breathing tubes"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "breathing tube"
+    },
+    "fl": "noun",
+    "ins": [
+      {
+        "il": "plural",
+        "if": "breathing tubes"
+      }
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "sls": [
+                  "medical"
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a usually small plastic tube inserted (as through the nose or mouth) into the trachea especially to deliver oxygen or anesthesia to the lungs "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "… tracheostomy, a complication-prone and cosmetically undesirable insertion of a {wi}breathing tube{/wi} through the neck.",
+                        "aq": {
+                          "auth": "John Grossmann"
+                        }
+                      }
+                    ]
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|endotracheal tube||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "… her life is sustained by a {wi}breathing tube{/wi} that hospital authorities are unwilling to disconnect.",
+                          "aq": {
+                            "auth": "Judy Flander"
+                          }
+                        },
+                        {
+                          "t": "Eventually, anesthesia was called to insert a {wi}breathing tube{/wi} and Mrs. M was placed on a ventilator because she could not breathe adequately on her own.",
+                          "aq": {
+                            "auth": "Kiran Gupta"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          ],
+          [
+            [
+              "bs",
+              {
+                "sense": {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a tubular anatomical part through which air passes into or out of the body: such as"
+                    ]
+                  ]
+                }
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a {d_link|trachea|trachea} or {d_link|bronchial tube|bronchial tube} of an air-breathing vertebrate "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "… immediate help would be available to any student suffering anaphylaxis, the severe allergic reaction that can close off {wi}breathing tubes{/wi} and send the body into shock.",
+                        "aq": {
+                          "auth": "Noreen S. Ahmed-Ullah"
+                        }
+                      },
+                      {
+                        "t": "Bronchiectasis is abnormal dilation of the bronchi, the {wi}breathing tubes{/wi} of the lungs.",
+                        "aq": {
+                          "auth": "Paul G. Donohue"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}one of the air-conveying tubules forming the respiratory system of most insects and many other arthropods {bc}{sx|trachea||3} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "… tracheal mites, even tinier parasites, which attack bees' {wi}breathing tubes{/wi} …",
+                        "aq": {
+                          "auth": "Elizabeth Kolbert"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1800{ds||1||}",
+    "shortdef": [
+      "a usually small plastic tube inserted (as through the nose or mouth) into the trachea especially to deliver oxygen or anesthesia to the lungs; especially : endotracheal tube",
+      "a tubular anatomical part through which air passes into or out of the body: such as",
+      "a trachea or bronchial tube of an air-breathing vertebrate"
+    ]
+  }
+]

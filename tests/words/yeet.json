@@ -1,0 +1,174 @@
+[
+  {
+    "meta": {
+      "id": "yeet:1",
+      "uuid": "092641a5-d666-4090-90c0-49e1020de694",
+      "sort": "250121700",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "yeet"
+      ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "yeet",
+      "prs": [
+        {
+          "mw": "ˈyēt",
+          "sound": {
+            "audio": "yeet",
+            "ref": "owl",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "interjection",
+    "def": [
+      {
+        "sls": [
+          "slang"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "used to express surprise, approval, or excited enthusiasm "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "As the right guard headed to his stall, he uttered two words just audible over the hum of a winning locker room: \"{wi}Yeet{/wi}, {wi}yeet{/wi}.\"",
+                              "aq": {
+                                "auth": "Olivia Reiner"
+                              }
+                            },
+                            {
+                              "t": "Instead of saying \"cool\" when something good happens, he would say \"{wi}yeet{/wi}\", which in slang can mean anything from \"yes\" to expressing excitement or approval.",
+                              "aq": {
+                                "auth": "Mary-Jo Tohill"
+                              }
+                            },
+                            {
+                              "t": "… he enjoys using the slang phrase \"{wi}yeet{/wi}\" to celebrate his keto diet achievements.",
+                              "aq": {
+                                "source": "{it}M2 PressWIRE{/it}"
+                              }
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "of phonesthemic origin"
+      ],
+      [
+        "et_snote",
+        [
+          [
+            "t",
+            "Compare the initial element in {it}yeesh,{/it} exclamation of annoyance, which has the final element of {et_link|sheesh|sheesh}."
+          ]
+        ]
+      ]
+    ],
+    "date": "2007",
+    "shortdef": [
+      "—used to express surprise, approval, or excited enthusiasm"
+    ]
+  },
+  {
+    "meta": {
+      "id": "yeet:2",
+      "uuid": "b8e17778-efed-48e6-b78a-1052c2730a4d",
+      "sort": "250121900",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "yeet",
+        "yeeted",
+        "yeeting",
+        "yeets"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "yeet"
+    },
+    "fl": "verb",
+    "ins": [
+      {
+        "if": "yeet*ed"
+      },
+      {
+        "if": "yeet*ing"
+      },
+      {
+        "if": "yeets"
+      }
+    ],
+    "def": [
+      {
+        "vd": "transitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to throw especially with force and without regard for the thing being thrown "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "When it comes to Twitter features, number one on the wish list of the platform's heaviest users—apart from a Super Mega Block option that instantly {wi}yeets{/wi} a nasty user into the sea—is the edit button.",
+                        "aq": {
+                          "auth": "Caitlin Welsh"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "probably derivative of {et_link|yeet:1|yeet:1}"
+      ]
+    ],
+    "date": "2017",
+    "shortdef": [
+      "to throw especially with force and without regard for the thing being thrown"
+    ]
+  }
+]

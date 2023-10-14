@@ -1,0 +1,622 @@
+[
+  {
+    "meta": {
+      "id": "chat:1",
+      "uuid": "97e2a0f1-7a6b-4dc3-842b-d3e5c789e3e3",
+      "sort": "032271000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "chat",
+        "chats",
+        "chatted",
+        "chatting"
+      ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "chat",
+      "prs": [
+        {
+          "mw": "ˈchat",
+          "sound": {
+            "audio": "chat0001",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "verb",
+    "ins": [
+      {
+        "if": "chat*ted"
+      },
+      {
+        "if": "chat*ting"
+      }
+    ],
+    "def": [
+      {
+        "vd": "intransitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|chatter||}, {sx|prattle||}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to talk in an informal or familiar manner"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to take part in an online discussion in a chat room"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "vd": "transitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sls": [
+                  "chiefly British"
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to talk to"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to talk lightly, glibly, or flirtatiously with "
+                    ],
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "often used with {it}up{/it}"
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English {it}chatten{/it}, short for {it}chatteren{/it}"
+      ]
+    ],
+    "date": "15th century{ds|i|1||}",
+    "shortdef": [
+      "chatter, prattle",
+      "to talk in an informal or familiar manner",
+      "to take part in an online discussion in a chat room"
+    ]
+  },
+  {
+    "meta": {
+      "id": "chat:2",
+      "uuid": "6333183f-8644-4716-8951-bce2bbd82d52",
+      "sort": "032272000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "chat",
+        "chats"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "chat"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}idle small talk {bc}{sx|chatter||}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}light informal or familiar talk"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|conversation||}"
+                    ]
+                  ]
+                }
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "et": [
+                  [
+                    "text",
+                    "imitative"
+                  ]
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}any of several songbirds (as of the genera {it}Cercomela, Granatellus{/it}, or {it}Icteria{/it})"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "4",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}online discussion in a chat room"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "also",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an instance of such discussion "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "participate in computer {wi}chats{/wi}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1530{ds||1||}",
+    "shortdef": [
+      "idle small talk : chatter",
+      "light informal or familiar talk; especially : conversation",
+      "any of several songbirds (as of the genera Cercomela, Granatellus, or Icteria)"
+    ]
+  },
+  {
+    "meta": {
+      "id": "chat room",
+      "uuid": "15da724c-6588-42a2-9715-732b66e36f0a",
+      "sort": "032281000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "chat room",
+        "chat rooms"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "chat room"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a real-time online interactive discussion group"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1986",
+    "shortdef": [
+      "a real-time online interactive discussion group"
+    ]
+  },
+  {
+    "meta": {
+      "id": "chat show",
+      "uuid": "a8e77fad-ac51-4f74-b5bb-79cbe96483b7",
+      "sort": "032282000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "chat show",
+        "chat shows"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "chat show"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sls": [
+          "chiefly British"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|talk show||}"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1969",
+    "shortdef": [
+      "talk show"
+    ]
+  },
+  {
+    "meta": {
+      "id": "chat line",
+      "uuid": "87905f06-0d1c-4a6c-8854-13cf5748b2be",
+      "sort": "3003122000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [
+        "chat line"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "chat line"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sls": [
+          "British"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a telephone service that people call in order to speak with other people about a certain topic"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "a telephone service that people call in order to speak with other people about a certain topic"
+    ]
+  },
+  {
+    "meta": {
+      "id": "chat up",
+      "uuid": "d8d12cef-f043-40c8-ac58-fb349e2b69a4",
+      "sort": "3003125000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [
+        "chat up",
+        "chats up",
+        "chatted up",
+        "chatting up"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "chat up"
+    },
+    "fl": "phrasal verb",
+    "ins": [
+      {
+        "if": "chat*ted up"
+      },
+      {
+        "if": "chat*ting up"
+      },
+      {
+        "if": "chats up"
+      }
+    ],
+    "def": [
+      {
+        "sls": [
+          "informal"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to talk informally with (someone, such as someone one is attracted to) "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "He tried to {it}chat up{/it} a girl at the dance."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "to talk informally with (someone, such as someone one is attracted to)"
+    ]
+  },
+  {
+    "meta": {
+      "id": "chat-up line",
+      "uuid": "5fae509c-394f-413a-a1a4-ef0aada4220f",
+      "sort": "3003126000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [
+        "chat-up line"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "chat-up line"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sls": [
+          "British"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a comment made by a man to start a conversation with a woman he is attracted to "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a guy with a clever {it}chat-up line{/it}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "a comment made by a man to start a conversation with a woman he is attracted to"
+    ]
+  },
+  {
+    "meta": {
+      "id": "pas de chat",
+      "uuid": "40e976c0-b2cd-4a54-a263-fdad8d19f607",
+      "sort": "160091900",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "pas de chat"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "pas de chat",
+      "prs": [
+        {
+          "mw": "ˌpä-də-ˈsha",
+          "sound": {
+            "audio": "pasdec01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "ins": [
+      {
+        "il": "plural",
+        "if": "pas de chat",
+        "prs": [
+          {
+            "mw": "ˌpä-də-ˈsha",
+            "sound": {
+              "audio": "pasdec01",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ]
+      }
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a ballet leap from one foot to the other in which the feet are drawn up and the knees are bent so that the legs form a diamond"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "French, literally, cat's step"
+      ]
+    ],
+    "date": "1914",
+    "shortdef": [
+      "a ballet leap from one foot to the other in which the feet are drawn up and the knees are bent so that the legs form a diamond"
+    ]
+  },
+  {
+    "meta": {
+      "id": "a bon chat, bon rat:f",
+      "uuid": "4ee3f60b-99fe-4260-8478-a6c2954eeb7f",
+      "sort": "290004000",
+      "src": "collegiate",
+      "section": "fwp",
+      "stems": [
+        "a bon chat, bon rat"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "à bon chat, bon rat",
+      "prs": [
+        {
+          "mw": "ä-bōⁿ-ˈshä bōⁿ-ˈrä",
+          "sound": {
+            "audio": "fwabon01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "French phrase",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to a good cat, a good rat {bc}tit for tat {bc}a good match {bc}two can play at that game"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "to a good cat, a good rat : tit for tat : a good match : two can play at that game"
+    ]
+  }
+]

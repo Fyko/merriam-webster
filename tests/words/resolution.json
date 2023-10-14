@@ -1,0 +1,528 @@
+[
+  {
+    "meta": {
+      "id": "resolution",
+      "uuid": "23654358-72ea-427e-99f8-4391ae902011",
+      "sort": "182489000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "resolution",
+        "resolutions"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "res*o*lu*tion",
+      "prs": [
+        {
+          "mw": "ˌre-zə-ˈlü-shən",
+          "sound": {
+            "audio": "resolu05",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "bs",
+              {
+                "sense": {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act or process of {d_link|resolving|resolve:1}: such as"
+                    ]
+                  ]
+                }
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the act of analyzing a complex notion into simpler ones"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the act of answering {bc}{sx|solving||}"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "c",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the act of determining"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "d",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the passing of a voice part from a {d_link|dissonant|dissonant} to a {d_link|consonant|consonant:1} tone or the progression of a chord from {d_link|dissonance|dissonance} to {d_link|consonance|consonance}"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "e",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the separating of a chemical compound or mixture into its {d_link|constituents|constituent:1}"
+                  ]
+                ]
+              }
+            ],
+            [
+              "pseq",
+              [
+                [
+                  "sense",
+                  {
+                    "sn": "f (1)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}the division of a {d_link|prosodic|prosodic} element into its component parts"
+                      ]
+                    ]
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "(2)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}the substitution in Greek or Latin {d_link|prosody|prosody} of two short syllables for a long syllable"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ],
+            [
+              "sense",
+              {
+                "sn": "g",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the analysis of a {d_link|vector|vector:1} into two or more vectors of which it is the sum"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the subsidence of a {d_link|pathological|pathological} state (such as inflammation)"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}something that is resolved "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "made a {wi}resolution{/wi} to mend my ways"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}firmness of {d_link|resolve|resolve:2}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "4",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a formal expression of opinion, will, or intent voted by an official body or assembled group"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "5",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the point in a literary work at which the chief dramatic {d_link|complication|complication} is worked out"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "6 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the process or capability of making distinguishable the individual parts of an object, closely adjacent optical images, or sources of light"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a measure of the sharpness of an image or of the fineness with which a device (such as a video display, printer, or scanner) can produce or record such an image usually expressed as the total number or density of {d_link|pixels|pixel} in the image "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a {wi}resolution{/wi} of 1200 dots per inch"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "syns": [
+      {
+        "pl": "synonyms",
+        "pt": [
+          [
+            "text",
+            "{sc}courage{/sc} {sc}mettle{/sc} {sc}spirit{/sc} {sc}resolution{/sc} {sc}tenacity{/sc} mean mental or moral strength to resist opposition, danger, or hardship. {sc}courage{/sc} implies firmness of mind and will in the face of danger or extreme difficulty. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "the {it}courage{/it} to support unpopular causes"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}mettle{/sc} suggests an ingrained capacity for meeting strain or difficulty with fortitude and resilience. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "a challenge that will test your {it}mettle{/it}"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}spirit{/sc} also suggests a quality of temperament enabling one to hold one's own or keep up one's morale when opposed or threatened. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "her {it}spirit{/it} was unbroken by failure"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}resolution{/sc} stresses firm determination to achieve one's ends. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "the {it}resolution{/it} of pioneer women"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}tenacity{/sc} adds to {sc}resolution{/sc} implications of stubborn persistence and unwillingness to admit defeat. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "held to their beliefs with great {it}tenacity{/it}"
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "t": "In June, the demagogic militia leader Moqtada al Sadr … sponsored a {qword}resolution{/qword} requiring the government to seek permission of the parliament before asking the U.N. to reauthorize the presence of foreign forces in Iraq.",
+        "aq": {
+          "auth": "Lawrence Wright",
+          "source": "{it}New Yorker{/it}",
+          "aqdate": "22 Oct. 2007"
+        }
+      },
+      {
+        "t": "In late August, the U.N. Security Council passed a {qword}resolution{/qword} calling for peacekeepers to deploy to Darfur to stop a genocide that has claimed some 400,000 lives over the last three years.",
+        "aq": {
+          "source": "{it}New Republic{/it}",
+          "aqdate": "30 Oct. 2006"
+        }
+      },
+      {
+        "t": "Here again it would seem that the vicarious experience just once of seeing another human being completely \"blotto\" should be sufficient to engender a firm and unbreakable {qword}resolution{/qword} never to take a chance on making a similarly disgusting spectacle of oneself.",
+        "aq": {
+          "auth": "David A. Embury",
+          "source": "{it}The Fine Art of Mixing Drinks{/it}",
+          "aqdate": "1970"
+        }
+      },
+      {
+        "t": "But Hannah's brief {qword}resolution{/qword} suddenly gave way, and all at once she clung to Kit, sobbing like a child.",
+        "aq": {
+          "auth": "Elizabeth George Speare",
+          "source": "{it}The Witch of Blackbird Pond{/it}",
+          "aqdate": "1987"
+        }
+      },
+      {
+        "t": "Perrotta tells a good story in a top-shelf romance kind of way, and you'll very likely find yourself eager to get to the {qword}resolution{/qword} once you've begun.",
+        "aq": {
+          "auth": "Paul J. Griffiths",
+          "source": "{it}Commonweal{/it}",
+          "aqdate": "21 Dec. 2007"
+        }
+      },
+      {
+        "t": "The OMEGA spectrometer on the European Space Agency's Mars Express orbiter has gone where no spectrometer has gone before, covering near-infrared wavelengths and offering 10 times the {qword}resolution{/qword} of earlier instruments.",
+        "aq": {
+          "auth": "George Musser",
+          "source": "{it}Scientific American{/it}",
+          "aqdate": "December 2005"
+        }
+      },
+      {
+        "t": "The new revelation was that, in high {qword}resolution{/qword}, the valley showed deep channels and scours sharply incised into bedrock …",
+        "aq": {
+          "auth": "Bertram Schwarzschild",
+          "source": "{it}Physics Today{/it}",
+          "aqdate": "September 2007"
+        }
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English {it}resolucioun{/it}, from Anglo-French or Latin; Anglo-French {it}resolucion{/it}, from Latin {it}resolution-, resolutio{/it}, from {it}resolvere{/it} {dx_ety}see {dxt|resolve:1||}{/dx_ety}"
+      ]
+    ],
+    "date": "14th century{ds||1||}",
+    "shortdef": [
+      "the act or process of resolving: such as",
+      "the act of analyzing a complex notion into simpler ones",
+      "the act of answering : solving"
+    ]
+  },
+  {
+    "meta": {
+      "id": "concurrent resolution",
+      "uuid": "411efa28-a8d4-49da-bf42-c461c3bb34d1",
+      "sort": "035513600",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "concurrent resolution",
+        "concurrent resolutions"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "concurrent resolution"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a resolution passed by both houses of a legislative body that lacks the force of law"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1778",
+    "shortdef": [
+      "a resolution passed by both houses of a legislative body that lacks the force of law"
+    ]
+  },
+  {
+    "meta": {
+      "id": "joint resolution",
+      "uuid": "940a366d-9149-46b6-b820-fbdde8ab082d",
+      "sort": "100050000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "joint resolution",
+        "joint resolutions"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "joint resolution"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a resolution passed by both houses of a legislative body that has the force of law when signed by or passed over the veto of the executive"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1838",
+    "shortdef": [
+      "a resolution passed by both houses of a legislative body that has the force of law when signed by or passed over the veto of the executive"
+    ]
+  },
+  {
+    "meta": {
+      "id": "New Year's resolution",
+      "uuid": "3a6cf1c3-e291-4cf6-bb46-576505db978c",
+      "sort": "3012660000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [
+        "New Year's resolution"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "New Year's resolution"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a promise to do something differently in the new year "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "Her {it}New Year's resolution{/it} is to exercise regularly."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "a promise to do something differently in the new year"
+    ]
+  }
+]

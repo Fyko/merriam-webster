@@ -1,0 +1,1402 @@
+[
+  {
+    "meta": {
+      "id": "mean:1",
+      "uuid": "57e9c420-c17f-448a-97c4-dd6bc7067bf9",
+      "sort": "131459000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "mean",
+        "mean business",
+        "meaned",
+        "meaner",
+        "meaners",
+        "meaning",
+        "meaning business",
+        "means",
+        "means business",
+        "meant",
+        "meant business"
+      ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "mean",
+      "prs": [
+        {
+          "mw": "ˈmēn",
+          "sound": {
+            "audio": "mean0001",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "verb",
+    "ins": [
+      {
+        "if": "meant",
+        "prs": [
+          {
+            "mw": "ˈment",
+            "sound": {
+              "audio": "mean0002",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ]
+      },
+      {
+        "if": "mean*ing",
+        "prs": [
+          {
+            "mw": "ˈmē-niŋ",
+            "sound": {
+              "audio": "mean0003",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ]
+      }
+    ],
+    "def": [
+      {
+        "vd": "transitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to have in the mind as a purpose {bc}{sx|intend||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "she {wi}means{/wi} to win"
+                      }
+                    ]
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "sometimes used interjectionally with {it}I{/it}, chiefly in informal speech for emphasis "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "he throws, I {wi}mean{/wi}, hard"
+                            }
+                          ]
+                        ],
+                        [
+                          "text",
+                          " or to introduce a phrase restating the point of a preceding phrase "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "we try to answer what we can, but I {wi}mean{/wi} we're not God",
+                              "aq": {
+                                "auth": "Bobbie Ann Mason"
+                              }
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to design for or {d_link|destine|destine} to a specified purpose or future "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "I was {it}meant{/it} to teach"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to serve or intend to {d_link|convey|convey}, show, or indicate {bc}{sx|signify||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a red sky {wi}means{/wi} rain"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to have importance to the degree of "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "health {wi}means{/wi} everything"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "4",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to direct to a particular individual "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "His criticism was {it}meant{/it} for all of us."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "vd": "intransitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to have an intended purpose "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "he {wi}means{/wi} well"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "mean*er",
+        "prs": [
+          {
+            "mw": "ˈmē-nər",
+            "sound": {
+              "audio": "mean0004",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "noun"
+      }
+    ],
+    "dros": [
+      {
+        "drp": "mean business",
+        "def": [
+          {
+            "sseq": [
+              [
+                [
+                  "sense",
+                  {
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}to be in earnest"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "t": "Home {qword}meant{/qword} my father, with kind eyes, songs, and tense recitations for my brother and myself.",
+        "aq": {
+          "auth": "Gwendolyn Brooks",
+          "source": "{it}Booklist{/it}",
+          "aqdate": "15 Oct. 1993"
+        }
+      },
+      {
+        "t": "The season of backyard barbecues and lakeside cookouts is at hand, which in most parts of the country {qword}means{/qword} an orgy of grilled steaks, hamburgers and hot dogs lasting until Labor Day and beyond.",
+        "aq": {
+          "auth": "R. W. Apple, Jr.",
+          "source": "{it}New York Times{/it}",
+          "aqdate": "5 June 2002"
+        }
+      },
+      {
+        "t": "Even the water in the cave was free from surface contamination … which {qword}meant{/qword} that all the water now in Lechugilla percolated into the cave before the widespread nuclear bomb testing of the 1940s …",
+        "aq": {
+          "auth": "Jon Krakauer",
+          "source": "{it}Air & Space{/it}",
+          "aqdate": "October/November 1995"
+        }
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English {it}menen{/it}, from Old English {it}mǣnan{/it}; akin to Old High German {it}meinen{/it} to have in mind, Old Church Slavonic {it}měniti{/it} to mention"
+      ]
+    ],
+    "date": "before 12th century{ds|t|1|a|}",
+    "shortdef": [
+      "to have in the mind as a purpose : intend —sometimes used interjectionally with I, chiefly in informal speech for emphasis or to introduce a phrase restating the point of a preceding phrase",
+      "to design for or destine to a specified purpose or future",
+      "to serve or intend to convey, show, or indicate : signify"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mean:2",
+      "uuid": "33110770-6427-44be-838d-4bc134aff72a",
+      "sort": "131460000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "mean",
+        "meaner",
+        "meanest",
+        "meanness",
+        "meannesses"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "mean",
+      "prs": [
+        {
+          "mw": "ˈmēn",
+          "sound": {
+            "audio": "mean0005",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "adjective",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}lacking distinction or {d_link|eminence|eminence} {bc}{sx|humble||}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}lacking in mental {d_link|discrimination|discrimination} {bc}{sx|dull||}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}of poor, shabby, or inferior quality or status "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "{wi}mean{/wi} city streets"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}worthy of little regard {bc}{sx|contemptible||} "
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "often used in negative constructions as a term of praise "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "no {wi}mean{/wi} feat"
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "4",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}lacking dignity or honor {bc}{sx|base||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a {wi}mean{/wi} motive"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "5 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|penurious||}, {sx|stingy||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "He's very {wi}mean{/wi} with his money."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}characterized by {d_link|petty|petty} selfishness or malice "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a {wi}mean{/wi} surly man"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "c",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}causing trouble or bother {bc}{sx|vexatious||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a {wi}mean{/wi} soil to work"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "d",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|excellent||}, {sx|effective||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "plays a {wi}mean{/wi} trumpet"
+                      },
+                      {
+                        "t": "a lean, {wi}mean{/wi} athlete"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "6",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|ashamed||1b} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "His ready cooperation made me feel {wi}mean{/wi} for what I had said."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "mean*ness",
+        "prs": [
+          {
+            "mw": "ˈmēn-nəs",
+            "sound": {
+              "audio": "mean0006",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "noun"
+      }
+    ],
+    "syns": [
+      {
+        "pl": "synonyms",
+        "pt": [
+          [
+            "text",
+            "{sc}mean{/sc} {sc}ignoble{/sc} {sc}abject{/sc} {sc}sordid{/sc} mean being below the normal standards of human decency and dignity. {sc}mean{/sc} suggests small-mindedness, ill temper, or cupidity. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "{it}mean{/it} and petty satire"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}ignoble{/sc} suggests a loss or lack of some essential high quality of mind or spirit. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "an {it}ignoble{/it} scramble after material possessions"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}abject{/sc} may imply degradation, debasement, or servility. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "{it}abject{/it} poverty"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}sordid{/sc} is stronger than all of these in stressing physical or spiritual degradation and abjectness. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "a {it}sordid{/it} story of murder and revenge"
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "quotes": [
+      {
+        "t": "… what you discover is the one with the tail was old {qword}mean{/qword} landlord Mr. prosperous Prospero who wielded without thought of God or man the merry old cat-o'-nine-tails …",
+        "aq": {
+          "auth": "Darryl Pinckney",
+          "source": "{it}Times Literary Supplement{/it}",
+          "aqdate": "23 Aug. 1991"
+        }
+      },
+      {
+        "t": "For thirty years he had been a ruthless litigator, the {qword}meanest{/qword}, nastiest, and without a doubt one of the most effective courtroom brawlers in Chicago.",
+        "aq": {
+          "auth": "John Grisham",
+          "source": "{it}The Chamber{/it}",
+          "aqdate": "1995"
+        }
+      },
+      {
+        "t": "Creighton Abrams was a tanker, according to George Patton the {qword}meanest{/qword} tanker the Germans had faced in the whole U.S. Third Army, and he had a temper that matched the fearsome machines he loved.",
+        "aq": {
+          "auth": "Neil Sheehan",
+          "source": "{it}A Bright Shining Lie{/it}",
+          "aqdate": "1988"
+        }
+      },
+      {
+        "t": "… the streets of Spanish Harlem are {qword}meaner{/qword} than when he left them, and they're pulling him back in.",
+        "aq": {
+          "auth": "Peter Travers",
+          "source": "{it}Rolling Stone{/it}",
+          "aqdate": "9 Dec. 1993"
+        }
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English {it}mene{/it}, from {it}imene{/it} common, shared, from Old English {it}gemǣne{/it}; akin to Old High German {it}gimeini{/it} common, Latin {it}communis{/it} common, {it}munus{/it} service, gift, Sanskrit {it}mayate{/it} he exchanges"
+      ]
+    ],
+    "date": "14th century{ds||1||}",
+    "shortdef": [
+      "lacking distinction or eminence : humble",
+      "lacking in mental discrimination : dull",
+      "of poor, shabby, or inferior quality or status"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mean:3",
+      "uuid": "c859bc84-6519-4cfd-8efb-ecda1be22bf8",
+      "sort": "131461000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "mean",
+        "meaner",
+        "meanest",
+        "meanness",
+        "meannesses"
+      ],
+      "offensive": false
+    },
+    "hom": 3,
+    "hwi": {
+      "hw": "mean",
+      "prs": [
+        {
+          "mw": "ˈmēn",
+          "sound": {
+            "audio": "mean0001",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "adjective",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}occupying a middle position {bc}{d_link|intermediate|intermediate:1} in space, order, time, kind, or degree"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}occupying a position about {d_link|midway|midway:1} between extremes"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}being the {d_link|mean|mean:4} of a set of values {bc}{sx|average||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "the {wi}mean{/wi} temperature"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}serving as a means {bc}{sx|intermediary||}"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "syns": [
+      {
+        "pl": "synonyms",
+        "pt": [
+          [
+            "text",
+            "{sc}average{/sc} {sc}mean{/sc} {sc}median{/sc} {sc}norm{/sc} mean something that represents a middle point. {sc}average{/sc} is the quotient obtained by dividing the sum total of a set of figures by the number of figures. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "scored an {it}average{/it} of 85 on tests"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}mean{/sc} may be the simple average or it may represent value midway between two extremes. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "a high of 70° and a low of 50° give a {it}mean{/it} of 60°"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}median{/sc} applies to the value that represents the point at which there are as many instances above as there are below. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "{it}average{/it} of a group of persons earning 3, 4, 5, 8, and 10 dollars an hour is 6 dollars, whereas the {it}median{/it} is 5 dollars"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}norm{/sc} means the average of performance of a significantly large group, class, or grade. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "scores about the {it}norm{/it} for fifth grade arithmetic"
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English {it}mene{/it}, from Anglo-French {it}mene, meiene{/it}, from Latin {it}medianus{/it} {ma}{mat|median|}{/ma}"
+      ]
+    ],
+    "date": "14th century{ds||1||}",
+    "shortdef": [
+      "occupying a middle position : intermediate in space, order, time, kind, or degree",
+      "occupying a position about midway between extremes; especially : being the mean of a set of values : average",
+      "serving as a means : intermediary"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mean:4",
+      "uuid": "c5b0f659-285b-4265-83e4-ae6a416683f0",
+      "sort": "131462000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "by all means",
+        "by means of",
+        "by no means",
+        "mean",
+        "means"
+      ],
+      "offensive": false
+    },
+    "hom": 4,
+    "hwi": {
+      "hw": "mean",
+      "prs": [
+        {
+          "mw": "ˈmēn",
+          "sound": {
+            "audio": "mean0001",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "pseq",
+              [
+                [
+                  "sense",
+                  {
+                    "sn": "1 a (1)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}something {d_link|intervening|intervene} or intermediate"
+                      ]
+                    ]
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "(2)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}a middle point between extremes"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ],
+            [
+              "pseq",
+              [
+                [
+                  "bs",
+                  {
+                    "sense": {
+                      "sn": "b",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}a value that lies within a range of values and is {d_link|computed|compute} according to a prescribed law: such as"
+                        ]
+                      ]
+                    }
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "(1)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}{sx|arithmetic mean||}"
+                      ]
+                    ]
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "(2)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}{sx|expected value||}"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ],
+            [
+              "sense",
+              {
+                "sn": "c",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}either of the middle two terms of a {d_link|proportion|proportion:1}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "ins": [
+                  {
+                    "if": "means",
+                    "spl": "plural in form but singular or plural in construction"
+                  }
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}something useful or helpful to a desired end"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "ins": [
+                  {
+                    "if": "means",
+                    "spl": "plural"
+                  }
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}resources available for disposal"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}material resources {d_link|affording|afford} a secure life"
+                    ]
+                  ]
+                }
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "dros": [
+      {
+        "drp": "by all means",
+        "def": [
+          {
+            "sseq": [
+              [
+                [
+                  "sense",
+                  {
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}most {d_link|assuredly|assuredly} {bc}{sx|certainly||}"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "drp": "by means of",
+        "def": [
+          {
+            "sseq": [
+              [
+                [
+                  "sense",
+                  {
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}through the use of"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "drp": "by no means",
+        "def": [
+          {
+            "sseq": [
+              [
+                [
+                  "sense",
+                  {
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}in no way {bc}not at all"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "{dx_ety}see {dxt|mean:3||}{/dx_ety}"
+      ]
+    ],
+    "date": "14th century{ds||1|a|1}",
+    "shortdef": [
+      "something intervening or intermediate",
+      "a middle point between extremes",
+      "a value that lies within a range of values and is computed according to a prescribed law: such as"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mean deviation",
+      "uuid": "c0505386-8661-4865-8da2-f8dc1f539919",
+      "sort": "131465000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "mean deviation",
+        "mean deviations"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mean deviation"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the mean of the absolute values of the numerical differences between the numbers of a set (such as statistical data) and their mean or median"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1858",
+    "shortdef": [
+      "the mean of the absolute values of the numerical differences between the numbers of a set (such as statistical data) and their mean or median"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mean distance",
+      "uuid": "edba7256-dd9c-4848-b7d8-49b6d6224ca9",
+      "sort": "131466000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "mean distance",
+        "mean distances"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mean distance"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the arithmetical mean of the maximum and minimum distances of an orbiting celestial object from its primary"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1788",
+    "shortdef": [
+      "the arithmetical mean of the maximum and minimum distances of an orbiting celestial object from its primary"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mean free path",
+      "uuid": "f0e815e6-ef9b-43e9-aef6-742bc2c064a3",
+      "sort": "131467000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "mean free path",
+        "mean free paths"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mean free path"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the average distance traversed between collisions by particles (such as molecules of a gas or free electrons in metal) in a system of agitated particles"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1879",
+    "shortdef": [
+      "the average distance traversed between collisions by particles (such as molecules of a gas or free electrons in metal) in a system of agitated particles"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mean proportional",
+      "uuid": "d73df667-3e5a-4629-ac3a-cff599f74e2e",
+      "sort": "131475000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "mean proportional",
+        "mean proportionals"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mean proportional"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|geometric mean||}"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the square root (such as {it}x{/it}) of the product of two numbers (such as {it}a{/it} and {it}b{/it}) when expressed as the means of a proportion (such as {it}a/x = x/b{/it})"
+                    ]
+                  ]
+                }
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1571",
+    "shortdef": [
+      "geometric mean; especially : the square root (such as x) of the product of two numbers (such as a and b) when expressed as the means of a proportion (such as a/x = x/b)"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mean solar day",
+      "uuid": "8bdbbf61-9d18-48c6-bd2c-58bcc59b2e96",
+      "sort": "131476000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "mean solar day",
+        "mean solar days"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mean solar day"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the interval between successive transits of a given meridian of longitude by the {d_link|mean sun|mean sun} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "The confusion wasn't resolved for good until 1884, when an international time conference in Washington, D.C., replaced the old-fashioned solar day with the {wi}mean solar day{/wi}—a legal fiction in which the daily fluctuations are averaged out, enabling us to enjoy the blessings of a uniform 24-hour day all year long.",
+                        "aq": {
+                          "auth": "Jon Vara"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1810",
+    "shortdef": [
+      "the interval between successive transits of a given meridian of longitude by the mean sun"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mean-spirited",
+      "uuid": "8e8c5318-05be-4576-97b7-59e252a33fbd",
+      "sort": "131477000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "mean-spirited",
+        "mean-spiritedness",
+        "mean-spiritednesses"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mean-spir*it*ed",
+      "prs": [
+        {
+          "mw": "ˈmēn-ˈspir-ə-təd",
+          "sound": {
+            "audio": "meansp01",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "ˌmēn-"
+        }
+      ]
+    },
+    "fl": "adjective",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}exhibiting or characterized by meanness of spirit"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "mean-spir*it*ed*ness",
+        "prs": [
+          {
+            "mw": "ˈmēn-ˈspir-ə-təd-nəs",
+            "sound": {
+              "audio": "meansp02",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "ˌmēn-"
+          }
+        ],
+        "fl": "noun"
+      }
+    ],
+    "date": "1694",
+    "shortdef": [
+      "exhibiting or characterized by meanness of spirit"
+    ]
+  }
+]

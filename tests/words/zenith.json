@@ -1,0 +1,108 @@
+[
+  {
+    "meta": {
+      "id": "zenith",
+      "uuid": "284b2f81-73b3-46ee-a777-b25beb9e58e1",
+      "sort": "260068000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "zenith",
+        "zeniths"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "ze*nith",
+      "prs": [
+        {
+          "mw": "ˈzē-nəth",
+          "sound": {
+            "audio": "zenith01",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "l": "Canadian also and British usually",
+          "mw": "ˈze-nəth"
+        },
+        {
+          "mw": "-nith"
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the point of the celestial sphere that is directly opposite the nadir and vertically above the observer {dx}see {dxt|azimuth|azimuth|illustration}{/dx}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the highest point reached in the heavens by a celestial body"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}culminating point {bc}{sx|acme||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "at the {wi}zenith{/wi} of his powers",
+                        "aq": {
+                          "auth": "John Buchan"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English {it}cenyth, senyth{/it}, from Middle French {it}cenit{/it}, from Medieval Latin, from Old Spanish {it}zenit{/it}, modification of Arabic {it}samt{/it} ({it}al-ra's{/it}) way (over one's head)"
+      ]
+    ],
+    "date": "14th century{ds||1||}",
+    "shortdef": [
+      "the point of the celestial sphere that is directly opposite the nadir and vertically above the observer",
+      "the highest point reached in the heavens by a celestial body",
+      "culminating point : acme"
+    ]
+  }
+]

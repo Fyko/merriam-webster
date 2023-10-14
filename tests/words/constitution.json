@@ -1,0 +1,239 @@
+[
+  {
+    "meta": {
+      "id": "constitution",
+      "uuid": "87be0cbc-29bd-4f79-95fa-31b05012dd47",
+      "sort": "035553100",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "constitution",
+        "constitutionless",
+        "constitutions"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "con*sti*tu*tion",
+      "prs": [
+        {
+          "mw": "ˌkän(t)-stə-ˈtü-shən",
+          "sound": {
+            "audio": "consti07",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "-ˈtyü-"
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the basic principles and laws of a nation, state, or social group that determine the powers and duties of the government and guarantee certain rights to the people in it"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a written instrument embodying the rules of a political or social organization"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the physical makeup of the individual especially with respect to the health, strength, and appearance of the body "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a hearty {wi}constitution{/wi}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the structure, composition, physical makeup, or nature of something "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "the {wi}constitution{/wi} of society"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the mode in which a state or society is organized"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the manner in which sovereign power is distributed"
+                    ]
+                  ]
+                }
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "4",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}an established law or custom {bc}{sx|ordinance||}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "5",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the act of establishing, making, or setting up "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "before the {wi}constitution{/wi} of civil laws"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "con*sti*tu*tion*less",
+        "prs": [
+          {
+            "mw": "ˌkän(t)-stə-ˈtü-shən-ləs",
+            "sound": {
+              "audio": "consti08",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "-ˈtyü-"
+          }
+        ],
+        "fl": "adjective"
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "{dx_ety}see {dxt|constitute||}{/dx_ety}"
+      ]
+    ],
+    "date": "14th century{ds||4||}",
+    "shortdef": [
+      "the basic principles and laws of a nation, state, or social group that determine the powers and duties of the government and guarantee certain rights to the people in it",
+      "a written instrument embodying the rules of a political or social organization",
+      "the physical makeup of the individual especially with respect to the health, strength, and appearance of the body"
+    ]
+  },
+  {
+    "meta": {
+      "id": "unwritten constitution",
+      "uuid": "bb2afa37-d864-401c-955d-ffe540e83497",
+      "sort": "212355000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "unwritten constitution",
+        "unwritten constitutions"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "unwritten constitution"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a constitution not embodied in a single document but based chiefly on custom and precedent as expressed in statutes and judicial decisions"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1890",
+    "shortdef": [
+      "a constitution not embodied in a single document but based chiefly on custom and precedent as expressed in statutes and judicial decisions"
+    ]
+  }
+]

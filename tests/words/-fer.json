@@ -1,0 +1,271 @@
+[
+  {
+    "meta": {
+      "id": "-fer",
+      "uuid": "a5db485d-7cda-492c-9a4c-0669a35df64f",
+      "sort": "060844000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "-fer",
+        "-fers"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "-fer"
+    },
+    "fl": "noun combining form",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}one that bears "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "aqui{it}fer{/it}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "French & Latin; French {it}-fère{/it}, from Latin {it}-fer{/it} bearing, one that bears, from {it}ferre{/it} to carry {ma}{mat|bear|}{/ma}"
+      ]
+    ],
+    "shortdef": [
+      "one that bears"
+    ]
+  },
+  {
+    "meta": {
+      "id": "chemin de fer",
+      "uuid": "ce7ef896-aae4-4707-b375-7d3021e238c9",
+      "sort": "032399000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "chemin de fer",
+        "chemins de fer"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "che*min de fer",
+      "prs": [
+        {
+          "mw": "shə-ˌman-də-ˈfer",
+          "sound": {
+            "audio": "chemin01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "ins": [
+      {
+        "il": "plural",
+        "if": "che*mins de fer",
+        "prs": [
+          {
+            "mw": "shə-ˌman-də-ˈfer",
+            "sound": {
+              "audio": "chemin01",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ]
+      }
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a card game in which two hands are dealt, any number of players may bet against the dealer, and the winning hand is the one that comes closer to but does not exceed a count of nine on two or three cards"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "French, literally, railroad"
+      ]
+    ],
+    "date": "1891",
+    "shortdef": [
+      "a card game in which two hands are dealt, any number of players may bet against the dealer, and the winning hand is the one that comes closer to but does not exceed a count of nine on two or three cards"
+    ]
+  },
+  {
+    "meta": {
+      "id": "fer-de-lance",
+      "uuid": "9f2c7f46-d66e-4170-9587-fe84af2ce6fa",
+      "sort": "060847000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "fer-de-lance"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "fer-de-lance",
+      "prs": [
+        {
+          "mw": "ˈfer-də-ˈlan(t)s",
+          "sound": {
+            "audio": "fer_de01",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "-ˈlän(t)s"
+        }
+      ]
+    },
+    "fl": "noun",
+    "ins": [
+      {
+        "il": "plural",
+        "if": "fer-de-lance"
+      }
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a large extremely venomous pit viper ({it}Bothrops atrox{/it}) of Central and South America"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "art": {
+      "artid": "fer_de_l",
+      "capt": "fer-de-lance"
+    },
+    "et": [
+      [
+        "text",
+        "French, literally, lance iron, spearhead"
+      ]
+    ],
+    "date": "1880",
+    "shortdef": [
+      "a large extremely venomous pit viper (Bothrops atrox) of Central and South America"
+    ]
+  },
+  {
+    "meta": {
+      "id": "gofer",
+      "uuid": "3ad005a2-983c-4141-95d1-98571bd6b1dd",
+      "sort": "071680000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "go-fer",
+        "gofer",
+        "gofers",
+        "gopher",
+        "gophers"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "go*fer",
+      "prs": [
+        {
+          "mw": "ˈgō-fər",
+          "sound": {
+            "audio": "gofer001",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "vrs": [
+      {
+        "vl": "or less commonly",
+        "va": "go-fer"
+      },
+      {
+        "vl": "or",
+        "va": "go*pher"
+      }
+    ],
+    "fl": "noun",
+    "def": [
+      {
+        "sls": [
+          "informal"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}an employee whose duties include running errands {bc}{sx|lackey||}"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "alteration of {it}go for{/it}"
+      ]
+    ],
+    "date": "1967",
+    "shortdef": [
+      "an employee whose duties include running errands : lackey"
+    ]
+  }
+]

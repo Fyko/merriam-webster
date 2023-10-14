@@ -1,0 +1,56 @@
+[
+	{
+		"meta": {
+			"id": "voracity",
+			"uuid": "0b013100-3e27-41eb-86ee-65da207cf5f3",
+			"sort": "220133400",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"voracities",
+				"voracity"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "vo*rac*i*ty",
+			"prs": [
+				{
+					"mw": "vȯ-ˈra-sə-tē",
+					"sound": {
+						"audio": "voraci02",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "və-"
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}the quality or state of being {a_link|voracious}"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1526",
+		"shortdef": [
+			"the quality or state of being voracious"
+		]
+	}
+]

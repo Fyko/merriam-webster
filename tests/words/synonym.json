@@ -1,0 +1,186 @@
+[
+  {
+    "meta": {
+      "id": "synonym",
+      "uuid": "b0b0a6a5-aa81-4a5d-a8ab-77b5c48e6e61",
+      "sort": "195039500",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "synonym",
+        "synonymic",
+        "synonymical",
+        "synonymities",
+        "synonymity",
+        "synonyms"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "syn*o*nym",
+      "prs": [
+        {
+          "mw": "ˈsi-nə-ˌnim",
+          "sound": {
+            "audio": "synony01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}one of two or more words or expressions of the same language that have the same or nearly the same meaning in some or all senses"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a word or phrase that by association is held to {d_link|embody|embody} something (such as a concept or quality) "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a tyrant whose name has become a {wi}synonym{/wi} for oppression"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|metonym||}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}one of two or more scientific names used to designate the same taxonomic group {dx}compare {dxt|homonym||}{/dx}"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "syn*o*nym*ic",
+        "prs": [
+          {
+            "mw": "ˌsi-nə-ˈni-mik",
+            "sound": {
+              "audio": "synony02",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "vrs": [
+          {
+            "vl": "or less commonly",
+            "va": "syn*o*nym*i*cal",
+            "prs": [
+              {
+                "mw": "ˌsi-nə-ˈni-mi-kəl",
+                "sound": {
+                  "audio": "synony03",
+                  "ref": "c",
+                  "stat": "1"
+                }
+              }
+            ]
+          }
+        ],
+        "fl": "adjective"
+      },
+      {
+        "ure": "syn*o*nym*i*ty",
+        "prs": [
+          {
+            "mw": "ˌsi-nə-ˈni-mə-tē",
+            "sound": {
+              "audio": "synony04",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "noun"
+      }
+    ],
+    "quotes": [
+      {
+        "t": "I very much enjoyed the chapter on obscenity, which asks the difficult question of how words deemed taboo differ from their inoffensive {qword}synonyms{/qword} …  . It can't obviously be the referent of the term, since that is the same, and it isn't merely that the taboo words are more accurately descriptive …",
+        "aq": {
+          "auth": "Colin McGinn",
+          "source": "{it}The New York Review of Books{/it}",
+          "aqdate": "27 Sept. 2007"
+        }
+      },
+      {
+        "t": "The debris hurtled by so fast that the New York Times editorial page seemed to run out of {qword}synonyms{/qword} for disgust, revulsion and abuse.",
+        "aq": {
+          "auth": "Michael Duffy et al.",
+          "source": "{it}Time{/it}",
+          "aqdate": "5 Mar. 2001"
+        }
+      },
+      {
+        "t": "\"Hollywood\" is not, of course, a place. Nor is it a {qword}synonym{/qword} for the entertainment business. There are upstanding citizens who make their living in that field.",
+        "aq": {
+          "auth": "P. J. O'Rourke",
+          "source": "{it}Republican Party Reptile{/it}",
+          "aqdate": "1987"
+        }
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English {it}sinonyme{/it}, from Latin {it}synonymum{/it}, from Greek {it}synōnymon{/it}, from neuter of {it}synōnymos{/it} synonymous, from {it}syn-{/it} + {it}onyma{/it} name {ma}{mat|name|}{/ma}"
+      ]
+    ],
+    "date": "15th century{ds||1||}",
+    "shortdef": [
+      "one of two or more words or expressions of the same language that have the same or nearly the same meaning in some or all senses",
+      "a word or phrase that by association is held to embody something (such as a concept or quality)",
+      "metonym"
+    ]
+  }
+]

@@ -1,0 +1,324 @@
+[
+	{
+		"meta": {
+			"id": "pronoun",
+			"uuid": "ac322dc1-a675-4e2d-bfca-178f5fcfc4cb",
+			"sort": "167916000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"pronoun",
+				"pronouns"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "pro*noun",
+			"prs": [
+				{
+					"mw": "ˈprō-ˌnau̇n",
+					"sound": {
+						"audio": "pronou01",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"ins": [
+									{
+										"il": "plural",
+										"if": "pro*nouns"
+									}
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}any of a small set of words (such as {it}I{\/it}, {it}she{\/it}, {it}he{\/it}, {it}you{\/it}, {it}it{\/it}, {it}we{\/it}, or {it}they{\/it}) in a language that are used as substitutes for nouns or noun phrases and whose referents are named or understood in the context"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"ins": [
+									{
+										"if": "pronouns",
+										"spl": "plural"
+									}
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}the third person {d_link|personal pronouns|personal pronoun} (such as {it}he\/him{\/it}, {it}she\/her{\/it}, and {it}they\/them{\/it}) that a person goes by "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "What are your {wi}pronouns{\/wi}?"
+											},
+											{
+												"t": "{ldquo}I'm Jo, my {wi}pronouns{\/wi} are she\/her.{rdquo} {ldquo}I'm Jade, my {wi}pronouns{\/wi} are they\/them.{rdquo}"
+											},
+											{
+												"t": "… many people with nonbinary genders use {ldquo}they{rdquo} and {ldquo}their{rdquo} {wi}pronouns{\/wi}, although language and gender expression vary widely.",
+												"aq": {
+													"auth": "Lucy Brisbane"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"Middle English, from Anglo-French, from Latin {it}pronomin-, pronomen{\/it}, from {it}pro-{\/it} for + {it}nomin-, nomen{\/it} name {ma}{mat|pro-|}, {mat|name|}{\/ma}"
+			]
+		],
+		"date": "15th century{ds||1||}",
+		"shortdef": [
+			"any of a small set of words (such as I, she, he, you, it, we, or they) in a language that are used as substitutes for nouns or noun phrases and whose referents are named or understood in the context",
+			"the third person personal pronouns (such as he\/him, she\/her, and they\/them) that a person goes by"
+		]
+	},
+	{
+		"meta": {
+			"id": "personal pronoun",
+			"uuid": "3e3a9e42-43b3-4923-ba53-c0517399fe5b",
+			"sort": "160206900",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"personal pronoun",
+				"personal pronouns"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "personal pronoun"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a pronoun (such as {it}I, you{\/it}, or {it}they{\/it}) that expresses a distinction of person"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1668",
+		"shortdef": [
+			"a pronoun (such as I, you, or they) that expresses a distinction of person"
+		]
+	},
+	{
+		"meta": {
+			"id": "possessive pronoun",
+			"uuid": "b3d037eb-d6f6-494e-8256-57d174739995",
+			"sort": "166060000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"possessive pronoun",
+				"possessive pronouns"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "possessive pronoun"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a pronoun that derives from a personal pronoun and denotes possession and analogous relationships"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "15th century",
+		"shortdef": [
+			"a pronoun that derives from a personal pronoun and denotes possession and analogous relationships"
+		]
+	},
+	{
+		"meta": {
+			"id": "reciprocal pronoun",
+			"uuid": "8adba714-b76d-4973-8d23-a3a89f339255",
+			"sort": "180989000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"reciprocal pronoun",
+				"reciprocal pronouns"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "reciprocal pronoun"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a pronoun (such as {it}each other{\/it}) used when its referents are predicated to bear the same relationship to one another"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1755",
+		"shortdef": [
+			"a pronoun (such as each other) used when its referents are predicated to bear the same relationship to one another"
+		]
+	},
+	{
+		"meta": {
+			"id": "reflexive pronoun",
+			"uuid": "1dbbd411-409d-483b-b2be-037c78a1c4ea",
+			"sort": "181521000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"reflexive pronoun",
+				"reflexive pronouns"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "reflexive pronoun"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a pronoun referring to the subject of the sentence, clause, or verbal phrase in which it stands"
+									]
+								],
+								"sdsense": {
+									"sd": "specifically",
+									"dt": [
+										[
+											"text",
+											"{bc}a personal pronoun compounded with {it}-self{\/it}"
+										]
+									]
+								}
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1867",
+		"shortdef": [
+			"a pronoun referring to the subject of the sentence, clause, or verbal phrase in which it stands; specifically : a personal pronoun compounded with -self"
+		]
+	},
+	{
+		"meta": {
+			"id": "indefinite pronoun",
+			"uuid": "6fdc7638-e0f1-4d01-88db-72fb4ec6a92a",
+			"sort": "3009424000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"indefinite pronoun"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "indefinite pronoun"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a pronoun that does not refer to a specific person or thing "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "\"Anyone,\" \"something,\" and \"few\" are {it}indefinite pronouns{\/it}."
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"a pronoun that does not refer to a specific person or thing"
+		]
+	}
+]

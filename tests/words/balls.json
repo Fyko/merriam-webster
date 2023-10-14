@@ -1,0 +1,1015 @@
+[
+	{
+		"meta": {
+			"id": "ball:1",
+			"uuid": "facb3b5c-dfea-43f4-9594-b119061206e1",
+			"sort": "020035000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"ball",
+				"balls",
+				"on the ball"
+			],
+			"offensive": true
+		},
+		"hom": 1,
+		"hwi": {
+			"hw": "ball",
+			"prs": [
+				{
+					"mw": "ˈbȯl",
+					"sound": {
+						"audio": "ball0001",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "noun",
+		"lbs": [
+			"often attributive"
+		],
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"bs",
+							{
+								"sense": {
+									"sn": "1",
+									"dt": [
+										[
+											"text",
+											"{bc}a round or roundish body or mass: such as"
+										]
+									]
+								}
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "a",
+								"dt": [
+									[
+										"text",
+										"{bc}a spherical or ovoid body used in a game or sport "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "a tennis {wi}ball{\/wi}"
+											}
+										]
+									],
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used figuratively in phrases like {it}the ball is in your court{\/it} to indicate who has the responsibility or opportunity for further action"
+												]
+											]
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|earth||}, {sx|globe||}"
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "c",
+								"dt": [
+									[
+										"text",
+										"{bc}a spherical or conical projectile"
+									]
+								],
+								"sdsense": {
+									"sd": "also",
+									"dt": [
+										[
+											"text",
+											"{bc}projectiles used in firearms"
+										]
+									]
+								}
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "d",
+								"dt": [
+									[
+										"text",
+										"{bc}a roundish protuberant anatomical structure (as near the tip of a human finger or toe or at the base of a thumb)"
+									]
+								],
+								"sdsense": {
+									"sd": "especially",
+									"dt": [
+										[
+											"text",
+											"{bc}the part of the sole of the human foot between the toes and arch on which the main weight of the body rests in normal walking"
+										]
+									]
+								}
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2 a",
+								"sls": [
+									"usually vulgar"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|testis||}"
+									]
+								]
+							}
+						],
+						[
+							"sen",
+							{
+								"sn": "b",
+								"ins": [
+									{
+										"if": "balls",
+										"spl": "plural"
+									}
+								]
+							}
+						],
+						[
+							"pseq",
+							[
+								[
+									"sense",
+									{
+										"sn": "(1)",
+										"sls": [
+											"often vulgar"
+										],
+										"dt": [
+											[
+												"text",
+												"{bc}{sx|nonsense||} "
+											],
+											[
+												"uns",
+												[
+													[
+														[
+															"text",
+															"often used interjectionally"
+														]
+													]
+												]
+											]
+										]
+									}
+								],
+								[
+									"sense",
+									{
+										"sn": "(2)",
+										"sls": [
+											"often vulgar"
+										],
+										"dt": [
+											[
+												"text",
+												"{bc}{sx|nerve||3}"
+											]
+										]
+									}
+								]
+							]
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "3",
+								"dt": [
+									[
+										"text",
+										"{bc}a game in which a ball is thrown, kicked, or struck"
+									]
+								],
+								"sdsense": {
+									"sd": "also",
+									"dt": [
+										[
+											"text",
+											"{bc}quality of play in such a game"
+										]
+									]
+								}
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "4 a",
+								"dt": [
+									[
+										"text",
+										"{bc}a pitch not swung at by the batter that fails to pass through the strike zone"
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}a hit or thrown ball in various games "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "foul {wi}ball{\/wi}"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"dros": [
+			{
+				"drp": "on the ball",
+				"def": [
+					{
+						"sseq": [
+							[
+								[
+									"sense",
+									{
+										"sn": "1",
+										"dt": [
+											[
+												"text",
+												"{bc}{sx|competent||}, {sx|knowledgeable||}, {sx|alert||} "
+											],
+											[
+												"vis",
+												[
+													{
+														"t": "the other introductory essay … is much more {it}on the ball{\/it}",
+														"aq": {
+															"source": "{it}The Times Literary Supplement{\/it} (London)"
+														}
+													},
+													{
+														"t": "keep {it}on the ball{\/it}"
+													}
+												]
+											]
+										]
+									}
+								]
+							],
+							[
+								[
+									"sense",
+									{
+										"sn": "2",
+										"dt": [
+											[
+												"text",
+												"{bc}of ability or competence "
+											],
+											[
+												"vis",
+												[
+													{
+														"t": "if the teacher has something {it}on the ball{\/it}, the pupils won't squirm much",
+														"aq": {
+															"source": "{it}New Yorker{\/it}"
+														}
+													}
+												]
+											]
+										]
+									}
+								]
+							]
+						]
+					}
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"Middle English {it}bal{\/it}, probably from Old English {it}*beall{\/it}; akin to Old English {it}bealluc{\/it} testis, Old High German {it}balla{\/it} ball, Old Norse {it}bǫllr{\/it}, Old English {it}blāwan{\/it} to blow {ma}{mat|blow|}{\/ma}"
+			]
+		],
+		"date": "13th century{ds||1||}",
+		"shortdef": [
+			"a round or roundish body or mass: such as",
+			"a spherical or ovoid body used in a game or sport —used figuratively in phrases like the ball is in your court to indicate who has the responsibility or opportunity for further action",
+			"earth, globe"
+		]
+	},
+	{
+		"meta": {
+			"id": "ball:2",
+			"uuid": "be866f14-c794-4dee-bc3b-aee0002daaaa",
+			"sort": "020035100",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"ball",
+				"balled",
+				"balling",
+				"balls"
+			],
+			"offensive": true
+		},
+		"hom": 2,
+		"hwi": {
+			"hw": "ball"
+		},
+		"fl": "verb",
+		"ins": [
+			{
+				"if": "balled"
+			},
+			{
+				"if": "ball*ing"
+			}
+		],
+		"def": [
+			{
+				"vd": "transitive verb",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}to form or gather into a ball "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}balled{\/wi} the paper into a wad"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"sls": [
+									"usually vulgar"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}to have sexual intercourse with"
+									]
+								]
+							}
+						]
+					]
+				]
+			},
+			{
+				"vd": "intransitive verb",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}to form or gather into a ball"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"sls": [
+									"usually vulgar"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}to engage in sexual intercourse"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "3",
+								"sls": [
+									"US",
+									"informal"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}to play basketball "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "Common shot all his own scenes on the hardwood, {wi}balling{\/wi} against NBA superstars Dwyane Wade and Dwight Howard.",
+												"aq": {
+													"auth": "Chris Richards"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1577{ds|t|1||}",
+		"shortdef": [
+			"to form or gather into a ball",
+			"to have sexual intercourse with",
+			"to form or gather into a ball"
+		]
+	},
+	{
+		"meta": {
+			"id": "ball:3",
+			"uuid": "33696813-fbd3-4fed-8c31-070f80f249d4",
+			"sort": "020035200",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"ball",
+				"balls",
+				"on the ball"
+			],
+			"offensive": false
+		},
+		"hom": 3,
+		"hwi": {
+			"hw": "ball"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}a large formal gathering for social dancing"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}a very pleasant experience {bc}a good time "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "everyone had a {wi}ball{\/wi} at the wedding"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"borrowed from French {it}bal,{\/it} going back to Old French, \"dance, social gathering for dancing,\" noun derivative of {it}baler, baller{\/it} \"to dance,\" going back to Late Latin {it}ballāre,{\/it} probably borrowed, with truncation of suffix, from Greek {it}ballízein{\/it} \"to throw, fling,\" later, \"to take part in revelry, make merry,\" from {it}bállein{\/it} \"to throw, let fly, place\" + {it}-izein{\/it} {et_link|-ize|-ize} {ma}{mat|devil:1|}{\/ma}"
+			],
+			[
+				"et_snote",
+				[
+					[
+						"t",
+						"The Greek verb {it}ballízein{\/it} has ancient attestation solely in two Sicilian authors of mimes, Epicharmus and Sophron (5th-early 4th centuries {sc}B.C.{\/sc}), and the comic poet Alexis (late 3rd-2nd centuries {sc}B.C.{\/sc}). Their work survives only in fragments. The word most likely means \"to throw, fling\" in these texts, an interpretation that appears to be confirmed by the Latin word {it}ballista,{\/it} \"military engine designed to hurl projectiles\" (see {et_link|ballista|ballista}), which is taken as a loan from unattested Greek {it}*ballistā́s{\/it} or {it}*ballistḗs.{\/it} The base of this noun, formed with the agent suffix {it}-tēs\/-tās,{\/it} would be an underlying verb {it}*ballid-,{\/it} whence the present stem {it}balliz-{\/it} in {it}ballízein.{\/it} (Compare {it}baptízein{\/it} \"to {et_link|baptize|baptize}\" : {it}baptistḗs{\/it} {et_link|baptist|baptist} and scores of other derivatives.) The verb {it}ballízein{\/it} reappears in the {it}Deipnosophistae{\/it} (\"Learned Banqueters\") of Athenaeus of Naucratis (early 3rd century {sc}A.D.{\/sc}) as the subject of a discussion of its authenticity as Greek; it is taken as a synonym of {it}kōmázein{\/it} \"to take part in communal revelry, make merry,\" or {it}choreúein{\/it} \"to celebrate with dancing.\" Presumably some undocumented shift of senses has taken place, perhaps from \"hurl, fling\" to \"move off rapidly, rush off\" to \"move about, go round\" to \"make merry, take part in celebratory revelry\" to \"dance.\" The latter sense would be the germ of Late Latin {it}ballāre,{\/it} which first appears in a sermon of Augustine of Hippo. For Augustine and later Church Fathers the activity denoted by the verb, whether dancing in a strict sense or more general revelry, is not suitable for Christians, perhaps due to pagan associations. See H. Paessens, \"Das Verhältnis von βαλλίζω, βάλλω und {it}ballare,{\/it}\" {it}Rheinisches Museum für Philologie,{\/it} Neue Folge, 90. Band, 2. Heft (1941), pp. 146-56."
+					]
+				]
+			]
+		],
+		"date": "1605{ds||1||}",
+		"shortdef": [
+			"a large formal gathering for social dancing",
+			"a very pleasant experience : a good time"
+		]
+	},
+	{
+		"meta": {
+			"id": "balls-out",
+			"uuid": "27ae3ed6-5545-4500-9c46-b6d3a1b825e9",
+			"sort": "020040700",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"balls-out"
+			],
+			"offensive": true
+		},
+		"hwi": {
+			"hw": "balls-out",
+			"prs": [
+				{
+					"mw": "ˈbȯlz-ˌau̇t",
+					"sound": {
+						"audio": "balls-out_1",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "adjective",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"sls": [
+									"often vulgar"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|all-out||}, {sx|full-out||}"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"sls": [
+									"often vulgar"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}boldly aggressive or competitive"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "circa 1945{ds||1||}",
+		"shortdef": [
+			"all-out, full-out",
+			"boldly aggressive or competitive"
+		]
+	},
+	{
+		"meta": {
+			"id": "balls-up",
+			"uuid": "8dfd0f7c-49e1-4ae2-a7a1-4424828bcd20",
+			"sort": "020040800",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"balls-up",
+				"balls-ups"
+			],
+			"offensive": true
+		},
+		"hwi": {
+			"hw": "balls-up",
+			"prs": [
+				{
+					"mw": "ˈbȯlz-ˌəp",
+					"sound": {
+						"audio": "balls01w",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sls": [
+					"British",
+					"informal + sometimes offensive"
+				],
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|foul-up||}"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1900",
+		"shortdef": [
+			"foul-up"
+		]
+	},
+	{
+		"meta": {
+			"id": "base on balls",
+			"uuid": "dc8b3860-9abf-4cb5-bfc3-8bf44826110b",
+			"sort": "020082700",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"base on balls",
+				"bases on balls"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "base on balls"
+		},
+		"fl": "noun phrase",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}an advance to first base awarded a baseball player who during a turn at bat takes four pitches that are balls {bc}{sx|walk:2||6}"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1891",
+		"shortdef": [
+			"an advance to first base awarded a baseball player who during a turn at bat takes four pitches that are balls : walk"
+		]
+	},
+	{
+		"meta": {
+			"id": "airball",
+			"uuid": "b0b45c45-cc61-4644-8701-5b0a123883a2",
+			"sort": "011566500",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"air ball",
+				"air balled",
+				"air balling",
+				"air balls",
+				"air-ball",
+				"air-balled",
+				"air-balling",
+				"air-balls",
+				"airball",
+				"airballed",
+				"airballing",
+				"airballs"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "air*ball",
+			"prs": [
+				{
+					"mw": "ˈer-ˌbȯl",
+					"sound": {
+						"audio": "airbal01",
+						"ref": "u",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"vrs": [
+			{
+				"vl": "or",
+				"va": "air-ball"
+			}
+		],
+		"fl": "verb",
+		"ins": [
+			{
+				"if": "air*balled"
+			},
+			{
+				"il": "or",
+				"if": "air-balled"
+			},
+			{
+				"if": "air*ball*ing"
+			},
+			{
+				"il": "or",
+				"if": "air-ball*ing"
+			},
+			{
+				"if": "air*balls"
+			},
+			{
+				"il": "or",
+				"if": "air-balls"
+			}
+		],
+		"def": [
+			{
+				"vd": "transitive + intransitive",
+				"sls": [
+					"US",
+					"basketball"
+				],
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}to completely miss the rim and backboard with a shot {bc}to shoot an {d_link|air ball|air ball} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "Fesenko … badly {wi}airballed{\/wi} a free throw in the first quarter.",
+												"aq": {
+													"auth": "Ross Siler"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1975",
+		"shortdef": [
+			"to completely miss the rim and backboard with a shot : to shoot an air ball"
+		]
+	},
+	{
+		"meta": {
+			"id": "air ball",
+			"uuid": "0281fbca-894c-4387-a25a-0cb0994eff69",
+			"sort": "011567000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"air ball",
+				"air balls",
+				"airball",
+				"airballs"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "air ball"
+		},
+		"vrs": [
+			{
+				"vl": "or",
+				"va": "air*ball",
+				"prs": [
+					{
+						"mw": "ˈer-ˌbȯl",
+						"sound": {
+							"audio": "airbal01",
+							"ref": "u",
+							"stat": "1"
+						}
+					}
+				]
+			}
+		],
+		"fl": "noun",
+		"ins": [
+			{
+				"il": "plural",
+				"if": "air balls"
+			},
+			{
+				"il": "or",
+				"if": "air*balls"
+			}
+		],
+		"def": [
+			{
+				"sls": [
+					"US",
+					"basketball"
+				],
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a shot that completely misses the rim and backboard"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1967",
+		"shortdef": [
+			"a shot that completely misses the rim and backboard"
+		]
+	},
+	{
+		"meta": {
+			"id": "ball of fire",
+			"uuid": "efca1986-85d9-4541-a850-473bef7c4944",
+			"sort": "020038300",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"ball of fire",
+				"balls of fire"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "ball of fire"
+		},
+		"fl": "noun phrase",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a person of unusual energy, vitality, or drive"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "circa 1900",
+		"shortdef": [
+			"a person of unusual energy, vitality, or drive"
+		]
+	},
+	{
+		"meta": {
+			"id": "ball of wax",
+			"uuid": "4a837ae9-6a3b-4cc7-ba7b-bcfa3c62836e",
+			"sort": "020038400",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"ball of wax",
+				"balls of wax"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "ball of wax"
+		},
+		"fl": "noun phrase",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|affair||}, {sx|concern||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "the whole {it}ball of wax{\/it}"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1832",
+		"shortdef": [
+			"affair, concern"
+		]
+	}
+]

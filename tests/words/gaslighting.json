@@ -1,0 +1,276 @@
+[
+  {
+    "meta": {
+      "id": "gaslighting:1",
+      "uuid": "d5783dc8-e659-4d0d-abf5-fead6e1b92e9",
+      "sort": "070440900",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "gaslighting",
+        "gaslightings"
+      ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "gas*light*ing",
+      "prs": [
+        {
+          "mw": "ˈgas-ˌlī-tiŋ",
+          "sound": {
+            "audio": "gaslighting",
+            "ref": "owl",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "-ˈlī-"
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}psychological manipulation of a person usually over an extended period of time that causes the victim to question the validity of their own thoughts, perception of reality, or memories and typically leads to confusion, loss of confidence and self-esteem, uncertainty of one's emotional or mental stability, and a dependency on the perpetrator "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "{wi}Gaslighting{/wi} can be a very effective tool for the abuser to control an individual. It's done slowly so the victim writes off the event as a one off or oddity and doesn't realize they are being controlled and manipulated.",
+                        "aq": {
+                          "auth": "Melissa Spino"
+                        }
+                      },
+                      {
+                        "t": "{wi}Gaslighting{/wi} can happen in any relationship circumstance, including between friends and family members—not just in couple relationships.",
+                        "aq": {
+                          "auth": "Deena Bouknight"
+                        }
+                      },
+                      {
+                        "t": "This is a classic {wi}gaslighting{/wi} technique—telling victims that others are crazy and lying, and that the {d_link|gaslighter|gaslighter} is the only source for \"true\" information. It makes victims question their reality …",
+                        "aq": {
+                          "auth": "Stephanie Sarkis"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the act or practice of grossly misleading someone especially for one's own advantage "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "Election season can create emotions spanning from immense anxiety all the way to extreme apathy. The public arguing, divisiveness, and competition for votes, including political {wi}gaslighting{/wi}, can be overwhelming and exhausting.",
+                        "aq": {
+                          "auth": "Vernita Perkins and Leonard A. Jason"
+                        }
+                      },
+                      {
+                        "t": "As the midterm elections approach, Americans have gotten an earful both about crime itself and how the other side is distorting the news about it for political gain. {ldquo}Cherry-picking!{rdquo} {ldquo}Fearmongering!{rdquo} {ldquo}{wi}Gaslighting{/wi}!{rdquo}",
+                        "aq": {
+                          "auth": "Chris Herrmann and Fritz Umbach"
+                        }
+                      },
+                      {
+                        "t": "Intense {wi}gaslighting{/wi} techniques are making it difficult for Montana's commoners to discern what's truth and what's propaganda.",
+                        "aq": {
+                          "auth": "Steve Kelly"
+                        }
+                      },
+                      {
+                        "t": "This corporate {wi}gaslighting{/wi} effectively blames children for being addicted to social media and conveniently ignores how companies have intentionally designed their products to have addictive features …",
+                        "aq": {
+                          "auth": "Nancy Kim"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1961{ds||1||}",
+    "shortdef": [
+      "psychological manipulation of a person usually over an extended period of time that causes the victim to question the validity of their own thoughts, perception of reality, or memories and typically leads to confusion, loss of confidence and self-esteem, uncertainty of one's emotional or mental stability, and a dependency on the perpetrator",
+      "the act or practice of grossly misleading someone especially for one's own advantage"
+    ]
+  },
+  {
+    "meta": {
+      "id": "gaslighting:2",
+      "uuid": "374426d9-36e5-4aeb-8c2f-a0c733e4d887",
+      "sort": "070440950",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "gaslighting"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "gaslighting"
+    },
+    "cxs": [
+      {
+        "cxl": "present participle of",
+        "cxtis": [
+          {
+            "cxt": "gaslight:2"
+          }
+        ]
+      }
+    ],
+    "shortdef": []
+  },
+  {
+    "meta": {
+      "id": "gaslight:2",
+      "uuid": "f51f3b84-8f77-44d5-8786-570c0704a3c4",
+      "sort": "070440500",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "gaslight",
+        "gaslighted",
+        "gaslighting",
+        "gaslights",
+        "gaslit"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "gaslight"
+    },
+    "fl": "verb",
+    "ins": [
+      {
+        "if": "gas*light*ed"
+      },
+      {
+        "il": "or",
+        "if": "gas*lit"
+      },
+      {
+        "if": "gas*light*ing"
+      },
+      {
+        "if": "gas*lights"
+      }
+    ],
+    "def": [
+      {
+        "vd": "transitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to psychologically manipulate (a person) usually over an extended period of time so that the victim questions the validity of their own thoughts, perception of reality, or memories and experiences confusion, loss of confidence and self-esteem, and doubts concerning their own emotional or mental stability {bc}to subject (someone) to {d_link|gaslighting|gaslighting:1} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "You might think someone who is {wi}gaslighting{/wi} you would only lie about big things that they could cover up or hide. But that's not the case. They often lie about all things big and small just to throw you off.",
+                        "aq": {
+                          "auth": "Amy Morin"
+                        }
+                      },
+                      {
+                        "t": "But sexual abuse claims against the powerful stall more easily. There were experts willing to attack my credibility. There were doctors willing to {wi}gaslight{/wi} an abused child.",
+                        "aq": {
+                          "auth": "Dylan Farrow"
+                        }
+                      },
+                      {
+                        "t": "Taylor-Dior Rumble is a writer and actor, and she has direct experience with being racially {wi}gaslit{/wi}. … 'While we often look at gaslighting as something that's done between two people in an intimate relationship, it's no different to how this country responds to Black and brown people, whenever we're tasked with {ldquo}proving{rdquo} that racism still exists in Britain.'",
+                        "aq": {
+                          "auth": "Natalie Morris"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to grossly mislead or deceive (someone) especially for one's own advantage "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "Conservative groups are slamming President Biden and his administration for attempting to {ldquo}{wi}gaslight{/wi}{rdquo} Americans into believing that the country isn't in a recession.",
+                        "aq": {
+                          "auth": "Jack Durschlag"
+                        }
+                      },
+                      {
+                        "t": "Former White House press secretary and communications director Sean Spicer has been accused of {ldquo}{wi}gaslighting{/wi} Americans{rdquo} and including multiple inaccuracies in his new memoir …",
+                        "aq": {
+                          "auth": "Diana Stancy Correll"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "after {it}Gas Light{/it}, a play (1938) by British writer Patrick Hamilton, subsequently made into British and American films entitled {it}Gaslight{/it} (1940 and 1944), in which a man attempts to trick his wife into believing that she is going insane"
+      ]
+    ],
+    "date": "1953{ds||1||}",
+    "shortdef": [
+      "to psychologically manipulate (a person) usually over an extended period of time so that the victim questions the validity of their own thoughts, perception of reality, or memories and experiences confusion, loss of confidence and self-esteem, and doubts concerning their own emotional or mental stability : to subject (someone) to gaslighting",
+      "to grossly mislead or deceive (someone) especially for one's own advantage"
+    ]
+  }
+]

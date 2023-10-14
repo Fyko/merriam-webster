@@ -1,0 +1,695 @@
+[
+  {
+    "meta": {
+      "id": "justice",
+      "uuid": "c26f777a-5c44-4a49-ae79-f3f6a7156726",
+      "sort": "100079300",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "justice",
+        "justices"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "jus*tice",
+      "prs": [
+        {
+          "mw": "ˈjə-stəs",
+          "sound": {
+            "audio": "justic01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "ins": [
+      {
+        "il": "plural",
+        "if": "jus*tic*es"
+      }
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the maintenance or administration of what is {d_link|just|just:1} especially by the impartial adjustment of conflicting claims or the assignment of merited rewards or punishments "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "meting out {wi}justice{/wi}"
+                      },
+                      {
+                        "t": "social {wi}justice{/wi}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|judge||}"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a judge of an appellate court or court of last resort (as a supreme court) "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a supreme court {wi}justice{/wi}"
+                        }
+                      ]
+                    ],
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "used as a title "
+                          ],
+                          [
+                            "vis",
+                            [
+                              {
+                                "t": "{it}Justice{/it} Marshall"
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "c",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the administration of law "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a fugitive from {wi}justice{/wi}"
+                      }
+                    ]
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the establishment or determination of rights according to the rules of law or equity "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a system of {wi}justice{/wi}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the quality of being just, impartial, or fair "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "questioned the {wi}justice{/wi} of their decision"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "pseq",
+              [
+                [
+                  "sense",
+                  {
+                    "sn": "b (1)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}the principle or ideal of just {d_link|dealing|dealing} or right action"
+                      ]
+                    ]
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "(2)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}conformity to this principle or ideal {bc}{sx|righteousness||} "
+                      ],
+                      [
+                        "vis",
+                        [
+                          {
+                            "t": "the {wi}justice{/wi} of their cause"
+                          }
+                        ]
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ],
+            [
+              "sense",
+              {
+                "sn": "c",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the quality of conforming to law"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}conformity to truth, fact, or reason {bc}{sx|correctness||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "admitted that there was much {wi}justice{/wi} in these observations",
+                        "aq": {
+                          "auth": "T. L. Peacock"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English, from Anglo-French {it}justise{/it}, from Latin {it}justitia{/it}, from {it}justus{/it} {dx_ety}see {dxt|just:1||}{/dx_ety}"
+      ]
+    ],
+    "date": "12th century{ds||1|a|}",
+    "shortdef": [
+      "the maintenance or administration of what is just especially by the impartial adjustment of conflicting claims or the assignment of merited rewards or punishments",
+      "judge; especially : a judge of an appellate court or court of last resort (as a supreme court) —used as a title",
+      "the administration of law; especially : the establishment or determination of rights according to the rules of law or equity"
+    ]
+  },
+  {
+    "meta": {
+      "id": "justice of the peace",
+      "uuid": "0de37391-f182-43d6-b72b-0867891de0b6",
+      "sort": "100079400",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "justice of the peace",
+        "justices of the peace"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "justice of the peace"
+    },
+    "fl": "noun phrase",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a local magistrate empowered chiefly to administer summary justice in minor cases, to commit for trial, and to administer oaths and perform marriages"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "15th century",
+    "shortdef": [
+      "a local magistrate empowered chiefly to administer summary justice in minor cases, to commit for trial, and to administer oaths and perform marriages"
+    ]
+  },
+  {
+    "meta": {
+      "id": "justice is served/done",
+      "uuid": "5012bd28-6544-4e36-a758-545e3824d9e2",
+      "sort": "3010336000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [
+        "justice is done",
+        "justice is served",
+        "justice is served/done"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "justice is served/done"
+    },
+    "fl": "idiom",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}proper punishment or fair treatment is given by the legal system "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "Many people do not believe that {it}justice has been served/done{/it} in his case."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "proper punishment or fair treatment is given by the legal system"
+    ]
+  },
+  {
+    "meta": {
+      "id": "chief justice",
+      "uuid": "4f3dd7dd-2070-4a21-a876-143c79ad7c6f",
+      "sort": "032535000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "chief justice",
+        "chief justices"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "chief justice"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the presiding or principal judge of a court of justice"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1534",
+    "shortdef": [
+      "the presiding or principal judge of a court of justice"
+    ]
+  },
+  {
+    "meta": {
+      "id": "fugitive from justice",
+      "uuid": "d27c63d9-807a-4109-833c-e77ff83972b5",
+      "sort": "063559500",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "fugitive from justice",
+        "fugitives from justice"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "fugitive from justice"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a person (such as a criminal suspect or witness) who tries to elude law enforcement especially by fleeing the jurisdiction {bc}{sx|fugitive||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "… when I declare myself as her counsel, I have to surrender her or be charged with harboring a {wi}fugitive from justice{/wi}.",
+                        "aq": {
+                          "auth": "James M. Cain"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1735",
+    "shortdef": [
+      "a person (such as a criminal suspect or witness) who tries to elude law enforcement especially by fleeing the jurisdiction : fugitive"
+    ]
+  },
+  {
+    "meta": {
+      "id": "miscarriage of justice",
+      "uuid": "0ff58e79-f784-44da-b756-ceff2f5cccfd",
+      "sort": "133064000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "miscarriage of justice",
+        "miscarriages of justice"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "miscarriage of justice"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}an outcome in a judicial proceeding that is unjust"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}an error made in a court of law that results in an innocent person being punished or a guilty person being free "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "His conviction was a {wi}miscarriage of justice{/wi}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1800",
+    "shortdef": [
+      "an outcome in a judicial proceeding that is unjust; especially : an error made in a court of law that results in an innocent person being punished or a guilty person being free"
+    ]
+  },
+  {
+    "meta": {
+      "id": "poetic justice",
+      "uuid": "075164b3-7604-4784-a916-5e36fc9aee9b",
+      "sort": "165375000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "poetic justice",
+        "poetic justices"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "poetic justice"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}an outcome in which vice is punished and virtue rewarded usually in a manner peculiarly or ironically appropriate"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1691",
+    "shortdef": [
+      "an outcome in which vice is punished and virtue rewarded usually in a manner peculiarly or ironically appropriate"
+    ]
+  },
+  {
+    "meta": {
+      "id": "do justice to",
+      "uuid": "b9d894fa-2444-4797-84ba-99a8f14ebfed",
+      "sort": "3004828000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [
+        "do justice to"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "do justice to"
+    },
+    "fl": "idiom",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to treat or show (something or someone) in a way that is as good as it should be "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "Words could never {it}do justice to{/it} her beauty."
+                      },
+                      {
+                        "t": "The movie does not {it}do justice to{/it} the book."
+                      },
+                      {
+                        "t": "a brief summary that does not {it}do justice to{/it} the complexity of this issue"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "to treat or show (something or someone) in a way that is as good as it should be"
+    ]
+  },
+  {
+    "meta": {
+      "id": "pervert justice",
+      "uuid": "9c29fc0a-fc1b-43ad-aa06-b8b66086d1f7",
+      "sort": "3014592000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [
+        "pervert justice"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "pervert justice"
+    },
+    "fl": "idiom",
+    "def": [
+      {
+        "sls": [
+          "British"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to try to stop the police from learning the facts about a criminal case "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "She was convicted of {it}perverting justice{/it} for lying to the police."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "to try to stop the police from learning the facts about a criminal case"
+    ]
+  },
+  {
+    "meta": {
+      "id": "pervert the course of justice",
+      "uuid": "88afd56f-1464-44bd-b344-a4b09bb00714",
+      "sort": "3014593000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [
+        "pervert the course of justice"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "pervert the course of justice"
+    },
+    "fl": "idiom",
+    "def": [
+      {
+        "sls": [
+          "British"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to try to stop the police from learning the facts about a criminal case "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "She was convicted of {it}perverting the course of justice{/it} for lying to the police."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "to try to stop the police from learning the facts about a criminal case"
+    ]
+  }
+]

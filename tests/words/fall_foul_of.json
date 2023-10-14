@@ -1,0 +1,52 @@
+[
+	{
+		"meta": {
+			"id": "fall foul of",
+			"uuid": "451a25cc-a868-4d2f-bbb4-da49d5d8bdba",
+			"sort": "3005713000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"fall foul of"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "fall foul of"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}to get into trouble because of failing to do what is required by (the law, a rule, etc.) "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "After leaving school she {it}fell foul of{\/it} the law and spent time in jail."
+											},
+											{
+												"t": "companies that {it}fall foul of{\/it} labor laws"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"to get into trouble because of failing to do what is required by (the law, a rule, etc.)"
+		]
+	}
+]

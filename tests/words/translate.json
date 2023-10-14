@@ -1,0 +1,456 @@
+[
+  {
+    "meta": {
+      "id": "translate",
+      "uuid": "807f9821-1f41-4342-9e72-e8f8bc2bd9ab",
+      "sort": "200342700",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "translatabilities",
+        "translatability",
+        "translatable",
+        "translate",
+        "translated",
+        "translates",
+        "translating",
+        "translator",
+        "translators"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "trans*late",
+      "prs": [
+        {
+          "mw": "tran(t)s-ˈlāt",
+          "sound": {
+            "audio": "transl02",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "tranz-",
+          "pun": ";"
+        },
+        {
+          "mw": "ˈtran(t)s-ˌlāt"
+        },
+        {
+          "mw": "ˈtranz-"
+        }
+      ]
+    },
+    "fl": "verb",
+    "ins": [
+      {
+        "if": "trans*lat*ed"
+      },
+      {
+        "if": "trans*lat*ing"
+      }
+    ],
+    "def": [
+      {
+        "vd": "transitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to turn into one's own or another language"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to {a_link|transfer} or turn from one set of symbols into another {bc}{sx|transcribe||}"
+                  ]
+                ]
+              }
+            ],
+            [
+              "pseq",
+              [
+                [
+                  "sense",
+                  {
+                    "sn": "c (1)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}to express in different terms and especially different words {bc}{sx|paraphrase||}"
+                      ]
+                    ]
+                  }
+                ],
+                [
+                  "sense",
+                  {
+                    "sn": "(2)",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}to express in more comprehensible terms {bc}{sx|explain||}, {sx|interpret||}"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to bear, remove, or change from one place, state, form, or appearance to another {bc}{sx|transfer||}, {sx|transform||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "{wi}translate{/wi} ideas into action"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to convey to heaven or to a nontemporal condition without death"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "c",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to transfer (a bishop) from one see to another"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|enrapture||}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "4",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to subject to mathematical {a_link|translation}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "5",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to subject (genetic information) to translation in protein synthesis"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "vd": "intransitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to practice translation or make a translation"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "also",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to admit of or be adaptable to translation "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a word that doesn't {wi}translate{/wi} easily"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to undergo a translation"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|lead||}, {sx|result||} "
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "usually used with {it}into{/it} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "believes that tax cuts will {wi}translate{/wi} into economic growth"
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "trans*lat*abil*i*ty",
+        "prs": [
+          {
+            "mw": "(ˌ)tran(t)s-ˌlā-tə-ˈbi-lə-tē",
+            "sound": {
+              "audio": "transl03",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "(ˌ)tranz-"
+          }
+        ],
+        "fl": "noun",
+        "utxt": [
+          [
+            "vis",
+            [
+              {
+                "t": "The {wi}translatability{/wi} of other native two-dimensional designs into the commercial medium of silk screens, however, may not be so clearcut.",
+                "aq": {
+                  "auth": "Margaret B. Blackman et al."
+                }
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "ure": "trans*lat*able",
+        "prs": [
+          {
+            "mw": "tran(t)s-ˈlā-tə-bəl",
+            "sound": {
+              "audio": "transl04",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "tranz-"
+          }
+        ],
+        "fl": "adjective",
+        "utxt": [
+          [
+            "vis",
+            [
+              {
+                "t": "The word is of Derrida's own coinage and is deliberately ambiguous (and therefore not {wi}translatable{/wi}), being derived from the French …",
+                "aq": {
+                  "auth": "Ann Jefferson"
+                }
+              },
+              {
+                "t": "… but the resultant information is spotty and not readily {wi}translatable{/wi} into an average national trend.",
+                "aq": {
+                  "auth": "Barry Commoner"
+                }
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "ure": "trans*la*tor",
+        "prs": [
+          {
+            "mw": "ˈtran(t)s-ˌlā-tər",
+            "sound": {
+              "audio": "transl05",
+              "ref": "u",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "ˈtranz-",
+            "pun": ";"
+          },
+          {
+            "mw": "tran(t)s-ˈlā-tər"
+          },
+          {
+            "mw": "tranz-"
+          }
+        ],
+        "fl": "noun"
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English, from Anglo-French {it}translater{/it}, from Latin {it}translatus{/it} (past participle of {it}transferre{/it} to transfer, translate), from {it}trans-{/it} + {it}latus{/it}, past participle of {it}ferre{/it} to carry {ma}{mat|tolerate|}, {mat|bear|}{/ma}"
+      ]
+    ],
+    "date": "14th century{ds|t|2|a|}",
+    "shortdef": [
+      "to turn into one's own or another language",
+      "to transfer or turn from one set of symbols into another : transcribe",
+      "to express in different terms and especially different words : paraphrase"
+    ]
+  },
+  {
+    "meta": {
+      "id": "translate into",
+      "uuid": "7629de28-6bad-4f3e-ae45-fca90844394a",
+      "sort": "3021415000",
+      "src": "ld",
+      "section": "idioms",
+      "stems": [
+        "translate into",
+        "translated into",
+        "translates into",
+        "translating into"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "translate into"
+    },
+    "fl": "phrasal verb",
+    "ins": [
+      {
+        "if": "trans*lat*ed in*to"
+      },
+      {
+        "if": "trans*lat*ing in*to"
+      },
+      {
+        "if": "trans*lates in*to"
+      }
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to lead to (something) as a result {bc}result in "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "Competition often {it}translates into{/it} lower costs to the consumer."
+                      },
+                      {
+                        "t": "Artistic success doesn't always {it}translate into{/it} financial success."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "to lead to (something) as a result : result in"
+    ]
+  }
+]

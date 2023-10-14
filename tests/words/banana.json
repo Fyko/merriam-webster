@@ -1,0 +1,541 @@
+[
+	{
+		"meta": {
+			"id": "banana",
+			"uuid": "72664a65-19b1-45e0-9eaf-23408975939d",
+			"sort": "020045200",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"banana",
+				"bananas"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "ba*nana",
+			"prs": [
+				{
+					"mw": "bə-ˈna-nə",
+					"sound": {
+						"audio": "banana01",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"l": "especially British",
+					"mw": "-ˈnä-"
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}an elongated usually tapering tropical fruit with soft pulpy flesh enclosed in a soft usually yellow rind "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "a bunch of {wi}bananas{\/wi}"
+											},
+											{
+												"t": "slipped on a {wi}banana{\/wi} peel"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}any of several widely cultivated perennial often treelike {d_link|herbs|herb} (genus {it}Musa{\/it} of the family Musaceae, the banana family) bearing bananas in compact {d_link|pendent|pendent} bunches"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"art": {
+			"artid": "banana",
+			"capt": "banana 2"
+		},
+		"et": [
+			[
+				"text",
+				"Spanish or Portuguese; Spanish, from Portuguese, of African origin; akin to Wolof {it}banaana{\/it} banana"
+			]
+		],
+		"date": "1597{ds||1||}",
+		"shortdef": [
+			"an elongated usually tapering tropical fruit with soft pulpy flesh enclosed in a soft usually yellow rind",
+			"any of several widely cultivated perennial often treelike herbs (genus Musa of the family Musaceae, the banana family) bearing bananas in compact pendent bunches"
+		]
+	},
+	{
+		"meta": {
+			"id": "banana bread",
+			"uuid": "2abaef11-082e-4795-9bde-e7efa03606c3",
+			"sort": "020045225",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"banana bread",
+				"banana breads"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "banana bread"
+		},
+		"fl": "noun",
+		"ins": [
+			{
+				"il": "plural",
+				"if": "banana breads"
+			}
+		],
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a {d_link|quick bread|quick bread} made with mashed ripe bananas mixed into the batter "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}Banana bread{\/wi} is the unsung hero of cutting back on kitchen waste. What other decadent treat could you make that uses up all your nearly-expired breakfast fruit?",
+												"aq": {
+													"auth": "Kaitlyn McInnis"
+												}
+											},
+											{
+												"t": "A lot of us are moving from one \"comfort food\" meal to the next (think of all the lasagnas and {wi}banana breads{\/wi} on Instagram).",
+												"aq": {
+													"auth": "Michael J. Breus"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1930",
+		"shortdef": [
+			"a quick bread made with mashed ripe bananas mixed into the batter"
+		]
+	},
+	{
+		"meta": {
+			"id": "banana clip",
+			"uuid": "41d8c664-d66c-4b8b-af23-c366d27e08d4",
+			"sort": "020045250",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"banana clip",
+				"banana clips"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "banana clip"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}a clip that is slightly curved and used to hold a person's hair in place"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"sls": [
+									"slang"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}a curved magazine or clip for a firearm "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "… reached into a camouflaged vest bulging with a bayonet and {wi}banana clips{\/wi} of ammunition for his AK-47 …",
+												"aq": {
+													"auth": "Paul Watson"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1951{ds||1||}",
+		"shortdef": [
+			"a clip that is slightly curved and used to hold a person's hair in place",
+			"a curved magazine or clip for a firearm"
+		]
+	},
+	{
+		"meta": {
+			"id": "banana oil",
+			"uuid": "f3c0eff2-3842-43f6-88ed-e704e323dcd1",
+			"sort": "020045300",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"banana oil",
+				"banana oils"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "banana oil"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|amyl acetate||}"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1887",
+		"shortdef": [
+			"amyl acetate"
+		]
+	},
+	{
+		"meta": {
+			"id": "banana pepper",
+			"uuid": "3ec01d64-219f-4f02-aea4-02f7377a6211",
+			"sort": "020045400",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"banana pepper"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "banana pepper"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a long tapered yellow pepper occurring in several varieties from mild and sweet tasting to hot and pungent"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1937",
+		"shortdef": [
+			"a long tapered yellow pepper occurring in several varieties from mild and sweet tasting to hot and pungent"
+		]
+	},
+	{
+		"meta": {
+			"id": "banana republic",
+			"uuid": "27ecaa65-4c5b-48ee-83cb-4201733acf5b",
+			"sort": "020045500",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"banana republic",
+				"banana republics"
+			],
+			"offensive": true
+		},
+		"hwi": {
+			"hw": "banana republic"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a small dependent country usually of the tropics"
+									]
+								],
+								"sdsense": {
+									"sd": "especially",
+									"dt": [
+										[
+											"text",
+											"{bc}one run despotically"
+										]
+									]
+								}
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1901",
+		"shortdef": [
+			"a small dependent country usually of the tropics; especially : one run despotically"
+		]
+	},
+	{
+		"meta": {
+			"id": "banana seat",
+			"uuid": "2abe8d93-1012-4212-8a8e-babdf1b4aa48",
+			"sort": "020045700",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"banana seat",
+				"banana seats"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "banana seat"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}an elongated bicycle saddle"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1963",
+		"shortdef": [
+			"an elongated bicycle saddle"
+		]
+	},
+	{
+		"meta": {
+			"id": "banana split",
+			"uuid": "35d4c487-824f-452f-b1a9-b0fce6a464a5",
+			"sort": "020045900",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"banana split",
+				"banana splits"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "banana split"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}ice cream served on a banana sliced in half lengthwise and usually garnished with flavored syrups, fruits, nuts, and whipped cream"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1906",
+		"shortdef": [
+			"ice cream served on a banana sliced in half lengthwise and usually garnished with flavored syrups, fruits, nuts, and whipped cream"
+		]
+	},
+	{
+		"meta": {
+			"id": "Banana River:g",
+			"uuid": "173d9117-ab61-44c4-8e65-0c46793f7959",
+			"sort": "270696000",
+			"src": "collegiate",
+			"section": "geog",
+			"stems": [
+				"Banana River"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "Ba*nana River",
+			"prs": [
+				{
+					"mw": "bə-ˈna-nə",
+					"sound": {
+						"audio": "ggbana02",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "geographical name",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"lagoon in eastern Florida between the Canaveral Peninsula and Merritt Island"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"lagoon in eastern Florida between the Canaveral Peninsula and Merritt Island"
+		]
+	},
+	{
+		"meta": {
+			"id": "second banana",
+			"uuid": "ffcf86e4-2c1c-4c04-ad61-867189005106",
+			"sort": "191795000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"second banana",
+				"second bananas"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "second banana"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a comedian who plays a supporting role to a top banana"
+									]
+								],
+								"sdsense": {
+									"sd": "broadly",
+									"dt": [
+										[
+											"text",
+											"{bc}a person in a subservient position"
+										]
+									]
+								}
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1953",
+		"shortdef": [
+			"a comedian who plays a supporting role to a top banana; broadly : a person in a subservient position"
+		]
+	}
+]

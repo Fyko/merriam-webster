@@ -1,0 +1,1463 @@
+[
+	{
+		"meta": {
+			"id": "follow:1",
+			"uuid": "17812c7f-0c95-4e5c-9677-67797da131bd",
+			"sort": "062364000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"as follows",
+				"follow",
+				"follow her nose",
+				"follow his nose",
+				"follow its nose",
+				"follow my nose",
+				"follow one's nose",
+				"follow our noses",
+				"follow suit",
+				"follow their nose",
+				"follow their noses",
+				"follow your nose",
+				"follow your noses",
+				"followed",
+				"followed her nose",
+				"followed his nose",
+				"followed its nose",
+				"followed my nose",
+				"followed our noses",
+				"followed suit",
+				"followed their nose",
+				"followed their noses",
+				"followed your nose",
+				"followed your noses",
+				"following",
+				"following her nose",
+				"following his nose",
+				"following its nose",
+				"following my nose",
+				"following our noses",
+				"following suit",
+				"following their nose",
+				"following their noses",
+				"following your nose",
+				"following your noses",
+				"follows",
+				"follows her nose",
+				"follows his nose",
+				"follows its nose",
+				"follows suit",
+				"follows their nose"
+			],
+			"offensive": false
+		},
+		"hom": 1,
+		"hwi": {
+			"hw": "fol*low",
+			"prs": [
+				{
+					"mw": "ˈfä-(ˌ)lō",
+					"sound": {
+						"audio": "follow01",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "verb",
+		"ins": [
+			{
+				"if": "fol*lowed"
+			},
+			{
+				"if": "fol*low*ing"
+			},
+			{
+				"if": "fol*lows"
+			}
+		],
+		"def": [
+			{
+				"vd": "transitive verb",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}to go, proceed, or come after "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}followed{\/wi} the guide"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2 a",
+								"dt": [
+									[
+										"text",
+										"{bc}to engage in as a calling or way of life {bc}{sx|pursue||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "wheat-growing is generally {wi}followed{\/wi} here"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}to walk or proceed along "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}follow{\/wi} a path"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "3 a",
+								"dt": [
+									[
+										"text",
+										"{bc}to be or act in accordance with "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}follow{\/wi} directions"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}to accept as authority {bc}{sx|obey||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}followed{\/wi} his conscience"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "4 a",
+								"dt": [
+									[
+										"text",
+										"{bc}to pursue in an effort to overtake "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "Police {wi}followed{\/wi} the robbers attempting to escape."
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}to seek to attain "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}follow{\/wi} knowledge"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "5",
+								"dt": [
+									[
+										"text",
+										"{bc}to come into existence or take place as a result or consequence of "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "disaster {wi}followed{\/wi} the blunder"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "6 a",
+								"dt": [
+									[
+										"text",
+										"{bc}to come or take place after in time, sequence, or order "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "A juggling act {wi}followed{\/wi} the singer."
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}to cause to be {a_link|followed} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}followed{\/wi} dinner with a liqueur"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "7",
+								"dt": [
+									[
+										"text",
+										"{bc}to copy after {bc}{sx|imitate||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "the new building {wi}follows{\/wi} the facades and roof lines of the original buildings",
+												"aq": {
+													"auth": "Maxwell Mays"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "8 a",
+								"dt": [
+									[
+										"text",
+										"{bc}to watch steadily "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}followed{\/wi} the flight of the ball"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}to keep the mind on "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}follow{\/wi} a speech"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "c",
+								"dt": [
+									[
+										"text",
+										"{bc}to attend closely to {bc}keep abreast of "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}followed{\/wi} his career with interest"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "d",
+								"dt": [
+									[
+										"text",
+										"{bc}to understand the sense or logic of (something, such as a line of thought) "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "I don't quite {wi}follow{\/wi} your thinking."
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "e",
+								"dt": [
+									[
+										"text",
+										"{bc}to subscribe to the feed of (someone or something) especially on social media "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}Follow{\/wi} us on Facebook\/Twitter."
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			},
+			{
+				"vd": "intransitive verb",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}to go or come after a person or thing in place, time, or sequence "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "If one sheep goes through the gate, the rest will {wi}follow{\/wi}."
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}to result or occur as a consequence, effect, or inference "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "Just because he's done some bad things, does it {wi}follow{\/wi} that he is a bad person?"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"dros": [
+			{
+				"drp": "as follows",
+				"def": [
+					{
+						"sseq": [
+							[
+								[
+									"sense",
+									{
+										"dt": [
+											[
+												"text",
+												"{bc}as comes next "
+											],
+											[
+												"uns",
+												[
+													[
+														[
+															"text",
+															"used impersonally "
+														],
+														[
+															"vis",
+															[
+																{
+																	"t": "The names of the winners are {it}as follows:{\/it} Mary, James, and Sylvia."
+																}
+															]
+														]
+													]
+												]
+											]
+										]
+									}
+								]
+							]
+						]
+					}
+				]
+			},
+			{
+				"drp": "follow one's nose",
+				"def": [
+					{
+						"sseq": [
+							[
+								[
+									"sense",
+									{
+										"sn": "1",
+										"dt": [
+											[
+												"text",
+												"{bc}to go in a straight or obvious course "
+											],
+											[
+												"vis",
+												[
+													{
+														"t": "Just {it}follow your nose{\/it} until you get there; you can't miss it."
+													}
+												]
+											]
+										]
+									}
+								]
+							],
+							[
+								[
+									"sense",
+									{
+										"sn": "2",
+										"dt": [
+											[
+												"text",
+												"{bc}to proceed without plan or reflection {bc}obey one's instincts "
+											],
+											[
+												"vis",
+												[
+													{
+														"t": "You don't need my advice—just {it}follow your nose{\/it}."
+													}
+												]
+											]
+										]
+									}
+								]
+							]
+						]
+					}
+				]
+			},
+			{
+				"drp": "follow suit",
+				"def": [
+					{
+						"sseq": [
+							[
+								[
+									"sense",
+									{
+										"sn": "1",
+										"dt": [
+											[
+												"text",
+												"{bc}to play a card of the same suit as the card led"
+											]
+										]
+									}
+								]
+							],
+							[
+								[
+									"sense",
+									{
+										"sn": "2",
+										"dt": [
+											[
+												"text",
+												"{bc}to follow an example set "
+											],
+											[
+												"vis",
+												[
+													{
+														"t": "When one airline lowers its fares, the others usually {it}follow suit{\/it}."
+													}
+												]
+											]
+										]
+									}
+								]
+							]
+						]
+					}
+				]
+			}
+		],
+		"syns": [
+			{
+				"pl": "synonyms",
+				"pt": [
+					[
+						"text",
+						"{sc}follow{\/sc} {sc}succeed{\/sc} {sc}ensue{\/sc} {sc}supervene{\/sc} mean to come after something or someone. {sc}follow{\/sc} may apply to a coming after in time, position, or logical sequence. "
+					],
+					[
+						"vis",
+						[
+							{
+								"t": "speeches {it}followed{\/it} the dinner"
+							}
+						]
+					],
+					[
+						"text",
+						" {sc}succeed{\/sc} implies a coming after immediately in a sequence determined by natural order, inheritance, election, or laws of rank. "
+					],
+					[
+						"vis",
+						[
+							{
+								"t": "she {it}succeeded{\/it} her father as head of the business"
+							}
+						]
+					],
+					[
+						"text",
+						" {sc}ensue{\/sc} commonly suggests a logical consequence or naturally expected development. "
+					],
+					[
+						"vis",
+						[
+							{
+								"t": "after the talk a general discussion {it}ensued{\/it}"
+							}
+						]
+					],
+					[
+						"text",
+						" {sc}supervene{\/sc} suggests the following or beginning of something unforeseen or unpredictable. "
+					],
+					[
+						"vis",
+						[
+							{
+								"t": "unable to continue because of {it}supervening{\/it} circumstances"
+							}
+						]
+					]
+				],
+				"sarefs": [
+					"chase"
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"Middle English {it}folwen{\/it}, from Old English {it}folgian{\/it}; akin to Old High German {it}folgēn{\/it} to follow"
+			]
+		],
+		"date": "before 12th century{ds|t|1||}",
+		"shortdef": [
+			"to go, proceed, or come after",
+			"to engage in as a calling or way of life : pursue",
+			"to walk or proceed along"
+		]
+	},
+	{
+		"meta": {
+			"id": "follow:2",
+			"uuid": "e5cefe2b-f8fb-4c78-b80d-5fa64cec49d8",
+			"sort": "062365000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"follow",
+				"follows"
+			],
+			"offensive": false
+		},
+		"hom": 2,
+		"hwi": {
+			"hw": "follow"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}the act or process of {a_link|following}"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}forward spin given to a ball by striking it above center {dx}compare {dxt|draw||}, {dxt|english||}{\/dx}"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"{dx_ety}see {dxt|follow:1||}{\/dx_ety}"
+			]
+		],
+		"date": "1661{ds||1||}",
+		"shortdef": [
+			"the act or process of following",
+			"forward spin given to a ball by striking it above center"
+		]
+	},
+	{
+		"meta": {
+			"id": "follow-on",
+			"uuid": "3f787f8f-ff61-472a-b3f2-5139399561f5",
+			"sort": "062371000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"follow-on",
+				"follow-ons"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "fol*low-on",
+			"prs": [
+				{
+					"mw": "ˈfä-lō-ˌȯn",
+					"sound": {
+						"audio": "follow05",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "-ˌän"
+				}
+			]
+		},
+		"fl": "adjective",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}being or relating to something that follows as a natural or logical consequence, development, or progression"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"uros": [
+			{
+				"ure": "follow-on",
+				"fl": "noun"
+			}
+		],
+		"date": "1960",
+		"shortdef": [
+			"being or relating to something that follows as a natural or logical consequence, development, or progression"
+		]
+	},
+	{
+		"meta": {
+			"id": "follow out",
+			"uuid": "743267ec-95aa-468f-a9fd-cd614d60b632",
+			"sort": "062372000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"follow out",
+				"followed out",
+				"following out",
+				"follows out"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "follow out"
+		},
+		"fl": "verb",
+		"ins": [
+			{
+				"if": "fol*lowed out"
+			},
+			{
+				"if": "fol*low*ing out"
+			},
+			{
+				"if": "fol*lows out"
+			}
+		],
+		"def": [
+			{
+				"vd": "transitive verb",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}to follow to the end or to a conclusion"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|carry out||}, {sx|execute||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{it}followed out{\/it} their orders"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1662{ds||2||}",
+		"shortdef": [
+			"to follow to the end or to a conclusion",
+			"carry out, execute"
+		]
+	},
+	{
+		"meta": {
+			"id": "follow shot",
+			"uuid": "547fc41c-dfb2-468a-89d0-05a853220eaf",
+			"sort": "062373000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"follow shot",
+				"follow shots"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "follow shot"
+		},
+		"fl": "noun",
+		"ins": [
+			{
+				"il": "plural",
+				"if": "follow shots"
+			}
+		],
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sen",
+							{
+								"sn": "1",
+								"sls": [
+									"sports"
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "a",
+								"dt": [
+									[
+										"text",
+										"{bc}a shot in billiards or pool made by striking the cue ball above its center to cause it to continue forward after striking the object ball"
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}a shot made immediately (as by a teammate) after recovering a missed shot "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "All-America forward Aliyah Boston grabbed the rebound, but her short {wi}follow shot{\/wi} also was off the mark—and Stanford earned its fifth appearance in a national title game.",
+												"aq": {
+													"auth": "Steve Kroner"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}a camera shot in which the camera follows the movement of the subject"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1866{ds||1|a|}",
+		"shortdef": [
+			"a shot in billiards or pool made by striking the cue ball above its center to cause it to continue forward after striking the object ball",
+			"a shot made immediately (as by a teammate) after recovering a missed shot",
+			"a camera shot in which the camera follows the movement of the subject"
+		]
+	},
+	{
+		"meta": {
+			"id": "follow-through",
+			"uuid": "0ea11758-e24b-4f47-b535-496249ba2a28",
+			"sort": "062374000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"follow-through",
+				"follow-throughs"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "fol*low-through",
+			"prs": [
+				{
+					"mw": "ˈfä-lō-ˌthrü",
+					"sound": {
+						"audio": "follow06",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "ˌfä-lō-ˈthrü"
+				},
+				{
+					"mw": "-lə-"
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}the part of the stroke following the striking of a ball"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}the act or an instance of following through"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1891{ds||1||}",
+		"shortdef": [
+			"the part of the stroke following the striking of a ball",
+			"the act or an instance of following through"
+		]
+	},
+	{
+		"meta": {
+			"id": "follow through",
+			"uuid": "0d4150e6-fbbc-431b-9223-c3f525df55e1",
+			"sort": "062375000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"follow through",
+				"followed through",
+				"following through",
+				"follows through"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "follow through"
+		},
+		"fl": "verb",
+		"ins": [
+			{
+				"if": "fol*lowed through"
+			},
+			{
+				"if": "fol*low*ing through"
+			},
+			{
+				"if": "fol*lows through"
+			}
+		],
+		"def": [
+			{
+				"vd": "intransitive verb",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}to continue a stroke or motion to the end of its arc"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}to press on in an activity or process especially to a conclusion"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1891{ds||1||}",
+		"shortdef": [
+			"to continue a stroke or motion to the end of its arc",
+			"to press on in an activity or process especially to a conclusion"
+		]
+	},
+	{
+		"meta": {
+			"id": "follow-up:1",
+			"uuid": "5307bb5f-307f-419b-82d9-114d37303551",
+			"sort": "062376000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"follow-up",
+				"follow-ups",
+				"follows-up"
+			],
+			"offensive": false
+		},
+		"hom": 1,
+		"hwi": {
+			"hw": "fol*low-up",
+			"prs": [
+				{
+					"mw": "ˈfä-lō-ˌəp",
+					"sound": {
+						"audio": "follow07",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1 a",
+								"dt": [
+									[
+										"text",
+										"{bc}the act or an instance of {d_link|following up|follow up}"
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}something that follows up"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}maintenance of contact with or reexamination of a person (such as a patient) especially following treatment "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "The surgeon scheduled a {wi}follow-up{\/wi} with his patient a week after the surgery."
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "3",
+								"dt": [
+									[
+										"text",
+										"{bc}a news story presenting new information on a story published earlier "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "A few days after the story broke, the newspaper printed a {wi}follow-up{\/wi}."
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1904{ds||1|a|}",
+		"shortdef": [
+			"the act or an instance of following up",
+			"something that follows up",
+			"maintenance of contact with or reexamination of a person (such as a patient) especially following treatment"
+		]
+	},
+	{
+		"meta": {
+			"id": "follow-up:2",
+			"uuid": "70247a53-570f-4a01-bf29-3a8047d9ab20",
+			"sort": "062377000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"follow-up"
+			],
+			"offensive": false
+		},
+		"hom": 2,
+		"hwi": {
+			"hw": "follow-up"
+		},
+		"fl": "adjective",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}of, relating to, or being something that follows up "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}follow-up{\/wi} action by the police",
+												"aq": {
+													"auth": "Frank Faulkner"
+												}
+											},
+											{
+												"t": "had a few {wi}follow-up{\/wi} questions after the interview"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}done, conducted, or administered in the course of following up persons "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}follow-up{\/wi} care for discharged hospital patients"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1897{ds||1||}",
+		"shortdef": [
+			"of, relating to, or being something that follows up",
+			"done, conducted, or administered in the course of following up persons"
+		]
+	},
+	{
+		"meta": {
+			"id": "follow up",
+			"uuid": "9867cadd-c06e-4de7-b46a-c1de4a6604e7",
+			"sort": "062378000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"follow up",
+				"followed up",
+				"following up",
+				"follows up"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "follow up"
+		},
+		"fl": "verb",
+		"ins": [
+			{
+				"if": "fol*lowed up"
+			},
+			{
+				"if": "fol*low*ing up"
+			},
+			{
+				"if": "fol*lows up"
+			}
+		],
+		"def": [
+			{
+				"vd": "transitive verb",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}to follow with something similar, related, or supplementary "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{it}following up{\/it} his convictions with action",
+												"aq": {
+													"auth": "G. P. Merrill"
+												}
+											},
+											{
+												"t": "She {it}followed up{\/it} her first novel with a second one."
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}to maintain contact with (a person) so as to monitor the effects of earlier activities or treatments "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "All patients were {it}followed up{\/it} clinically for four months."
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "3",
+								"dt": [
+									[
+										"text",
+										"{bc}to pursue in an effort to take further action "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "the police are {it}following up{\/it} leads"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			},
+			{
+				"vd": "intransitive verb",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}to take appropriate action "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{it}follow up{\/it} on complaints"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1637{ds|t|1||}",
+		"shortdef": [
+			"to follow with something similar, related, or supplementary",
+			"to maintain contact with (a person) so as to monitor the effects of earlier activities or treatments",
+			"to pursue in an effort to take further action"
+		]
+	}
+]

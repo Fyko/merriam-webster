@@ -1,0 +1,836 @@
+[
+  {
+    "meta": {
+      "id": "an:1",
+      "uuid": "d25fb345-12cd-46b6-9612-2649ae08f192",
+      "sort": "012516000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "an"
+      ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "an",
+      "prs": [
+        {
+          "mw": "ən"
+        },
+        {
+          "mw": "(ˈ)an",
+          "sound": {
+            "audio": "an000001",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "indefinite article",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|a:2||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "{wi}an{/wi} opera"
+                      },
+                      {
+                        "t": "{wi}an{/wi} honor"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "pl": "{parahw}a{/parahw} vs. {parahw}an{/parahw}",
+        "pt": [
+          [
+            "text",
+            "In speech and writing {it}a{/it} is used before a consonant sound. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "{it}a{/it} door"
+              },
+              {
+                "t": "{it}a{/it} human"
+              }
+            ]
+          ],
+          [
+            "text",
+            " Before a vowel sound {it}an{/it} is usual "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "{it}an{/it} icicle"
+              },
+              {
+                "t": "{it}an{/it} honor"
+              }
+            ]
+          ],
+          [
+            "text",
+            " but especially in speech {it}a{/it} is used occasionally, more often in some dialects than in others. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "{it}a{/it} apple"
+              },
+              {
+                "t": "{it}a{/it} hour"
+              },
+              {
+                "t": "{it}a{/it} obligation"
+              }
+            ]
+          ],
+          [
+            "text",
+            " Before a consonant sound represented by a vowel letter {it}a{/it} is usual "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "{it}a{/it} one"
+              },
+              {
+                "t": "{it}a{/it} union"
+              }
+            ]
+          ],
+          [
+            "text",
+            " but {it}an{/it} also occurs though less frequently now than formerly. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "{it}an{/it} unique"
+              },
+              {
+                "t": "such {it}an{/it} one"
+              }
+            ]
+          ],
+          [
+            "text",
+            " Before unstressed or weakly stressed syllables with initial {it}h{/it} both {it}a{/it} and {it}an{/it} are used in writing. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "{it}a{/it} historic"
+              },
+              {
+                "t": "{it}an{/it} historic"
+              }
+            ]
+          ],
+          [
+            "text",
+            " In the King James Version of the Old Testament and occasionally in writing and speech {it}an{/it} is used before {it}h{/it} in a stressed syllable. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "{it}an{/it} huntress"
+              },
+              {
+                "t": "{it}an{/it} hundred"
+              },
+              {
+                "t": "children are {it}an{/it} heritage of the Lord",
+                "aq": {
+                  "source": "Psalms 127:3 (King James Version)"
+                }
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English, from Old English {it}ān{/it} one {ma}{mat|one|}{/ma}"
+      ]
+    ],
+    "date": "before 12th century",
+    "shortdef": [
+      "a"
+    ]
+  },
+  {
+    "meta": {
+      "id": "an:2",
+      "uuid": "c607ffd2-d980-497e-bfaa-587c31be5167",
+      "sort": "012517000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "an"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "an",
+      "prs": [
+        {
+          "mw": "ən"
+        },
+        {
+          "mw": "(ˌ)an",
+          "sound": {
+            "audio": "an000002",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "preposition",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|a:3||1} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "sixty miles {wi}an{/wi} hour"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle English {it}an, on,{/it} going back to Old English {it}a-, an, on{/it} {ma}{mat|on:1|}{/ma}"
+      ]
+    ],
+    "date": "before 12th century",
+    "shortdef": [
+      "a"
+    ]
+  },
+  {
+    "meta": {
+      "id": "an:3",
+      "uuid": "119e5920-c93a-47ae-b8ed-17f68553118b",
+      "sort": "012518000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "an",
+        "an'"
+      ],
+      "offensive": false
+    },
+    "hom": 3,
+    "hwi": {
+      "hw": "an"
+    },
+    "vrs": [
+      {
+        "vl": "or",
+        "va": "an'"
+      }
+    ],
+    "fl": "conjunction",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "prs": [
+                  {
+                    "l": "see",
+                    "mw": "{sc}and{/sc}"
+                  }
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|and||}"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "prs": [
+                  {
+                    "mw": "ˈan",
+                    "sound": {
+                      "audio": "an000002"
+                    }
+                  }
+                ],
+                "sls": [
+                  "archaic"
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|if||}"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "12th century{ds||1||}",
+    "shortdef": [
+      "and",
+      "if"
+    ]
+  },
+  {
+    "meta": {
+      "id": "an:4",
+      "uuid": "5776c585-47c9-45d4-bfd8-61dafc7c6000",
+      "sort": "012519000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "an"
+      ],
+      "offensive": false
+    },
+    "hom": 4,
+    "hwi": {
+      "hw": "an"
+    },
+    "fl": "abbreviation",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Latin {it}annum; annus{/it}"
+      ]
+    ],
+    "shortdef": [
+      "year"
+    ]
+  },
+  {
+    "meta": {
+      "id": "an-",
+      "uuid": "4a341288-2cfe-4c1f-9ab3-e3e7cdc2c13c",
+      "sort": "012520000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "an-"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "an-"
+    },
+    "fl": "prefix",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{dx}see {dxt|a-:2||}{/dx}"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": []
+  },
+  {
+    "meta": {
+      "id": "-an:1",
+      "uuid": "24cf1218-fbf6-4a7f-afd8-5fe1ae085131",
+      "sort": "012521000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "-an",
+        "-ans",
+        "-ean",
+        "-eans",
+        "-ian",
+        "-ians"
+      ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "-an"
+    },
+    "vrs": [
+      {
+        "vl": "or",
+        "va": "-ian"
+      },
+      {
+        "vl": "or less commonly",
+        "va": "-ean"
+      }
+    ],
+    "fl": "noun suffix",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}one that is of or relating to "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "Americ{it}an{/it}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}one skilled in or specializing in "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "phonetic{it}ian{/it}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "{it}-an{/it} & {it}-ian{/it} from Middle English {it}-an, -ian{/it}, from Anglo-French & Latin; Anglo-French {it}-ien{/it}, from Latin {it}-ianus{/it}, from {it}-i-{/it} + {it}-anus{/it}, from {it}-anus{/it}, adjective suffix; {it}-ean{/it} from such words as {it}Mediterranean, European{/it}"
+      ]
+    ],
+    "shortdef": [
+      "one that is of or relating to",
+      "one skilled in or specializing in"
+    ]
+  },
+  {
+    "meta": {
+      "id": "-an:2",
+      "uuid": "b0d484ff-eb9a-4d67-867d-1f0aae518783",
+      "sort": "012522000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "-an",
+        "-ean",
+        "-ian"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "-an"
+    },
+    "vrs": [
+      {
+        "vl": "or",
+        "va": "-ian"
+      },
+      {
+        "vl": "or less commonly",
+        "va": "-ean"
+      }
+    ],
+    "fl": "adjective suffix",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}of or belonging to "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "Americ{it}an{/it}"
+                      },
+                      {
+                        "t": "Florid{it}ian{/it}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}characteristic of {bc}resembling "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "Mozart{it}ean{/it}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "of or belonging to",
+      "characteristic of : resembling"
+    ]
+  },
+  {
+    "meta": {
+      "id": "-an:3",
+      "uuid": "22970a85-7bdb-4ff2-8fa9-3508e1ae1d5e",
+      "sort": "012523000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "-an",
+        "-ans",
+        "-ean",
+        "-eans",
+        "-ian",
+        "-ians"
+      ],
+      "offensive": false
+    },
+    "hom": 3,
+    "hwi": {
+      "hw": "-an"
+    },
+    "fl": "noun suffix",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}unsaturated organic compound "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "fur{it}an{/it}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}anhydride of a carbohydrate "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "dextr{it}an{/it}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "International Scientific Vocabulary {it}-an, -ane{/it}, alteration of {it}-ene, -ine{/it}, & {it}-one{/it}"
+      ]
+    ],
+    "shortdef": [
+      "unsaturated organic compound",
+      "anhydride of a carbohydrate"
+    ]
+  },
+  {
+    "meta": {
+      "id": "AN",
+      "uuid": "8d1dfa89-a5b1-48a2-bfb9-9ab02f37a796",
+      "sort": "012524000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "AN"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "AN"
+    },
+    "fl": "abbreviation",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "airman (Navy)"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "airman (Navy)"
+    ]
+  },
+  {
+    "meta": {
+      "id": "a-:2",
+      "uuid": "2b3f91a2-088a-4712-afde-0635fd79ed5d",
+      "sort": "010009000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "a-",
+        "an-",
+        "ana-"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "a-",
+      "prs": [
+        {
+          "mw": "(ˈ)ā"
+        },
+        {
+          "l": "also",
+          "mw": "(ˈ)a"
+        },
+        {
+          "l": "or",
+          "mw": "(ˈ)ä"
+        }
+      ]
+    },
+    "vrs": [
+      {
+        "vl": "or",
+        "va": "an-",
+        "prs": [
+          {
+            "mw": "(ˈ)an"
+          }
+        ]
+      }
+    ],
+    "fl": "prefix",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}not {bc}without "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "{it}a{/it}sexual"
+                      }
+                    ]
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "{it}a-{/it} before consonants other than {it}h{/it} and sometimes even before {it}h, an-{/it} before vowels and usually before {it}h{/it} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}a{/it}chromatic"
+                            },
+                            {
+                              "t": "{it}a{/it}historical"
+                            },
+                            {
+                              "t": "{it}an{/it}astigmatic"
+                            },
+                            {
+                              "t": "{it}an{/it}hydrous"
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Latin & Greek; Latin, from Greek {ma}{mat|un-|}{/ma}"
+      ]
+    ],
+    "shortdef": [
+      "not : without —a- before consonants other than h and sometimes even before h, an- before vowels and usually before h"
+    ]
+  }
+]

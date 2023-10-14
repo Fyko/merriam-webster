@@ -1,0 +1,131 @@
+[
+  {
+    "meta": {
+      "id": "rapper",
+      "uuid": "90f2d067-9b3b-40cb-bbaf-882ee375885c",
+      "sort": "180482000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "rap",
+        "rapper",
+        "rappers"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "rap*per",
+      "prs": [
+        {
+          "mw": "ˈra-pər",
+          "sound": {
+            "audio": "rapper01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "bs",
+              {
+                "sense": {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}one that raps or is used for {a_link|rapping}: such as"
+                    ]
+                  ]
+                }
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a door knocker"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a performer of rap music"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1640",
+    "shortdef": [
+      "one that raps or is used for rapping: such as",
+      "a door knocker",
+      "a performer of rap music"
+    ]
+  },
+  {
+    "meta": {
+      "id": "gangsta rap",
+      "uuid": "54d083a7-cb48-401c-8f8c-33b211d2e0e7",
+      "sort": "070305000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "gangsta rap",
+        "gangsta rapper",
+        "gangsta rappers",
+        "gangsta raps"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "gangsta rap"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}hip-hop music with lyrics explicitly portraying the violence and drug use of American inner-city gang life"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "gangsta rapper",
+        "fl": "noun"
+      }
+    ],
+    "date": "1989",
+    "shortdef": [
+      "hip-hop music with lyrics explicitly portraying the violence and drug use of American inner-city gang life"
+    ]
+  }
+]

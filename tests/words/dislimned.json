@@ -1,0 +1,66 @@
+[
+	{
+		"meta": {
+			"id": "dislimn",
+			"uuid": "f94286d6-eb4d-486d-b88d-63ae34bc3a71",
+			"sort": "042696000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"dislimn",
+				"dislimned",
+				"dislimning",
+				"dislimns"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "dis*limn",
+			"prs": [
+				{
+					"mw": "(ˌ)dis-ˈlim",
+					"sound": {
+						"audio": "dislim01",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "verb",
+		"ins": [
+			{
+				"if": "dis*limned"
+			},
+			{
+				"if": "dis*limn*ing"
+			},
+			{
+				"if": "dis*limns"
+			}
+		],
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|dim||}"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1606",
+		"shortdef": [
+			"dim"
+		]
+	}
+]

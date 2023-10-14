@@ -1,0 +1,189 @@
+[
+  {
+    "meta": {
+      "id": "ane",
+      "uuid": "3ece474f-80a4-4fd4-8849-11ca8e0e6d67",
+      "sort": "012698000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "ane",
+        "anes"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "ane",
+      "prs": [
+        {
+          "mw": "ˈān",
+          "sound": {
+            "audio": "ane00001",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "adjective or noun or pronoun",
+    "def": [
+      {
+        "sls": [
+          "chiefly Scotland"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|one||}"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "before 12th century",
+    "shortdef": [
+      "one"
+    ]
+  },
+  {
+    "meta": {
+      "id": "-ane",
+      "uuid": "c7d96d3d-fb61-429a-bc81-317dc05bea1e",
+      "sort": "012699000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "-ane",
+        "-anes"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "-ane"
+    },
+    "fl": "noun suffix",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|-an:3||1} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "fur{it}ane{/it}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}saturated hydrocarbon "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "alk{it}ane{/it}"
+                      },
+                      {
+                        "t": "meth{it}ane{/it}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "International Scientific Vocabulary {it}-an, -ane{/it}, alteration of {it}-ene, -ine{/it}, & {it}-one{/it}"
+      ]
+    ],
+    "shortdef": [
+      "-an",
+      "saturated hydrocarbon"
+    ]
+  },
+  {
+    "meta": {
+      "id": "le coeur a ses raisons que la raison ne connait point:f",
+      "uuid": "b027db25-7b44-471c-b869-c4185543b64d",
+      "sort": "290484000",
+      "src": "collegiate",
+      "section": "fwp",
+      "stems": [
+        "le coeur a ses raisons que la raison ne connait point"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "le cœur a ses rai*sons que la rai*son ne con*naît point",
+      "prs": [
+        {
+          "mw": "lə-kœr-ä-sā-re-zōⁿk-lä-re-zōⁿn-kȯ-ne-pwaⁿ",
+          "sound": {
+            "audio": "fwlecu01",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "-zōⁿ-nə-"
+        }
+      ]
+    },
+    "fl": "French quotation from {i_link|Pascal|Pascal:b}",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the heart has its reasons, which reason knows nothing of"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "the heart has its reasons, which reason knows nothing of"
+    ]
+  }
+]

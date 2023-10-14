@@ -1,0 +1,107 @@
+[
+  {
+    "meta": {
+      "id": "annular",
+      "uuid": "ae5819df-e82e-46e3-9f18-2cdccf834710",
+      "sort": "012918000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "annular"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "an*nu*lar",
+      "prs": [
+        {
+          "mw": "ˈan-yə-lər",
+          "sound": {
+            "audio": "annula01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "adjective",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}of, relating to, or forming a ring "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "an {wi}annular{/wi} skin lesion"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "Middle French or Medieval Latin; Middle French {it}annulaire{/it}, from Medieval Latin {it}anularis{/it}, from Latin {it}anulus{/it}"
+      ]
+    ],
+    "date": "circa 1560",
+    "shortdef": [
+      "of, relating to, or forming a ring"
+    ]
+  },
+  {
+    "meta": {
+      "id": "annular eclipse",
+      "uuid": "07cb6158-2cc9-436d-8877-c0e21b0daaed",
+      "sort": "012919000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "annular eclipse",
+        "annular eclipses"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "annular eclipse"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}an eclipse in which a thin outer ring of the sun's disk is not covered by the smaller dark disk of the moon"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1728",
+    "shortdef": [
+      "an eclipse in which a thin outer ring of the sun's disk is not covered by the smaller dark disk of the moon"
+    ]
+  }
+]

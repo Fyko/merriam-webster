@@ -1,0 +1,574 @@
+[
+	{
+		"meta": {
+			"id": "random:1",
+			"uuid": "f8ddb379-9cb5-48a9-a171-5fd4a6302978",
+			"sort": "180410000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"random",
+				"randomly"
+			],
+			"offensive": false
+		},
+		"hom": 1,
+		"hwi": {
+			"hw": "ran*dom",
+			"prs": [
+				{
+					"mw": "ˈran-dəm",
+					"sound": {
+						"audio": "random01",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "adjective",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1 a",
+								"dt": [
+									[
+										"text",
+										"{bc}lacking a definite plan, purpose, or pattern"
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}made, done, or chosen at random "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "read {wi}random{\/wi} passages from the book"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2 a",
+								"dt": [
+									[
+										"text",
+										"{bc}relating to, having, or being elements or events with definite probability of occurrence "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}random{\/wi} processes"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}being or relating to a set or to an element of a set each of whose elements has equal probability of occurrence "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "a {wi}random{\/wi} sample"
+											}
+										]
+									]
+								],
+								"sdsense": {
+									"sd": "also",
+									"dt": [
+										[
+											"text",
+											"{bc}characterized by procedures designed to obtain such sets or elements "
+										],
+										[
+											"vis",
+											[
+												{
+													"t": "{wi}random{\/wi} sampling"
+												}
+											]
+										]
+									]
+								}
+							}
+						]
+					]
+				]
+			}
+		],
+		"uros": [
+			{
+				"ure": "ran*dom*ly",
+				"fl": "adverb"
+			}
+		],
+		"syns": [
+			{
+				"pl": "synonyms",
+				"pt": [
+					[
+						"text",
+						"{sc}random{\/sc} {sc}haphazard{\/sc} {sc}casual{\/sc} mean determined by accident rather than design. {sc}random{\/sc} stresses lack of definite aim, fixed goal, or regular procedure. "
+					],
+					[
+						"vis",
+						[
+							{
+								"t": "a {it}random{\/it} selection of books"
+							}
+						]
+					],
+					[
+						"text",
+						" {sc}haphazard{\/sc} applies to what is done without regard for regularity or fitness or ultimate consequence. "
+					],
+					[
+						"vis",
+						[
+							{
+								"t": "a {it}haphazard{\/it} collection of rocks"
+							}
+						]
+					],
+					[
+						"text",
+						" {sc}casual{\/sc} suggests working or acting without deliberation, intention, or purpose. "
+					],
+					[
+						"vis",
+						[
+							{
+								"t": "a {it}casual{\/it} collector"
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1619{ds||1|a|}",
+		"shortdef": [
+			"lacking a definite plan, purpose, or pattern",
+			"made, done, or chosen at random",
+			"relating to, having, or being elements or events with definite probability of occurrence"
+		]
+	},
+	{
+		"meta": {
+			"id": "random:2",
+			"uuid": "fb5578b6-01a2-4466-a504-d0c074c90388",
+			"sort": "180411000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"at random",
+				"random",
+				"randoms"
+			],
+			"offensive": false
+		},
+		"hom": 2,
+		"hwi": {
+			"hw": "random"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a haphazard course"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"dros": [
+			{
+				"drp": "at random",
+				"def": [
+					{
+						"sseq": [
+							[
+								[
+									"sense",
+									{
+										"dt": [
+											[
+												"text",
+												"{bc}without definite aim, direction, rule, or method "
+											],
+											[
+												"vis",
+												[
+													{
+														"t": "subjects chosen {it}at random{\/it}"
+													}
+												]
+											]
+										]
+									}
+								]
+							]
+						]
+					}
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"Middle English, succession, surge, from Anglo-French {it}randun{\/it}, from Old French {it}randir{\/it} to run, of Germanic origin; akin to Old High German {it}rinnan{\/it} to run {ma}{mat|run|}{\/ma}"
+			]
+		],
+		"date": "1561",
+		"shortdef": [
+			"a haphazard course"
+		]
+	},
+	{
+		"meta": {
+			"id": "random:3",
+			"uuid": "59357a2d-4e97-4f25-991a-3281d6b5466e",
+			"sort": "180412000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"random"
+			],
+			"offensive": false
+		},
+		"hom": 3,
+		"hwi": {
+			"hw": "random"
+		},
+		"fl": "adverb",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}in a random manner"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1618",
+		"shortdef": [
+			"in a random manner"
+		]
+	},
+	{
+		"meta": {
+			"id": "random-access",
+			"uuid": "ff2e426f-ccac-4c86-88f5-eb85f1923e9b",
+			"sort": "180413000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"random-access"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "ran*dom-ac*cess",
+			"prs": [
+				{
+					"mw": "ˈran-dəm-ˈak-ˌses",
+					"sound": {
+						"audio": "random-access_1",
+						"ref": "owl",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "adjective",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}permitting access to stored data in any order the user desires"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1953",
+		"shortdef": [
+			"permitting access to stored data in any order the user desires"
+		]
+	},
+	{
+		"meta": {
+			"id": "random-access memory",
+			"uuid": "8defb6f9-94c9-4562-a30b-0ccd63b922c4",
+			"sort": "180414000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"random-access memories",
+				"random-access memory"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "random-access memory"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|ram|RAM|}"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1953",
+		"shortdef": [
+			"ram"
+		]
+	},
+	{
+		"meta": {
+			"id": "random variable",
+			"uuid": "6c535ad9-d0de-4a02-9cbc-93e815d1df87",
+			"sort": "180417000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"random variable",
+				"random variables",
+				"variate"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "random variable"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a variable that is itself a function of the result of a statistical experiment in which each outcome has a definite probability of occurrence "
+									],
+									[
+										"ca",
+										{
+											"intro": "called also",
+											"cats": [
+												{
+													"cat": "variate"
+												}
+											]
+										}
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1914",
+		"shortdef": [
+			"a variable that is itself a function of the result of a statistical experiment in which each outcome has a definite probability of occurrence —called also variate"
+		]
+	},
+	{
+		"meta": {
+			"id": "random walk",
+			"uuid": "6220b40e-8cb9-47bb-9bfa-e4abce25b156",
+			"sort": "180418000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"random walk",
+				"random walks"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "random walk"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a process (such as Brownian motion or genetic drift) consisting of a sequence of steps (such as movements or changes in gene frequency) each of whose characteristics (such as magnitude and direction) is determined by chance"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1905",
+		"shortdef": [
+			"a process (such as Brownian motion or genetic drift) consisting of a sequence of steps (such as movements or changes in gene frequency) each of whose characteristics (such as magnitude and direction) is determined by chance"
+		]
+	},
+	{
+		"meta": {
+			"id": "RAM",
+			"uuid": "bd8c4810-3adc-48cf-ba56-fc2bc4d45204",
+			"sort": "180354000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"RAM",
+				"RAMs",
+				"random-access memory"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "RAM",
+			"prs": [
+				{
+					"mw": "ˈram",
+					"sound": {
+						"audio": "ram00002",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a computer memory on which data can be both read and written and on which the location of data does not affect the speed of its retrieval"
+									]
+								],
+								"sdsense": {
+									"sd": "especially",
+									"dt": [
+										[
+											"text",
+											"{bc}RAM that acts as the main storage available to the user for programs and data "
+										],
+										[
+											"ca",
+											{
+												"intro": "called also",
+												"cats": [
+													{
+														"cat": "random-access memory"
+													}
+												]
+											}
+										],
+										[
+											"text",
+											" {dx}compare {dxt|rom|ROM|}{\/dx}"
+										]
+									]
+								}
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"{it}r{\/it}andom-{it}a{\/it}ccess {it}m{\/it}emory"
+			]
+		],
+		"date": "1957",
+		"shortdef": [
+			"a computer memory on which data can be both read and written and on which the location of data does not affect the speed of its retrieval; especially : RAM that acts as the main storage available to the user for programs and data —called also random-access memory"
+		]
+	}
+]

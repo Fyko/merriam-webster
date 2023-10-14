@@ -1,0 +1,480 @@
+[
+  {
+    "meta": {
+      "id": "hoo-ha",
+      "uuid": "6680881a-74ad-49ce-8caa-93e3da83e751",
+      "sort": "080252100",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "hoo-ha",
+        "hoo-hah",
+        "hoo-hahs",
+        "hoo-has"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "hoo-ha",
+      "prs": [
+        {
+          "mw": "ˈhü-ˌhä",
+          "sound": {
+            "audio": "hooha001",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "vrs": [
+      {
+        "vl": "or less commonly",
+        "va": "hoo-hah"
+      }
+    ],
+    "fl": "noun",
+    "def": [
+      {
+        "sls": [
+          "informal"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a state or condition of excitement, agitation, or disturbance {bc}{sx|commotion||}, {sx|uproar||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "… she wore the jacket again … —wore it unapologetically knowing all the {wi}hoo-ha{/wi} it had caused …",
+                        "aq": {
+                          "auth": "Vanessa Friedman"
+                        }
+                      },
+                      {
+                        "t": "{ldquo}I remember one time there was a big {wi}hoo-hah{/wi} about a rare bird.{rdquo}",
+                        "aq": {
+                          "auth": "Lee Child"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "probably from Yiddish {it}hu-ha{/it} uproar, exclamation of surprise"
+      ]
+    ],
+    "date": "1931",
+    "shortdef": [
+      "a state or condition of excitement, agitation, or disturbance : commotion, uproar"
+    ]
+  },
+  {
+    "meta": {
+      "id": "boo-hoo",
+      "uuid": "c6a26ec1-72fb-479c-9e16-284da004e80f",
+      "sort": "020343050",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "boo hoo",
+        "boo hooed",
+        "boo hooing",
+        "boo hoos",
+        "boo-hoo",
+        "boo-hooed",
+        "boo-hooing",
+        "boo-hoos",
+        "boohoo",
+        "boohooed",
+        "boohooing",
+        "boohoos"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "boo-hoo",
+      "prs": [
+        {
+          "mw": "bü-ˈhü",
+          "sound": {
+            "audio": "boo-hoo_1",
+            "ref": "owl",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "ˈbü-ˌhü"
+        }
+      ]
+    },
+    "vrs": [
+      {
+        "vl": "or",
+        "va": "boo*hoo"
+      },
+      {
+        "vl": "or less commonly",
+        "va": "boo hoo"
+      }
+    ],
+    "fl": "verb",
+    "ins": [
+      {
+        "if": "boo-hooed"
+      },
+      {
+        "il": "or",
+        "if": "boo*hooed"
+      },
+      {
+        "if": "boo-hoo*ing"
+      },
+      {
+        "il": "or",
+        "if": "boo*hoo*ing"
+      }
+    ],
+    "def": [
+      {
+        "vd": "intransitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to weep loudly and with sobs "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "… even the impeccable Lord Jeffrey, editor of the {it}Edinburgh Review{/it}, confessed to having cried—blubbered, {wi}boohooed{/wi}, snuffled, and sighed—over the death of Little Nell in {it}The Old Curiosity Shop{/it}.",
+                        "aq": {
+                          "auth": "Tom Wolfe"
+                        }
+                      },
+                      {
+                        "t": "Joey kept {wi}boo-hooing{/wi} like a real idiot.",
+                        "aq": {
+                          "auth": "Christopher Paul Curtis"
+                        }
+                      }
+                    ]
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "often used as an interjection especially in mocking imitation of another's tears, complaints, unhappiness, etc. "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "Before she finished her question, one twin and then the other began to cry. \"{wi}Boohoo{/wi}, {wi}boohoo{/wi},\" Ernie mocked. \"I'm not staying with crybabies.\"",
+                              "aq": {
+                                "auth": "Nancy Smiler Levinson"
+                              }
+                            },
+                            {
+                              "t": "He said as long as I was being so pure, why not give her the real scoop on her old man? I said because it would crush her. {wi}Boo hoo{/wi}, he said.",
+                              "aq": {
+                                "auth": "George Saunders"
+                              }
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "boo-hoo",
+        "vrs": [
+          {
+            "vl": "or",
+            "va": "boohoo"
+          }
+        ],
+        "fl": "noun",
+        "ins": [
+          {
+            "il": "plural",
+            "if": "boo-hoos"
+          },
+          {
+            "il": "or",
+            "if": "boo*hoos"
+          }
+        ],
+        "utxt": [
+          [
+            "vis",
+            [
+              {
+                "t": "… the tough Garden crowd reacted with boos instead of {wi}boo-hoos{/wi}.",
+                "aq": {
+                  "auth": "Richard Johnson"
+                }
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "ure": "boo-hoo*ing",
+        "vrs": [
+          {
+            "vl": "or",
+            "va": "boo*hoo*ing"
+          }
+        ],
+        "fl": "noun",
+        "utxt": [
+          [
+            "vis",
+            [
+              {
+                "t": "\"Woman: cease this detestable {wi}boohooing{/wi} instantly; or else seek the shelter of some other place of worship.\"",
+                "aq": {
+                  "auth": "George Bernard Shaw"
+                }
+              },
+              {
+                "t": "No one feels good after being dumped. The loudest {wi}boo-hooing{/wi} seems to be coming from young people …",
+                "aq": {
+                  "auth": "Jane Bryant Quinn"
+                }
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "imitative"
+      ]
+    ],
+    "date": "1806",
+    "shortdef": [
+      "to weep loudly and with sobs —often used as an interjection especially in mocking imitation of another's tears, complaints, unhappiness, etc."
+    ]
+  },
+  {
+    "meta": {
+      "id": "whoo-hoo",
+      "uuid": "1a4d4ae3-1fbb-457f-9928-af709547f0f2",
+      "sort": "230147300",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "whoo-hoo",
+        "woo-hoo"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "whoo-hoo"
+    },
+    "fl": "interjection",
+    "cxs": [
+      {
+        "cxl": "variant spelling of",
+        "cxtis": [
+          {
+            "cxt": "woo-hoo"
+          }
+        ]
+      }
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "used to express exuberant delight or approval"
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "—used to express exuberant delight or approval"
+    ]
+  },
+  {
+    "meta": {
+      "id": "woo-hoo",
+      "uuid": "b7a0343a-c775-43a5-9b9f-16801849bfd1",
+      "sort": "230215700",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "whoo-hoo",
+        "woo-hoo"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "woo-hoo",
+      "prs": [
+        {
+          "mw": "ˈwü-ˈhü",
+          "sound": {
+            "audio": "woohoo02",
+            "ref": "u",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "ˌwü-"
+        }
+      ]
+    },
+    "vrs": [
+      {
+        "vl": "or",
+        "va": "whoo-hoo"
+      }
+    ],
+    "fl": "interjection",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "used to express exuberant delight or approval"
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1697",
+    "shortdef": [
+      "—used to express exuberant delight or approval"
+    ]
+  },
+  {
+    "meta": {
+      "id": "yoo-hoo",
+      "uuid": "f80122de-b704-4586-aa46-e7602baabe99",
+      "sort": "250251000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "yoo-hoo"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "yoo-hoo",
+      "prs": [
+        {
+          "mw": "ˈyü-(ˌ)hü",
+          "sound": {
+            "audio": "yooho01w",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "interjection",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "used to attract attention or as a call to persons"
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "probably alteration of {it}yo-ho{/it}, interjection used to attract attention {ma}{mat|yahoo|}{/ma}"
+      ]
+    ],
+    "date": "circa 1924",
+    "shortdef": [
+      "—used to attract attention or as a call to persons"
+    ]
+  }
+]

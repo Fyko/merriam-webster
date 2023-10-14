@@ -1,0 +1,400 @@
+[
+	{
+		"meta": {
+			"id": "mush:1",
+			"uuid": "abb2b76e-d137-4ba2-95ae-818774e103c8",
+			"sort": "134878000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"mush",
+				"mushes"
+			],
+			"offensive": false
+		},
+		"hom": 1,
+		"hwi": {
+			"hw": "mush",
+			"prs": [
+				{
+					"mw": "ˈməsh",
+					"sound": {
+						"audio": "mush0002",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"l": "especially in sense 3 also",
+					"mw": "ˈmu̇sh",
+					"sound": {
+						"audio": "mush0001",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}a thick porridge made with cornmeal boiled in water or milk"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}something soft and spongy or shapeless"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "3 a",
+								"dt": [
+									[
+										"text",
+										"{bc}weak sentimentality {bc}{sx|drivel||}"
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}mawkish amorousness"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"probably alteration of {it}mash{\/it}"
+			]
+		],
+		"date": "1671{ds||1||}",
+		"shortdef": [
+			"a thick porridge made with cornmeal boiled in water or milk",
+			"something soft and spongy or shapeless",
+			"weak sentimentality : drivel"
+		]
+	},
+	{
+		"meta": {
+			"id": "mush:2",
+			"uuid": "8a4922ef-b043-4c65-b23e-e904a5408721",
+			"sort": "134879000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"mush",
+				"mushed",
+				"mushes",
+				"mushing"
+			],
+			"offensive": false
+		},
+		"hom": 2,
+		"hwi": {
+			"hw": "mush",
+			"prs": [
+				{
+					"mw": "ˈməsh",
+					"sound": {
+						"audio": "mush0002",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "verb",
+		"ins": [
+			{
+				"if": "mushed"
+			},
+			{
+				"if": "mush*ing"
+			},
+			{
+				"if": "mush*es"
+			}
+		],
+		"def": [
+			{
+				"vd": "transitive verb",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sls": [
+									"chiefly dialectal"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}to reduce to a crumbly mass"
+									]
+								]
+							}
+						]
+					]
+				]
+			},
+			{
+				"vd": "intransitive verb",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sls": [
+									"of an airplane"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}to fly in a partly or nearly stalled condition"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "circa 1781{ds|t|||}",
+		"shortdef": [
+			"to reduce to a crumbly mass",
+			"to fly in a partly or nearly stalled condition"
+		]
+	},
+	{
+		"meta": {
+			"id": "mush:3",
+			"uuid": "75351954-fc5e-48f7-9779-b736f10d5560",
+			"sort": "134880000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"mush",
+				"mushed",
+				"mushes",
+				"mushing"
+			],
+			"offensive": false
+		},
+		"hom": 3,
+		"hwi": {
+			"hw": "mush",
+			"prs": [
+				{
+					"mw": "ˈməsh",
+					"sound": {
+						"audio": "mush0002",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "verb",
+		"ins": [
+			{
+				"if": "mushed"
+			},
+			{
+				"if": "mush*ing"
+			},
+			{
+				"if": "mush*es"
+			}
+		],
+		"def": [
+			{
+				"vd": "intransitive verb",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}to travel especially over snow with a sled drawn by dogs "
+									],
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"often used as a command to a dog team"
+												]
+											]
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"probably from French {it}marchons{\/it}, 1st plural imperative of {it}marcher{\/it} to move, march, from Middle French {it}marchier{\/it} {ma}{mat|march|}{\/ma}"
+			]
+		],
+		"date": "1862",
+		"shortdef": [
+			"to travel especially over snow with a sled drawn by dogs —often used as a command to a dog team"
+		]
+	},
+	{
+		"meta": {
+			"id": "mush:4",
+			"uuid": "503967a1-ff7c-46d2-bab9-689a965f86df",
+			"sort": "134881000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"mush",
+				"mushes"
+			],
+			"offensive": false
+		},
+		"hom": 4,
+		"hwi": {
+			"hw": "mush",
+			"prs": [
+				{
+					"mw": "ˈməsh",
+					"sound": {
+						"audio": "mush0002",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a trip especially across snow with a dog team"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1902",
+		"shortdef": [
+			"a trip especially across snow with a dog team"
+		]
+	},
+	{
+		"meta": {
+			"id": "one's brain turns into\/to mush",
+			"uuid": "52249e63-132a-4d3f-aa77-d58c255d12ab",
+			"sort": "3013495000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"her brain turns into mush",
+				"her brain turns to mush",
+				"his brain turns into mush",
+				"his brain turns to mush",
+				"one's brain turns into mush",
+				"one's brain turns into\/to mush",
+				"one's brain turns to mush",
+				"their brain turns into mush",
+				"their brain turns to mush"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "one's brain turns into\/to mush"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used to say that one is unable to think clearly or well "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "I was so tired {it}my brain turned into\/to mush{\/it}."
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"—used to say that one is unable to think clearly or well"
+		]
+	}
+]

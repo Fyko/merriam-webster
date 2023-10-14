@@ -1,0 +1,80 @@
+[
+	{
+		"meta": {
+			"id": "Mendelism",
+			"uuid": "0ad59385-ca7c-4190-bd78-ababa4bbc324",
+			"sort": "131833000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"Mendelism",
+				"Mendelisms",
+				"Mendelist",
+				"Mendelists"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "Men*del*ism",
+			"prs": [
+				{
+					"mw": "ˈmen-dᵊl-ˌi-zəm",
+					"sound": {
+						"audio": "mendel03",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}the principles or the operations of Mendel's laws"
+									]
+								],
+								"sdsense": {
+									"sd": "also",
+									"dt": [
+										[
+											"text",
+											"{bc}{sx|mendelian inheritance|Mendelian inheritance|}"
+										]
+									]
+								}
+							}
+						]
+					]
+				]
+			}
+		],
+		"uros": [
+			{
+				"ure": "Men*del*ist",
+				"prs": [
+					{
+						"mw": "ˈmen-dᵊl-ist",
+						"sound": {
+							"audio": "mendel04",
+							"ref": "c",
+							"stat": "1"
+						}
+					}
+				],
+				"fl": "adjective or noun"
+			}
+		],
+		"date": "1903",
+		"shortdef": [
+			"the principles or the operations of Mendel's laws; also : mendelian inheritance"
+		]
+	}
+]

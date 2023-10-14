@@ -1,0 +1,109 @@
+[
+	{
+		"meta": {
+			"id": "MILF",
+			"uuid": "e7feefdd-e8d5-4706-aa33-4ca99757ef9c",
+			"sort": "132667500",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"MILF",
+				"MILFs",
+				"milf",
+				"milfs"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "MILF",
+			"prs": [
+				{
+					"mw": "ˈmilf",
+					"sound": {
+						"audio": "milf",
+						"ref": "owl",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"vrs": [
+			{
+				"vl": "or less commonly",
+				"va": "milf"
+			}
+		],
+		"fl": "noun",
+		"ins": [
+			{
+				"il": "plural",
+				"if": "MILFs"
+			},
+			{
+				"il": "also",
+				"if": "milfs"
+			}
+		],
+		"def": [
+			{
+				"sls": [
+					"informal"
+				],
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a sexually attractive older woman and especially one who has children "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "My mother was a {wi}MILF{\/wi}. When she'd drop my older brother to high school, he'd get admiring looks from other boys, impressed not only by his hot older {ldquo}girlfriend{rdquo} but that she had a car.",
+												"aq": {
+													"auth": "Mia Freedman"
+												}
+											},
+											{
+												"t": "Don't know what {wi}MILF{\/wi} means? Don't look it up unless you're OK with profanity. Let's just say it's a reference to attractive older women and leave it at that.",
+												"aq": {
+													"auth": "Michele Kayal"
+												}
+											},
+											{
+												"t": "When Instagram users called her a {ldquo}certified {wi}milf{\/wi}{rdquo} and {ldquo}hot mama,{rdquo} the expectant star replied, {ldquo}Hahahaha gee thanks.{rdquo}",
+												"aq": {
+													"auth": "Riley Cardoza"
+												}
+											},
+											{
+												"t": "[Jessica] Porter suggests that {ldquo}we {wi}milfs{\/wi}{rdquo}—using {ldquo}{wi}milfs{\/wi}{rdquo} rather loosely, because she doesn't have kids, just a book to sell—\"have been waiting for the last two thousand years to get our sexuality back\".",
+												"aq": {
+													"auth": "V. J. D. Smith"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"{it}m{\/it}other {it}I{\/it}'d {it}l{\/it}ike to {it}f{\/it}uck"
+			]
+		],
+		"date": "1992",
+		"shortdef": [
+			"a sexually attractive older woman and especially one who has children"
+		]
+	}
+]

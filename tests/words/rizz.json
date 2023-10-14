@@ -1,0 +1,185 @@
+[
+  {
+    "meta": {
+      "id": "rizz:1",
+      "uuid": "67cddea9-34b7-4694-9ec5-53b55a8f07e0",
+      "sort": "183462250",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "rizz"
+      ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "rizz",
+      "prs": [
+        {
+          "mw": "ˈriz",
+          "sound": {
+            "audio": "riz_1",
+            "ref": "u",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sls": [
+          "slang"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}romantic appeal or charm "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "Ultimately, everyone has their own special sort of {wi}rizz{/wi}. Maybe it's a pick-up line (are you from Tennessee?) or the fact that they go to therapy (that's hot).",
+                        "aq": {
+                          "auth": "Alexis Morillo"
+                        }
+                      },
+                      {
+                        "t": "[Kai] Cenat dubbed his friend Duke the {ldquo}master{rdquo} of unspoken {wi}rizz{/wi} when Duke was able to have a woman giggling … with only a hand wave.",
+                        "aq": {
+                          "auth": "Emerald Pellot"
+                        }
+                      },
+                      {
+                        "t": "Saying you have {wi}rizz{/wi} is such an unattractive thing to say unironically while flirting …",
+                        "aq": {
+                          "auth": "@ArtsyVRC",
+                          "source": "on {it}Twitter{/it}"
+                        }
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "short for {et_link|charisma|charisma}"
+      ]
+    ],
+    "date": "2021",
+    "shortdef": [
+      "romantic appeal or charm"
+    ]
+  },
+  {
+    "meta": {
+      "id": "rizz:2",
+      "uuid": "bc9a5047-4a4e-4745-96aa-7340308d83b5",
+      "sort": "183462750",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "rizz",
+        "rizzed",
+        "rizzing",
+        "rizzes"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "rizz"
+    },
+    "fl": "verb",
+    "ins": [
+      {
+        "if": "rizzed"
+      },
+      {
+        "if": "rizz*ing"
+      },
+      {
+        "if": "rizz*es"
+      }
+    ],
+    "def": [
+      {
+        "vd": "transitive verb",
+        "sls": [
+          "slang"
+        ],
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to charm or seduce "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "… I think I accidentally {wi}rizzed{/wi} a girl at the mall at some point and now whenever she sees me she tries to be the one to check me out at the cashier …",
+                        "aq": {
+                          "auth": "@kohauro",
+                          "source": "on {it}Twitter{/it}"
+                        }
+                      }
+                    ]
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "usually used with {it}up{/it} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "… the boys are attempting to {wi}rizz{/wi} up nearby {d_link|hotties|hottie}.",
+                              "aq": {
+                                "auth": "Eva Kottou"
+                              }
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "derivative of {et_link|rizz:1|rizz:1}"
+      ]
+    ],
+    "date": "2021",
+    "shortdef": [
+      "to charm or seduce —usually used with up"
+    ]
+  }
+]

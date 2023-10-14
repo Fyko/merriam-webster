@@ -1,0 +1,576 @@
+[
+  {
+    "meta": {
+      "id": "Lincoln",
+      "uuid": "cb45e0fb-98c4-4e52-9110-56e9fa8db69a",
+      "sort": "120173000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "Lincoln",
+        "Lincolns"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "Lin*coln",
+      "prs": [
+        {
+          "mw": "ˈliŋ-kən",
+          "sound": {
+            "audio": "gglinc01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}any of an English breed of long-wooled mutton-type sheep"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "{it}Lincoln{/it}shire, England"
+      ]
+    ],
+    "date": "1837",
+    "shortdef": [
+      "any of an English breed of long-wooled mutton-type sheep"
+    ]
+  },
+  {
+    "meta": {
+      "id": "Lincoln:b1",
+      "uuid": "b815cd0a-89a9-4a4c-a5ef-295e6d487d98",
+      "sort": "303543000",
+      "src": "collegiate",
+      "section": "biog",
+      "stems": [
+        "Abe Lincoln",
+        "Abraham Lincoln",
+        "Honest Abe",
+        "Lincoln",
+        "Lincolnesque",
+        "Lincolnian",
+        "the Great Emancipator",
+        "the Rail-Splitter"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "Lin*coln",
+      "prs": [
+        {
+          "mw": "ˈliŋ-kən",
+          "sound": {
+            "audio": "gglinc01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "biographical name",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "Abraham 1809–1865 16th president of the U.S. (1861–65)"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "Lin*coln*esque",
+        "prs": [
+          {
+            "mw": "ˌliŋ-kə-ˈnesk",
+            "sound": {
+              "audio": "bixlin03",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "vrs": [
+          {
+            "vl": "or",
+            "va": "Lin*coln*ian",
+            "prs": [
+              {
+                "mw": "liŋ-ˈkō-nē-ən",
+                "sound": {
+                  "audio": "bixlin04",
+                  "ref": "c",
+                  "stat": "1"
+                }
+              }
+            ]
+          }
+        ],
+        "fl": "adjective"
+      }
+    ],
+    "shortdef": [
+      "Abraham 1809—1865 16th president of the U.S. (1861—65)"
+    ]
+  },
+  {
+    "meta": {
+      "id": "Lincoln:b2",
+      "uuid": "0453460b-ba8a-41a2-99ee-2ea8b84dc02b",
+      "sort": "303544000",
+      "src": "collegiate",
+      "section": "biog",
+      "stems": [
+        "Benjamin Lincoln",
+        "Lincoln"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "Lincoln"
+    },
+    "fl": "biographical name",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "Benjamin 1733–1810 American general in Revolution"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "Benjamin 1733—1810 American general in Revolution"
+    ]
+  },
+  {
+    "meta": {
+      "id": "Lincoln:g",
+      "uuid": "db08b033-88f6-4712-9771-c4deef580d02",
+      "sort": "280038000",
+      "src": "collegiate",
+      "section": "geog",
+      "stems": [
+        "Lincoln"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "Lin*coln",
+      "prs": [
+        {
+          "mw": "ˈliŋ-kən",
+          "sound": {
+            "audio": "gglinc01",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "geographical name",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "city in southeastern Nebraska {it}population{/it} 258,379 "
+                  ],
+                  [
+                    "snote",
+                    [
+                      [
+                        "t",
+                        "Lincoln is the capital of Nebraska."
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "city in eastern England {it}population{/it} 100,000 "
+                  ],
+                  [
+                    "snote",
+                    [
+                      [
+                        "t",
+                        "Lincoln is the capital of Lincolnshire."
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "city in southeastern Nebraska population 258,379",
+      "city in eastern England population 100,000"
+    ]
+  },
+  {
+    "meta": {
+      "id": "Lincolnshire:g",
+      "uuid": "4a162049-46c9-43b6-95f1-358ea663e0d1",
+      "sort": "280041000",
+      "src": "collegiate",
+      "section": "geog",
+      "stems": [
+        "Lincoln",
+        "Lincolnshire"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "Lin*coln*shire",
+      "prs": [
+        {
+          "mw": "ˈliŋ-kən-ˌshir",
+          "sound": {
+            "audio": "gglinc02",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "-shər"
+        }
+      ]
+    },
+    "vrs": [
+      {
+        "vl": "or",
+        "va": "Lincoln"
+      }
+    ],
+    "fl": "geographical name",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "county of eastern England bordering the North Sea; capital {a_link|Lincoln} {it}area{/it} 2354 square miles (6097 square kilometers), {it}population{/it} 713,653"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "county of eastern England bordering the North Sea; capital Lincoln area 2354 square miles (6097 square kilometers), population 713,653"
+    ]
+  },
+  {
+    "meta": {
+      "id": "Lincoln's Birthday",
+      "uuid": "d58a4421-3b41-4fee-bc4e-5743b1d0e3c1",
+      "sort": "120173200",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "Lincoln's Birthday",
+        "Lincoln's Birthdays"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "Lincoln's Birthday",
+      "prs": [
+        {
+          "mw": "ˈliŋ-kənz-",
+          "sound": {
+            "audio": "lincol04",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}February 12 observed as a legal holiday in many states of the U.S."
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the first Monday in February observed as a legal holiday by some states of the U.S."
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1898{ds||1||}",
+    "shortdef": [
+      "February 12 observed as a legal holiday in many states of the U.S.",
+      "the first Monday in February observed as a legal holiday by some states of the U.S."
+    ]
+  },
+  {
+    "meta": {
+      "id": "Lincoln Highway:g",
+      "uuid": "9cfcd830-c4b6-4b11-a270-b96ac5395f9e",
+      "sort": "280039000",
+      "src": "collegiate",
+      "section": "geog",
+      "stems": [
+        "Lincoln Highway"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "Lincoln Highway"
+    },
+    "fl": "geographical name",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "former highway 3332 miles (5361 kilometers) long from New York City to San Francisco completed in 1927 "
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "name later used locally for sections of the highway still in use"
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "former highway 3332 miles (5361 kilometers) long from New York City to San Francisco completed in 1927 —name later used locally for sections of the highway still in use"
+    ]
+  },
+  {
+    "meta": {
+      "id": "Lincoln Park:g",
+      "uuid": "19f3c0d3-6d30-439b-8daf-5cc6d6595077",
+      "sort": "280040000",
+      "src": "collegiate",
+      "section": "geog",
+      "stems": [
+        "Lincoln Park"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "Lincoln Park"
+    },
+    "fl": "geographical name",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "city in southeastern Michigan southwest of Detroit {it}population{/it} 38,144"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "city in southeastern Michigan southwest of Detroit population 38,144"
+    ]
+  },
+  {
+    "meta": {
+      "id": "Lincoln Tunnel:g",
+      "uuid": "c2305531-f60a-40ea-9d2b-f30909f07c7a",
+      "sort": "280042000",
+      "src": "collegiate",
+      "section": "geog",
+      "stems": [
+        "Lincoln Tunnel"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "Lincoln Tunnel"
+    },
+    "fl": "geographical name",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "vehicular tunnel 8216 feet (2504 meters) long under the Hudson River connecting New York (Manhattan Island) and New Jersey and having two tubes, the first of which opened in 1937"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "vehicular tunnel 8216 feet (2504 meters) long under the Hudson River connecting New York (Manhattan Island) and New Jersey and having two tubes, the first of which opened in 1937"
+    ]
+  },
+  {
+    "meta": {
+      "id": "Ellsworth:b1",
+      "uuid": "f40c68ed-d85d-41c7-94cb-cb16e9d5a91e",
+      "sort": "301803000",
+      "src": "collegiate",
+      "section": "biog",
+      "stems": [
+        "Ellsworth",
+        "Lincoln Ellsworth",
+        "William Ellsworth",
+        "William Linn Ellsworth"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "Ells*worth",
+      "prs": [
+        {
+          "mw": "ˈelz-(ˌ)wərth",
+          "sound": {
+            "audio": "bixell06",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "biographical name",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "Lincoln 1880–1951 American explorer"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "Lincoln 1880—1951 American explorer"
+    ]
+  }
+]

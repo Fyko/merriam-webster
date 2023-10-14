@@ -1,0 +1,62 @@
+[
+	{
+		"meta": {
+			"id": "faucet",
+			"uuid": "d51904f9-f20d-43b9-80cb-25fefd63bbf9",
+			"sort": "060568000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"faucet",
+				"faucets"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "fau*cet",
+			"prs": [
+				{
+					"mw": "ˈfȯ-sət",
+					"sound": {
+						"audio": "faucet01",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "ˈfä-"
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a fixture for drawing or regulating the flow of liquid especially from a pipe"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"Middle English, bung, faucet, from Middle French {it}fausset{\/it} bung, perhaps from {it}fausser{\/it} to damage, from Late Latin {it}falsare{\/it} to falsify, from Latin {it}falsus{\/it} false"
+			]
+		],
+		"date": "15th century",
+		"shortdef": [
+			"a fixture for drawing or regulating the flow of liquid especially from a pipe"
+		]
+	}
+]

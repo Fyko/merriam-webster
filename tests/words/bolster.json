@@ -1,0 +1,201 @@
+[
+	{
+		"meta": {
+			"id": "bolster:1",
+			"uuid": "7f91d75a-2fc2-4964-8178-0950f3d40371",
+			"sort": "020331100",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"bolster",
+				"bolsters"
+			],
+			"offensive": false
+		},
+		"hom": 1,
+		"hwi": {
+			"hw": "bol*ster",
+			"prs": [
+				{
+					"mw": "ˈbōl-stər",
+					"sound": {
+						"audio": "bolste01",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}a long pillow or cushion"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}a structural part designed to eliminate friction or provide support or bearing {dx_def}see {dxt|bearing|bearing|5}{\/dx_def}"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"Middle English, from Old English; akin to Old English {it}belg{\/it} bag {ma}{mat|belly|}{\/ma}"
+			]
+		],
+		"date": "before 12th century{ds||1||}",
+		"shortdef": [
+			"a long pillow or cushion",
+			"a structural part designed to eliminate friction or provide support or bearing"
+		]
+	},
+	{
+		"meta": {
+			"id": "bolster:2",
+			"uuid": "4acce8e1-7587-4fa8-9ce3-fd41129f37c4",
+			"sort": "020331200",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"bolster",
+				"bolstered",
+				"bolsterer",
+				"bolsterers",
+				"bolstering",
+				"bolsters"
+			],
+			"offensive": false
+		},
+		"hom": 2,
+		"hwi": {
+			"hw": "bolster"
+		},
+		"fl": "verb",
+		"ins": [
+			{
+				"if": "bol*stered"
+			},
+			{
+				"if": "bol*ster*ing",
+				"prs": [
+					{
+						"mw": "ˈbōl-st(ə-)riŋ",
+						"sound": {
+							"audio": "bolste03",
+							"ref": "c",
+							"stat": "1"
+						}
+					}
+				]
+			}
+		],
+		"def": [
+			{
+				"vd": "transitive verb",
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"dt": [
+									[
+										"text",
+										"{bc}to support with or as if with a {d_link|bolster|bolster:1} {bc}{sx|reinforce||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "lay {wi}bolstered{\/wi} up in bed"
+											},
+											{
+												"t": "extra men will {wi}bolster{\/wi} already augmented dock details",
+												"aq": {
+													"auth": "Stanley Levey"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}to give a boost to "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "news that {wi}bolstered{\/wi} his spirits"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"uros": [
+			{
+				"ure": "bol*ster*er",
+				"prs": [
+					{
+						"mw": "ˈbōl-stər-ər",
+						"sound": {
+							"audio": "bolste02",
+							"ref": "c",
+							"stat": "1"
+						}
+					}
+				],
+				"fl": "noun"
+			}
+		],
+		"et": [
+			[
+				"text",
+				"{dx_ety}see {dxt|bolster:1||}{\/dx_ety}"
+			]
+		],
+		"date": "1508{ds||1||}",
+		"shortdef": [
+			"to support with or as if with a bolster : reinforce",
+			"to give a boost to"
+		]
+	}
+]

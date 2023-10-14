@@ -1,0 +1,641 @@
+[
+	{
+		"meta": {
+			"id": "aesthetic:1",
+			"uuid": "07f5a427-43ca-4d98-96c6-c8117cdf9ed4",
+			"sort": "011169000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"aesthetic",
+				"aesthetical",
+				"aesthetically",
+				"esthetic",
+				"esthetical",
+				"esthetically"
+			],
+			"offensive": false
+		},
+		"hom": 1,
+		"hwi": {
+			"hw": "aes*thet*ic",
+			"prs": [
+				{
+					"mw": "es-ˈthe-tik",
+					"sound": {
+						"audio": "aesthe02",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "is-"
+				},
+				{
+					"l": "British usually",
+					"mw": "ēs-"
+				}
+			]
+		},
+		"vrs": [
+			{
+				"vl": "also US",
+				"va": "es*thet*ic"
+			},
+			{
+				"vl": "or",
+				"va": "aes*thet*i*cal"
+			},
+			{
+				"vl": "or US",
+				"va": "es*thet*i*cal",
+				"prs": [
+					{
+						"mw": "es-ˈthe-ti-kəl",
+						"sound": {
+							"audio": "aesthe03",
+							"ref": "c",
+							"stat": "1"
+						}
+					},
+					{
+						"mw": "is-"
+					},
+					{
+						"l": "British usually",
+						"mw": "ēs-"
+					}
+				]
+			}
+		],
+		"fl": "adjective",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1 a",
+								"dt": [
+									[
+										"text",
+										"{bc}of, relating to, or dealing with {d_link|aesthetics|aesthetic:2} or the beautiful "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}aesthetic{\/wi} theories"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|artistic||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "a work of {wi}aesthetic{\/wi} value"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "c",
+								"dt": [
+									[
+										"text",
+										"{bc}pleasing in appearance {bc}{sx|attractive||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "… easy-to-use keyboards, clear graphics, and other ergonomic and {wi}aesthetic{\/wi} features …",
+												"aq": {
+													"auth": "Mark Mehler"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}appreciative of, responsive to, or {d_link|zealous|zealous} about the beautiful"
+									]
+								],
+								"sdsense": {
+									"sd": "also",
+									"dt": [
+										[
+											"text",
+											"{bc}responsive to or appreciative of what is pleasurable to the senses "
+										],
+										[
+											"vis",
+											[
+												{
+													"t": "his {wi}aesthetic{\/wi} sensibility"
+												}
+											]
+										]
+									]
+								}
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "3",
+								"dt": [
+									[
+										"text",
+										"{bc}done or made to improve a person's appearance or to correct defects in a person's appearance "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}aesthetic{\/wi} plastic surgery"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"uros": [
+			{
+				"ure": "aes*thet*i*cal*ly",
+				"vrs": [
+					{
+						"vl": "or less commonly",
+						"va": "es*thet*i*cal*ly",
+						"prs": [
+							{
+								"mw": "es-ˈthe-ti-k(ə-)lē",
+								"sound": {
+									"audio": "aesthe04",
+									"ref": "c",
+									"stat": "1"
+								}
+							},
+							{
+								"mw": "is-"
+							},
+							{
+								"l": "British usually",
+								"mw": "ēs-"
+							}
+						]
+					}
+				],
+				"fl": "adverb"
+			}
+		],
+		"quotes": [
+			{
+				"t": "My generation has an annoying penchant for treating luxuries as necessities and turning guilty pleasures into {qword}aesthetic{\/qword} and even moral touchstones.",
+				"aq": {
+					"auth": "Terrence Rafferty",
+					"source": "{it}GQ{\/it}",
+					"aqdate": "October 1997"
+				}
+			},
+			{
+				"t": "I suppose that jazz listening and prizefight watching are my two most passionate avocations, and this is largely so because the origins of my {qword}aesthetic{\/qword} urges are in the black working class.",
+				"aq": {
+					"auth": "Gerald Early",
+					"source": "\"The Passing of Jazz's Old Guard: … \"",
+					"subsource": {
+						"source": "in {it}The Best American Essays 1986{\/it}, Elizabeth Hardwick & Robert Atwan, editors",
+						"aqdate": "1986"
+					}
+				}
+			},
+			{
+				"t": "Whereas the essence of Proust's {qword}aesthetic{\/qword} position was contained in the deceptively simple yet momentous assertion that \"a picture's beauty does not depend on the things portrayed in it.\"",
+				"aq": {
+					"auth": "Alain de Botton",
+					"source": "{it}How Proust Can Change Your Life{\/it}",
+					"aqdate": "1997"
+				}
+			}
+		],
+		"et": [
+			[
+				"text",
+				"borrowed from German {it}ästhetisch{\/it} \"pertaining to taste or discernment,\" borrowed from New Latin {it}aestheticus,{\/it} borrowed from Greek {it}aisthētikós{\/it} \"of sense perception, sensitive, perceptive,\" from {it}aisthētós{\/it} \"sensible, perceptible\" (verbal adjective of {it}aisthánomai, aisthánesthai{\/it} \"to perceive, take notice of, understand,\" going back to {it}*awis-t{sup}h{\/sup}-,{\/it} from {it}*awis-,{\/it} base of Greek {it}aḯein{\/it} \"to perceive, hear\" + {it}-t{sup}h{\/sup}-,{\/it} resultative noun suffix) + {it}-ikos{\/it} {et_link|-ic:1|-ic:1} {ma}{mat|audible:1|}{\/ma}"
+			],
+			[
+				"et_snote",
+				[
+					[
+						"t",
+						"German {it}aesthetisch\/ästhetisch{\/it} (New Latin {it}aestheticus{\/it}) was initially promulgated as a philosophical term in the work of Alexander Baumgarten (1714-62) and subsequently by Immanuel Kant."
+					]
+				]
+			]
+		],
+		"date": "1797{ds||1|a|}",
+		"shortdef": [
+			"of, relating to, or dealing with aesthetics or the beautiful",
+			"artistic",
+			"pleasing in appearance : attractive"
+		]
+	},
+	{
+		"meta": {
+			"id": "aesthetic:2",
+			"uuid": "74c0919a-4754-465b-a20c-ec1b37445ee4",
+			"sort": "011170000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"aesthetic",
+				"aesthetics",
+				"esthetic",
+				"esthetics"
+			],
+			"offensive": false
+		},
+		"hom": 2,
+		"hwi": {
+			"hw": "aes*thet*ic",
+			"prs": [
+				{
+					"mw": "es-ˈthe-tik",
+					"sound": {
+						"audio": "aesthe02",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "is-"
+				},
+				{
+					"l": "British usually",
+					"mw": "ēs-"
+				}
+			]
+		},
+		"vrs": [
+			{
+				"vl": "or less commonly",
+				"va": "es*thet*ic"
+			}
+		],
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1",
+								"ins": [
+									{
+										"if": "aes*thet*ics"
+									},
+									{
+										"il": "also",
+										"if": "es*thet*ics",
+										"prs": [
+											{
+												"mw": "es-ˈthe-tiks",
+												"sound": {
+													"audio": "aesth1s3",
+													"ref": "sd3",
+													"stat": "1"
+												}
+											},
+											{
+												"mw": "is-"
+											},
+											{
+												"l": "British usually",
+												"mw": "ēs-"
+											}
+										],
+										"spl": "plural in form but singular or plural in construction"
+									}
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}a branch of philosophy dealing with the nature of beauty, art, and {d_link|taste|taste:2} and with the creation and appreciation of beauty"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2",
+								"dt": [
+									[
+										"text",
+										"{bc}a particular theory or {d_link|conception|conception} of beauty or art {bc}a particular taste for or approach to what is pleasing to the senses and especially sight "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "modernist {wi}aesthetics{\/wi}"
+											},
+											{
+												"t": "staging new ballets which reflected the {wi}aesthetic{\/wi} of the new nation",
+												"aq": {
+													"auth": "Mary Clarke & Clement Crisp"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "3",
+								"ins": [
+									{
+										"if": "aesthetics"
+									},
+									{
+										"il": "also",
+										"if": "esthetics",
+										"spl": "plural"
+									}
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}a pleasing appearance or effect {bc}{sx|beauty||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "appreciated the {wi}aesthetics{\/wi} of the gemstones"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"borrowed from German {it}Ästhetik,{\/it} borrowed from New Latin {it}aesthetica,{\/it} from feminine of {it}aestheticus{\/it} {et_link|aesthetic:1|aesthetic:1} {ma}{mat|-ics|}{\/ma}"
+			]
+		],
+		"date": "1822{ds||1||}",
+		"shortdef": [
+			"a branch of philosophy dealing with the nature of beauty, art, and taste and with the creation and appreciation of beauty",
+			"a particular theory or conception of beauty or art : a particular taste for or approach to what is pleasing to the senses and especially sight",
+			"a pleasing appearance or effect : beauty"
+		]
+	},
+	{
+		"meta": {
+			"id": "esthete",
+			"uuid": "aeda14b4-1773-4799-838c-a074990c0b0b",
+			"sort": "050213700",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"aesthete",
+				"aesthetic",
+				"aesthetical",
+				"aesthetician",
+				"aestheticism",
+				"aestheticize",
+				"esthete",
+				"esthetic",
+				"esthetical",
+				"esthetician",
+				"estheticians",
+				"estheticism",
+				"estheticisms",
+				"estheticize",
+				"estheticized",
+				"estheticizes",
+				"estheticizing"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "es*thete"
+		},
+		"ahws": [
+			{
+				"hw": "esthetic"
+			},
+			{
+				"hw": "esthetical"
+			},
+			{
+				"hw": "esthetician"
+			},
+			{
+				"hw": "estheticism"
+			},
+			{
+				"hw": "estheticize"
+			}
+		],
+		"cxs": [
+			{
+				"cxl": "less common spellings of",
+				"cxtis": [
+					{
+						"cxt": "aesthete"
+					},
+					{
+						"cxt": "aesthetic"
+					},
+					{
+						"cxt": "aesthetical"
+					},
+					{
+						"cxt": "aesthetician"
+					},
+					{
+						"cxt": "aestheticism"
+					},
+					{
+						"cxt": "aestheticize"
+					}
+				]
+			}
+		],
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}one having or affecting sensitivity to the beautiful especially in art"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"one having or affecting sensitivity to the beautiful especially in art"
+		]
+	},
+	{
+		"meta": {
+			"id": "aesthetic distance",
+			"uuid": "3eadba72-2c55-494f-a355-d59599c0d118",
+			"sort": "011171000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"aesthetic distance",
+				"aesthetic distances"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "aesthetic distance"
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}the frame of reference that an artist creates by the use of technical devices in and around the work of art to differentiate it psychologically from reality"
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1867",
+		"shortdef": [
+			"the frame of reference that an artist creates by the use of technical devices in and around the work of art to differentiate it psychologically from reality"
+		]
+	},
+	{
+		"meta": {
+			"id": "non-aesthetic",
+			"uuid": "62f59787-485e-4a65-b7d6-9a023df48fe8",
+			"sort": "141258000",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"non-aesthetic"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "non-aes*thet*ic",
+			"prs": [
+				{
+					"mw": "ˌnän-es-ˈthe-tik",
+					"sound": {
+						"audio": "nonaesthetic_1",
+						"ref": "owl",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "-is-"
+				},
+				{
+					"l": "British usually",
+					"mw": "-ēs-"
+				}
+			]
+		},
+		"fl": "adjective",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}not of or relating to {d_link|aesthetics|aesthetic:2} or the arts {bc}not artistic {bc}not {d_link|aesthetic|aesthetic:1} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "her intellectual and {wi}non-aesthetic{\/wi} achievements"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1877",
+		"shortdef": [
+			"not of or relating to aesthetics or the arts : not artistic : not aesthetic"
+		]
+	}
+]

@@ -1,0 +1,1276 @@
+[
+	{
+		"meta": {
+			"id": "with",
+			"uuid": "49032352-b97a-4ab1-8766-1089f491a2bd",
+			"sort": "230194500",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"with"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "with",
+			"prs": [
+				{
+					"mw": "ˈwit͟h",
+					"sound": {
+						"audio": "with0001",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "ˈwith",
+					"sound": {
+						"audio": "with0002",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "wət͟h"
+				},
+				{
+					"mw": "wəth"
+				}
+			]
+		},
+		"fl": "preposition",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"sn": "1 a",
+								"dt": [
+									[
+										"text",
+										"{bc}in opposition to {bc}{sx|against||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "had a fight {wi}with{\/wi} his brother"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}so as to be separated or detached from "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "broke {wi}with{\/wi} her family"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "2 a",
+								"dt": [
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used as a function word to indicate a participant in an action, transaction, or arrangement "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "works {wi}with{\/wi} his father"
+														},
+														{
+															"t": "a talk {wi}with{\/wi} a friend"
+														},
+														{
+															"t": "got into an accident {wi}with{\/wi} the car"
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used as a function word to indicate the object of attention, behavior, or feeling "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "get tough {wi}with{\/wi} him"
+														},
+														{
+															"t": "angry {wi}with{\/wi} her"
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "c",
+								"dt": [
+									[
+										"text",
+										"{bc}in respect to {bc}so far as concerns "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "on friendly terms {wi}with{\/wi} all nations"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "d",
+								"dt": [
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used to indicate the object of an adverbial expression of imperative force "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "off {wi}with{\/wi} his head"
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "e",
+								"dt": [
+									[
+										"text",
+										"{bc}{sx|over||}, {sx|on||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "no longer has any influence {wi}with{\/wi} them"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "f",
+								"dt": [
+									[
+										"text",
+										"{bc}in the performance, operation, or use of "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "the trouble {wi}with{\/wi} this machine"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "3 a",
+								"dt": [
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used as a function word to indicate the object of a statement of comparison or equality "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "a dress identical {wi}with{\/wi} her hostess's"
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used as a function word to express agreement or sympathy "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "must conclude, {wi}with{\/wi} you, that the painting is a forgery"
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "c",
+								"dt": [
+									[
+										"text",
+										"{bc}on the side of {bc}{sx|for||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "if he's for lower taxes, I'm {wi}with{\/wi} him"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "d",
+								"dt": [
+									[
+										"text",
+										"{bc}as well as "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "can pitch {wi}with{\/wi} the best of them"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "4 a",
+								"dt": [
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used as a function word to indicate combination, accompaniment, presence, or addition "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "heat milk {wi}with{\/wi} honey"
+														},
+														{
+															"t": "went there {wi}with{\/wi} her"
+														},
+														{
+															"t": "his money, {wi}with{\/wi} his wife's, comes to a million"
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}inclusive of "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "costs $5 {wi}with{\/wi} the tax"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "5 a",
+								"dt": [
+									[
+										"text",
+										"{bc}in the judgment or estimation of "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "stood well {wi}with{\/wi} her classmates"
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}in or according to the experience or practice of "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}with{\/wi} many of us, our ideas seem to fall by the wayside",
+												"aq": {
+													"auth": "W. J. Reilly"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "6 a",
+								"dt": [
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used as a function word to indicate the means, cause, agent, or instrumentality "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "hit him {wi}with{\/wi} a rock"
+														},
+														{
+															"t": "pale {wi}with{\/wi} anger"
+														},
+														{
+															"t": "threatened {wi}with{\/wi} tuberculosis"
+														},
+														{
+															"t": "he amused the crowd {wi}with{\/wi} his antics"
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"sls": [
+									"archaic"
+								],
+								"dt": [
+									[
+										"text",
+										"{bc}by the direct act of"
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "7 a",
+								"dt": [
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used as a function word to indicate manner of action "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "ran {wi}with{\/wi} effort"
+														},
+														{
+															"t": "acknowledge your contribution {wi}with{\/wi} thanks"
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used as a function word to indicate an attendant fact or circumstance "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "stood there {wi}with{\/wi} his hat on"
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "c",
+								"dt": [
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used as a function word to indicate a result attendant on a specified action "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "got off {wi}with{\/wi} a light sentence"
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"pseq",
+							[
+								[
+									"sense",
+									{
+										"sn": "8 a (1)",
+										"dt": [
+											[
+												"text",
+												"{bc}in possession of {bc}{sx|having||} "
+											],
+											[
+												"vis",
+												[
+													{
+														"t": "came {wi}with{\/wi} good news"
+													}
+												]
+											]
+										]
+									}
+								],
+								[
+									"sense",
+									{
+										"sn": "(2)",
+										"dt": [
+											[
+												"text",
+												"{bc}in the possession or care of "
+											],
+											[
+												"vis",
+												[
+													{
+														"t": "left the money {wi}with{\/wi} her mother"
+													}
+												]
+											]
+										]
+									}
+								]
+							]
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}characterized or distinguished by "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "a person {wi}with{\/wi} a sharp nose"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "9 a",
+								"dt": [
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used as a function word to indicate a close association in time "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "{wi}with{\/wi} the outbreak of war they went home"
+														},
+														{
+															"t": "mellows {wi}with{\/wi} time"
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}in proportion to "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "the pressure varies {wi}with{\/wi} the depth"
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "10 a",
+								"dt": [
+									[
+										"text",
+										"{bc}in spite of {bc}{sx|notwithstanding||} "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "a really tip-top man, {wi}with{\/wi} all his wrongheadedness",
+												"aq": {
+													"auth": "H. J. Laski"
+												}
+											}
+										]
+									]
+								]
+							}
+						],
+						[
+							"sense",
+							{
+								"sn": "b",
+								"dt": [
+									[
+										"text",
+										"{bc}except for "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "finds that, {wi}with{\/wi} one group of omissions and one important addition, they reflect that curriculum",
+												"aq": {
+													"auth": "Gilbert Highet"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					],
+					[
+						[
+							"sense",
+							{
+								"sn": "11",
+								"dt": [
+									[
+										"text",
+										"{bc}in the direction of "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "{wi}with{\/wi} the wind"
+											},
+											{
+												"t": "{wi}with{\/wi} the grain"
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"Middle English, against, from, with, from Old English; akin to Old English {it}wither{\/it} against, Old High German {it}widar{\/it} against, back, Sanskrit {it}vi{\/it} apart"
+			]
+		],
+		"date": "before 12th century{ds||1|a|}",
+		"shortdef": [
+			"in opposition to : against",
+			"so as to be separated or detached from",
+			"—used as a function word to indicate a participant in an action, transaction, or arrangement"
+		]
+	},
+	{
+		"meta": {
+			"id": "withe",
+			"uuid": "73fbb22b-192e-4780-b1f8-ee6ca7d4bfac",
+			"sort": "230195200",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"with",
+				"withe",
+				"withes"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "withe",
+			"prs": [
+				{
+					"mw": "ˈwith",
+					"sound": {
+						"audio": "withe002",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "ˈwit͟h",
+					"sound": {
+						"audio": "with0001",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "ˈwīt͟h",
+					"sound": {
+						"audio": "withe001",
+						"ref": "c",
+						"stat": "1"
+					}
+				}
+			]
+		},
+		"fl": "noun",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}a slender flexible branch or twig"
+									]
+								],
+								"sdsense": {
+									"sd": "especially",
+									"dt": [
+										[
+											"text",
+											"{bc}one used as a band or line"
+										]
+									]
+								}
+							}
+						]
+					]
+				]
+			}
+		],
+		"et": [
+			[
+				"text",
+				"Middle English, from Old English {it}withthe{\/it}; akin to Old English {it}wīthig{\/it} withy"
+			]
+		],
+		"date": "before 12th century",
+		"shortdef": [
+			"a slender flexible branch or twig; especially : one used as a band or line"
+		]
+	},
+	{
+		"meta": {
+			"id": "with-it",
+			"uuid": "9df4ab3c-de37-40f7-a8f9-41c000bcb6d9",
+			"sort": "230196700",
+			"src": "collegiate",
+			"section": "alpha",
+			"stems": [
+				"with-it"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "with-it",
+			"prs": [
+				{
+					"mw": "ˈwi-t͟hət",
+					"sound": {
+						"audio": "withi02w",
+						"ref": "c",
+						"stat": "1"
+					}
+				},
+				{
+					"mw": "-thət"
+				}
+			]
+		},
+		"fl": "adjective",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}socially or culturally up-to-date "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "the intelligent, disaffected, {wi}with-it{\/wi} young",
+												"aq": {
+													"auth": "Eliot Fremont-Smith"
+												}
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"date": "1959",
+		"shortdef": [
+			"socially or culturally up-to-date"
+		]
+	},
+	{
+		"meta": {
+			"id": "with a bang",
+			"uuid": "2265df20-11d6-407c-b44f-1ce71dd290b7",
+			"sort": "3022719000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"with a bang"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "with a bang"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}in a sudden and exciting way "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "The movie begins\/starts {it}with a bang{\/it} and never slows down."
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"in a sudden and exciting way"
+		]
+	},
+	{
+		"meta": {
+			"id": "with a bump",
+			"uuid": "7fe2f2fe-5e71-45a2-995c-cf6962f60f19",
+			"sort": "3022720000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"with a bump"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "with a bump"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}with a sudden or jolting bounce "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "The airplane landed {it}with a bump{\/it}."
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"with a sudden or jolting bounce"
+		]
+	},
+	{
+		"meta": {
+			"id": "with a critical eye",
+			"uuid": "c9c62355-f3f8-4348-b51a-fe03cfb2df0f",
+			"sort": "3022722000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"with a critical eye"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "with a critical eye"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}in a manner using or involving careful judgment about the good and bad parts "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "We need to look at these proposed changes {it}with a critical eye{\/it} before we accept them."
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"in a manner using or involving careful judgment about the good and bad parts"
+		]
+	},
+	{
+		"meta": {
+			"id": "with alacrity",
+			"uuid": "16eee943-651a-462a-a427-9152452228a0",
+			"sort": "3022723000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"with alacrity"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "with alacrity"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}very quickly and willingly "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "She accepted the invitation {it}with alacrity{\/it}."
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"very quickly and willingly"
+		]
+	},
+	{
+		"meta": {
+			"id": "with (all) (due) respect",
+			"uuid": "dbb8b3d7-11e9-4aec-b25f-3421fd38e2f1",
+			"sort": "3022724000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"with (all) (due) respect",
+				"with all due respect",
+				"with respect"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "with (all) (due) respect"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"uns",
+										[
+											[
+												[
+													"text",
+													"used as a polite or formal way of saying that one disagrees with someone "
+												],
+												[
+													"vis",
+													[
+														{
+															"t": "{it}With all due respect{\/it}, I have to say I don't think your plan will work."
+														}
+													]
+												]
+											]
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"—used as a polite or formal way of saying that one disagrees with someone"
+		]
+	},
+	{
+		"meta": {
+			"id": "with all one's heart",
+			"uuid": "aab76a17-5d20-453f-98ed-fe31355307bb",
+			"sort": "3022725000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"with all her heart",
+				"with all his heart",
+				"with all one's heart",
+				"with all their heart"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "with all one's heart"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}in a very sincere and deeply felt way "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "I love him {it}with all my heart{\/it}."
+											},
+											{
+												"t": "She tried {it}with all her heart{\/it} to please them."
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"in a very sincere and deeply felt way"
+		]
+	},
+	{
+		"meta": {
+			"id": "with all one's might",
+			"uuid": "237a0a81-85f0-47d1-b73a-d6f0c4a60b5b",
+			"sort": "3022726000",
+			"src": "ld",
+			"section": "idioms",
+			"stems": [
+				"with all her might",
+				"with all his might",
+				"with all one's might",
+				"with all their might"
+			],
+			"offensive": false
+		},
+		"hwi": {
+			"hw": "with all one's might"
+		},
+		"fl": "idiom",
+		"def": [
+			{
+				"sseq": [
+					[
+						[
+							"sense",
+							{
+								"dt": [
+									[
+										"text",
+										"{bc}as hard as one can "
+									],
+									[
+										"vis",
+										[
+											{
+												"t": "He swung the bat {it}with all his might{\/it}."
+											}
+										]
+									]
+								]
+							}
+						]
+					]
+				]
+			}
+		],
+		"shortdef": [
+			"as hard as one can"
+		]
+	}
+]

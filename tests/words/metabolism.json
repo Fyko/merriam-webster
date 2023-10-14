@@ -1,0 +1,185 @@
+[
+  {
+    "meta": {
+      "id": "metabolism",
+      "uuid": "57c33ee3-3922-48aa-a725-80057561ac48",
+      "sort": "132095000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "metabolism",
+        "metabolisms"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "me*tab*o*lism",
+      "prs": [
+        {
+          "mw": "mə-ˈta-bə-ˌli-zəm",
+          "sound": {
+            "audio": "metabo03",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the sum of the processes in the buildup and destruction of {d_link|protoplasm|protoplasm}"
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "specifically",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the chemical changes in living cells by which energy is provided for vital processes and activities and new material is assimilated {dx_def}see {dxt|assimilate:1||1b}{/dx_def} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "Regular exercise can help to increase your {wi}metabolism{/wi}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the sum of the processes by which a particular substance is handled in the living body"
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "c",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the sum of the {d_link|metabolic|metabolic} activities taking place in a particular environment "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "the {wi}metabolism{/wi} of a lake"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|metamorphosis||2} "
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "usually used in combination "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "holo{it}metabolism{/it}"
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "{et_link|metabol(ic)|metabolic} + {et_link|-ism|-ism}, after French {it}métabolisme{/it} or German {it}Metabolismus{/it}"
+      ]
+    ],
+    "date": "1878{ds||1|a|}",
+    "shortdef": [
+      "the sum of the processes in the buildup and destruction of protoplasm; specifically : the chemical changes in living cells by which energy is provided for vital processes and activities and new material is assimilated",
+      "the sum of the processes by which a particular substance is handled in the living body",
+      "the sum of the metabolic activities taking place in a particular environment"
+    ]
+  },
+  {
+    "meta": {
+      "id": "basal metabolism",
+      "uuid": "09b4e2c9-9196-425e-8667-56b8cc0ee0ba",
+      "sort": "020080800",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "basal metabolism",
+        "basal metabolisms"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "basal metabolism"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}the turnover of energy in a fasting and resting organism using energy solely to maintain vital cellular activity, respiration, and circulation as measured by the basal metabolic rate"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1912",
+    "shortdef": [
+      "the turnover of energy in a fasting and resting organism using energy solely to maintain vital cellular activity, respiration, and circulation as measured by the basal metabolic rate"
+    ]
+  }
+]

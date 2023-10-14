@@ -1,0 +1,143 @@
+[
+  {
+    "meta": {
+      "id": "vagary",
+      "uuid": "c9b8a14d-01ea-4232-ae0f-9b70b05957ff",
+      "sort": "220004800",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "vagaries",
+        "vagary"
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "va*ga*ry",
+      "prs": [
+        {
+          "mw": "ˈvā-gə-rē",
+          "pun": ";",
+          "sound": {
+            "audio": "vagary01",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "və-ˈger-ē",
+          "sound": {
+            "audio": "vagary03",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "vā-",
+          "pun": ";"
+        },
+        {
+          "l": "also",
+          "mw": "ˈva-gə-rē",
+          "sound": {
+            "audio": "vagary02",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "ins": [
+      {
+        "il": "plural",
+        "ifc": "-ries",
+        "if": "va*ga*ries"
+      }
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}an erratic, unpredictable, or extravagant manifestation, action, or notion"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "syns": [
+      {
+        "pl": "synonyms",
+        "pt": [
+          [
+            "text",
+            "{sc}caprice{/sc} {sc}whim{/sc} {sc}vagary{/sc} {sc}crotchet{/sc} mean an irrational or unpredictable idea or desire. {sc}caprice{/sc} stresses lack of apparent motivation and suggests willfulness. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "by sheer {it}caprice{/it} she quit her job"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}whim{/sc} implies a fantastic, capricious turn of mind or inclination. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "an odd antique that was bought on a {it}whim{/it}"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}vagary{/sc} stresses the erratic, irresponsible character of the notion or desire. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "he had been prone to strange {it}vagaries{/it}"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}crotchet{/sc} implies an eccentric opinion or preference. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "a serious scientist equally known for his bizarre {it}crotchets{/it}"
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "perhaps borrowed from Latin {it}vagārī{/it} \"to wander, roam\" {ma}{mat|vagabond:2|}{/ma}"
+      ]
+    ],
+    "date": "1579",
+    "shortdef": [
+      "an erratic, unpredictable, or extravagant manifestation, action, or notion"
+    ]
+  }
+]
