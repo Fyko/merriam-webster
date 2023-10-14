@@ -1,6 +1,6 @@
 [package]
 name = "merriam-webster-model"
-version = "0.1.0"
+version = "0.2.0"
 edition.workspace = true
 description = "Models for the Merriam Webster's Dictionary API"
 homepage.workspace = true
