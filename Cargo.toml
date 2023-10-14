@@ -2,7 +2,8 @@
 members = [
 	"examples",
 	"merriam-webster-http",
-	"merriam-webster-model"
+	"merriam-webster-model",
+	"merriam-webster-transformers"
 ]
 resolver = "2"
 
