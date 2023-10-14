@@ -1,0 +1,23 @@
+[package]
+name = "examples"
+version = "0.0.0"
+edition.workspace = true
+publish = false
+license.workspace = true
+
+[dependencies]
+anyhow = "1"
+merriam-webster-http = { path = "../merriam-webster-http" }
+merriam-webster-model = { path = "../merriam-webster-model" }
+rand = "0.8"
+tokio = { default-features = false, features = ["macros", "signal", "rt-multi-thread"], version = "1.0" }
+tracing = "0.1"
+tracing-subscriber = { default-features = false, features = ["fmt", "tracing-log"], version = "0.3" }
+
+[[example]]
+name = "definition"
+path = "src/definition.rs"
+
+[[example]]
+name = "top-words"
+path = "src/top-words.rs"
