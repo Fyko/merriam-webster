@@ -1,7 +1,7 @@
 //! HTTP connectors with different features.
-//! 
+//!
 //! Borrowed from [twilight-http](https://github.com/twilight-rs/twilight/blob/bebc7f16b048d19194416fe2faad4e6d6b8a6738/twilight-http/src/client/connector.rs)
-//! 
+//!
 //! ISC License (ISC) - Copyright (c) 2019 (c) The Twilight Contributors
 
 /// HTTPS connector using `rustls` as a TLS backend.

@@ -11,7 +11,10 @@ async fn main() -> anyhow::Result<()> {
 
     let top_words = client.top_words().await?;
 
-    println!("The current top words are: {}", top_words.data.words.join(", "));
+    println!(
+        "The current top words are: {}",
+        top_words.data.words.join(", ")
+    );
 
     Ok(())
 }

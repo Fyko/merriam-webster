@@ -4,7 +4,7 @@ use error::MerriamWebsterError;
 use hyper::{
     client::Client as HyperClient,
     header::{CONTENT_TYPE, USER_AGENT},
-    Body, Method, Request
+    Body, Method, Request,
 };
 use merriam_webster_model::{entry::Entry, top_words::APIGetTopWordsJSONResponse};
 use secrecy::{ExposeSecret, Secret};
@@ -42,7 +42,10 @@ impl MerriamWebsterClient {
     ) -> Result<Vec<Entry>, MerriamWebsterError> {
         let request = Request::builder()
             .method(Method::GET)
-            .uri(format!("https://www.dictionaryapi.com/api/v3/references/collegiate/json/{word}?key={}", self.key.expose_secret()))
+            .uri(format!(
+                "https://www.dictionaryapi.com/api/v3/references/collegiate/json/{word}?key={}",
+                self.key.expose_secret()
+            ))
             .header(USER_AGENT, MERRIAM_WEBSTER_USER_AGENT)
             .header(CONTENT_TYPE, "application/json")
             .body(Body::from(vec![0; 0]))
