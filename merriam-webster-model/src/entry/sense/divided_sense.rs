@@ -1,4 +1,4 @@
-use crate::{
+use crate::entry::{
     etymology::Etymology,
     inflections::Inflections,
     labels::{GeneralLabels, SenseSpecificGrammaticalLabel, SubjectStatusLabels},

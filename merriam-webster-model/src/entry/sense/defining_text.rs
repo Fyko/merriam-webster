@@ -1,4 +1,4 @@
-use crate::{
+use crate::entry::{
     biographical_name_wrap::BiographicalNameWrap, called_also_note::CalledAlsoNote, run_in::RunIn,
     supplemental_information_note::SupplementalInformationNote, usage_notes::UsageNotes,
     verbal_illustrations::VerbalIllustrations,

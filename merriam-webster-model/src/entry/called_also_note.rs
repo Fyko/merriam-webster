@@ -1,4 +1,4 @@
-use crate::{labels::ParenthesizedSubjectStatusLabel, pronunciations::Pronunciations};
+use super::{labels::ParenthesizedSubjectStatusLabel, pronunciations::Pronunciations};
 
 pub type CalledAlsoNote = (CalledAlsoNoteKey, InnerCalledAlsoNote);
 

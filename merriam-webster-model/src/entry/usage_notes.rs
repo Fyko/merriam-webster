@@ -1,4 +1,4 @@
-use crate::{run_in::RunIn, verbal_illustrations::VerbalIllustrations};
+use super::{run_in::RunIn, verbal_illustrations::VerbalIllustrations};
 
 pub type UsageNotes = (UsageNotesKey, Vec<UsageNote>);
 

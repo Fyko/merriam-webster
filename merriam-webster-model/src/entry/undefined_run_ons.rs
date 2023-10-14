@@ -1,23 +1,24 @@
-use crate::{
+use super::{
     inflections::Inflections,
-    labels::{GeneralLabels, ParenthesizedSubjectStatusLabel, SubjectStatusLabels},
+    labels::{
+        FunctionalLabel, GeneralLabels, ParenthesizedSubjectStatusLabel, SubjectStatusLabels,
+    },
     pronunciations::Pronunciations,
-    sense::definition_section::DefinitionSections,
     usage_notes::UsageNotes,
     variants::Variants,
     verbal_illustrations::VerbalIllustrations,
 };
 
-pub type DefinedRunOns = Vec<DefinedRunOn>;
+pub type UndefinedRunOns = Vec<UndefinedRunOn>;
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
-pub struct DefinedRunOn {
-    #[serde(rename = "drp")]
-    pub value: Option<String>,
-    #[serde(rename = "def")]
-    pub definitions: DefinitionSections,
+pub struct UndefinedRunOn {
+    #[serde(rename = "ure")]
+    pub name: Option<String>,
+    #[serde(rename = "fl")]
+    pub functional_label: FunctionalLabel,
     #[serde(rename = "utxt")]
-    pub text: Option<Vec<DefinedRunOnText>>,
+    pub text: Option<Vec<UndefinedRunOnText>>,
     #[serde(rename = "ins")]
     pub inflections: Option<Inflections>,
     #[serde(rename = "lbs")]
@@ -34,7 +35,7 @@ pub struct DefinedRunOn {
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 #[serde(untagged)]
-pub enum DefinedRunOnText {
+pub enum UndefinedRunOnText {
     VerbalIllustrations(VerbalIllustrations),
     UsageNotes(UsageNotes),
 }

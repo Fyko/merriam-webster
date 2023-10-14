@@ -1,9 +1,6 @@
-#[macro_use]
-extern crate serde;
-
-pub mod labels;
 pub mod sense;
 
+pub mod labels;
 pub mod alternate_headwords;
 pub mod artwork;
 pub mod attribution_of_quote;
@@ -31,3 +28,6 @@ pub mod usage_notes;
 pub mod usage_section;
 pub mod variants;
 pub mod verbal_illustrations;
+
+pub use entry::Entry;
+pub use sense::Sense;

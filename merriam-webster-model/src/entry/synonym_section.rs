@@ -1,4 +1,4 @@
-use crate::verbal_illustrations::VerbalIllustrations;
+use super::verbal_illustrations::VerbalIllustrations;
 
 pub type SynonymSection = Vec<SynonymDiscussion>;
 

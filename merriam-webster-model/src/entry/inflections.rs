@@ -1,4 +1,4 @@
-use crate::{labels::SenseSpecificInflectionPluralLabel, pronunciations::Pronunciations};
+use super::{labels::SenseSpecificInflectionPluralLabel, pronunciations::Pronunciations};
 
 pub type Inflections = Vec<Inflection>;
 

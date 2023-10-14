@@ -1,5 +1,5 @@
 use super::sense_number::SenseNumber;
-use crate::{
+use crate::entry::{
     etymology::Etymology,
     inflections::Inflections,
     labels::{GeneralLabels, SenseSpecificGrammaticalLabel, SubjectStatusLabels},

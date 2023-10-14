@@ -1,4 +1,4 @@
-use crate::pronunciations::Pronunciations;
+use super::pronunciations::Pronunciations;
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct HeadwordInformation {

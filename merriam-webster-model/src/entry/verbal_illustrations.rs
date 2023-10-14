@@ -1,4 +1,4 @@
-use crate::attribution_of_quote::AttributionOfQuote;
+use super::attribution_of_quote::AttributionOfQuote;
 
 pub type VerbalIllustrations = (VerbalIllustrationsKey, VerbalIllustration);
 

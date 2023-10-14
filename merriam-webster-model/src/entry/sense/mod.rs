@@ -8,7 +8,7 @@ pub mod sense_sequence;
 pub mod truncated_sense;
 pub mod verb_divider;
 
-use crate::{
+use super::{
     etymology::Etymology,
     inflections::Inflections,
     labels::{GeneralLabels, SenseSpecificGrammaticalLabel, SubjectStatusLabels},
